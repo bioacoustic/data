@@ -24,7 +24,7 @@
         "Sound_Level_All": "",
         "Sound_Level_Day": "",
         "Photo1_Caption":"Site in dead pines; photo looking south",
-        "Photo2_Caption":"Site in dead trees; photo looking west",
+        "Photo2_Caption":"Site in dead trees; photo looking west"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +42,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "24-29 Aug 2007",
-        "Habitat": "Conifer Forest"
+        "Habitat": "Conifer Forest",
         "Photo1": "GRTEBEC2.jpg",
         "Photo2": "",
         "Spectrogram1": "",
@@ -57,7 +57,7 @@
         "Sound_Level_All": "",
         "Sound_Level_Day": "",
         "Photo1_Caption":"Site in regenerating pines; photo looking west",
-        "Photo2_Caption":"",
+        "Photo2_Caption":""
       },
       "geometry": {
         "type": "Point",
@@ -75,7 +75,7 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "7-29 Mar 2006",
-        "Habitat": "Conifer Forest"
+        "Habitat": "Conifer Forest",
         "Photo1": "GRTEBECR.jpg",
         "Photo2": "",
         "Spectrogram1": "",
@@ -90,7 +90,7 @@
         "Sound_Level_All": "",
         "Sound_Level_Day": "",
         "Photo1_Caption":"Site in residential area; photo looking west",
-        "Photo2_Caption":"",
+        "Photo2_Caption":""
       },
       "geometry": {
         "type": "Point",
@@ -108,7 +108,7 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "8-10 Feb 2003",
-        "Habitat": "Sage Brush"
+        "Habitat": "Sage Brush",
         "Photo1": "GRTEBTBU.jpg",
         "Photo2": "",
         "Spectrogram1": "",
@@ -123,7 +123,7 @@
         "Sound_Level_All": "",
         "Sound_Level_Day": "",
         "Photo1_Caption":"Site in swale south of Blacktail Butte; photo looking northwest",
-        "Photo2_Caption":"",
+        "Photo2_Caption":""
       },
       "geometry": {
         "type": "Point",
@@ -141,7 +141,7 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "28 Jan-19 May 2005",
-        "Habitat": "Open Mixed Forest"        
+        "Habitat": "Open Mixed Forest",        
         "Photo1": "GRTECABA(2).jpg",
         "Photo2": "",
         "Spectrogram1": "",
@@ -156,7 +156,7 @@
         "Sound_Level_All": "",
         "Sound_Level_Day": "",
         "Photo1_Caption":"Site in backyard of vacant house; photo looking west",
-        "Photo2_Caption":"",
+        "Photo2_Caption":""
       },
       "geometry": {
         "type": "Point",
@@ -174,7 +174,7 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "18-27 Mar 2004",
-        "Habitat": "Open Mixed Forest"        
+        "Habitat": "Open Mixed Forest",        
         "Photo1": "GRTECBLD.jpg",
         "Photo2": "",
         "Spectrogram1": "",
@@ -189,7 +189,7 @@
         "Sound_Level_All": "",
         "Sound_Level_Day": "",
         "Photo1_Caption":"Site at edge of Jackson Lake in trees; photo looking west",
-        "Photo2_Caption":"",
+        "Photo2_Caption":""
       },
       "geometry": {
         "type": "Point",
@@ -207,7 +207,7 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "9 Feb-13 May 2005",
-        "Habitat": "Open Mixed Forest"        
+        "Habitat": "Open Mixed Forest",        
         "Photo1": "GRTECBPA.jpg",
         "Photo2": "",
         "Spectrogram1": "",
@@ -222,7 +222,7 @@
         "Sound_Level_All": "",
         "Sound_Level_Day": "",
         "Photo1_Caption":"Site under tree near summer picnic area; photo looking northwest",
-        "Photo2_Caption":"",
+        "Photo2_Caption":""
       },
       "geometry": {
         "type": "Point",
@@ -240,7 +240,7 @@
         "Unit_Code": "GRTE",
         "Season": "Winter",
         "Year": "2-5 Jan 2003",
-        "Habitat": "Open Mixed Forest"        
+        "Habitat": "Open Mixed Forest",        
         "Photo1": "GRTECBLP.jpg",
         "Photo2": "",
         "Spectrogram1": "",
@@ -255,7 +255,7 @@
         "Sound_Level_All": "",
         "Sound_Level_Day": "",
         "Photo1_Caption":"Site just off turnaround loop; photo looking north",
-        "Photo2_Caption":"",
+        "Photo2_Caption":""
       },
       "geometry": {
         "type": "Point",
@@ -273,7 +273,7 @@
         "Unit_Code": "GRTE",
         "Season": "Summer",
         "Year": "1-8 Aug 2005",
-        "Habitat": "Conifer Forest"        
+        "Habitat": "Conifer Forest",        
         "Photo1": "GRTECABA.jpg",
         "Photo2": "",
         "Spectrogram1": "",
@@ -288,7 +288,7 @@
         "Sound_Level_All": "",
         "Sound_Level_Day": "",
         "Photo1_Caption":"Site next to large glacial eratic; photo looking northeast",
-        "Photo2_Caption":"",
+        "Photo2_Caption":""
       },
       "geometry": {
         "type": "Point",
@@ -306,7 +306,22 @@
         "Unit_Code": "JODR",
         "Season": "Winter",
         "Year": "2-6 Jan 2003",
-        "Habitat": "Conifer Forest"
+        "Habitat": "Conifer Forest",        
+        "Photo1": "GRTEFLSO.jpg",
+        "Photo2": "",
+        "Spectrogram1": "",
+        "Spectrogram2": "",
+        "Spectrogram3": "",
+        "Spectrogram4": "",
+        "Acoustic_Portrait": "",
+        "Acoustic_Summary": "",
+        "Days": ,
+        "Hours": ,
+        "All_Hours": "": "",
+        "Sound_Level_All": "",
+        "Sound_Level_Day": "",
+        "Photo1_Caption":"Site 100 feet from road; photo looking southwest",
+        "Photo2_Caption":""
       },
       "geometry": {
         "type": "Point",
@@ -324,7 +339,22 @@
         "Unit_Code": "JODR",
         "Season": "Winter",
         "Year": "28-30 Jan 2011",
-        "Habitat": "Conifer Forest"
+        "Habitat": "Conifer Forest",        
+        "Photo1": "GRTEGRL2.jpg",
+        "Photo2": "",
+        "Spectrogram1": "",
+        "Spectrogram2": "",
+        "Spectrogram3": "",
+        "Spectrogram4": "",
+        "Acoustic_Portrait": "",
+        "Acoustic_Summary": "",
+        "Days": ,
+        "Hours": ,
+        "All_Hours": "": "",
+        "Sound_Level_All": "",
+        "Sound_Level_Day": "",
+        "Photo1_Caption":"Site in down the trail in thick forest; photo looking west",
+        "Photo2_Caption":""
       },
       "geometry": {
         "type": "Point",
@@ -342,7 +372,22 @@
         "Unit_Code": "JODR",
         "Season": "Mixed",
         "Year": "4 Jan-24 May 005",
-        "Habitat": "Meadow"
+        "Habitat": "Meadow",       
+        "Photo1": "GRTEGRLR.jpg",
+        "Photo2": "",
+        "Spectrogram1": "",
+        "Spectrogram2": "",
+        "Spectrogram3": "",
+        "Spectrogram4": "",
+        "Acoustic_Portrait": "",
+        "Acoustic_Summary": "",
+        "Days": ,
+        "Hours": ,
+        "All_Hours": "": "",
+        "Sound_Level_All": "",
+        "Sound_Level_Day": "",
+        "Photo1_Caption":"Site at edge of large meadow; photo looking east-southeast",
+        "Photo2_Caption":""
       },
       "geometry": {
         "type": "Point",
@@ -360,7 +405,22 @@
         "Unit_Code": "GRTE",
         "Season": "Mixed",
         "Year": "8 May 2007-18 Aug 2010",
-        "Habitat": "Developed"
+        "Habitat": "Developed" ,        
+        "Photo1": "GRTEHQOF.jpg",
+        "Photo2": "",
+        "Spectrogram1": "",
+        "Spectrogram2": "",
+        "Spectrogram3": "",
+        "Spectrogram4": "",
+        "Acoustic_Portrait": "",
+        "Acoustic_Summary": "",
+        "Days": ,
+        "Hours": ,
+        "All_Hours": "": "",
+        "Sound_Level_All": "",
+        "Sound_Level_Day": "",
+        "Photo1_Caption":"Site on temporary office trailer; photo looking west",
+        "Photo2_Caption":""
       },
       "geometry": {
         "type": "Point",
