@@ -1146,7 +1146,7 @@
                 "Season": "Summer",
                 "Year": "11-16 Jul 2008",
                 "Habitat": "Conifer Forest",
-                "Photo1": ".jpg", 
+                "Photo1": "GRTEPETR_summer.jpg", 
                 "Spectrogram1": "",
                 "Spectrogram2": "",
                 "Acoustic_Summary": "",
@@ -1155,7 +1155,7 @@
                 "All_Hours": "",
                 "Sound_Level_All": "",
                 "Sound_Level_Day": "",
-                "Photo1_Caption": ""
+                "Photo1_Caption": "Site along little used trail; photo looking south "
             },
             "geometry": {
                 "type": "Point",
@@ -1174,8 +1174,7 @@
                 "Season": "Winter",
                 "Year": "17-23 Feb 2007",
                 "Habitat": "Conifer Forest",
-                "Photo1": "GRTEPETR_summer.jpg", 
-                "Photo2": "GRTEPETR_winter.jpg",
+                "Photo1": "GRTEPETR_winter.jpg", 
                 "Spectrogram1": "",
                 "Spectrogram2": "",
                 "Acoustic_Summary": "",
@@ -1184,8 +1183,7 @@
                 "All_Hours": "",
                 "Sound_Level_All": "",
                 "Sound_Level_Day": "",
-                "Photo1_Caption": "Site along little used trail; photo looking south",
-                "Photo2_Caption": "”Site along little used trail; photo looking south"
+                "Photo1_Caption": "Site along little used trail; photo looking south"
             },
             "geometry": {
                 "type": "Point",
