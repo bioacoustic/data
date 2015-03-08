@@ -552,7 +552,7 @@
                 "Season": "Winter",
                 "Year": "9-19 Feb 2003",
                 "Habitat": "Conifer Forest",
-                "Photo1": "GRTTEJLSL.jpg",
+                "Photo1": "GRTEJLSL.jpg",
                 "Spectrogram1": "",
                 "Spectrogram2": "",
                 "Acoustic_Summary": "",
@@ -609,7 +609,7 @@
                 "Year": "15-30 Aug 2008",
                 "Habitat": "Rocky High Elevation",
                 "Photo1": "GRTELOSA_north.jpg",
-                "Photo2": "GRTELOSA.west.jpg",
+                "Photo2": "GRTELOSA_west.jpg",
                 "Spectrogram1": "",
                 "Spectrogram2": "",
                 "Acoustic_Summary": "",
@@ -739,7 +739,7 @@
                 "type": "Point",
                 "coordinates": [
                     -110.50639,
-                    43.77545
+                    43.77845
                 ]
             }
         },
@@ -864,7 +864,7 @@
                 "Season": "Summer",
                 "Year": "16 Jul-19 Aug 2014",
                 "Habitat": "Sage Brush",
-                "Photo1": "GRTESCL2_west",
+                "Photo1": "GRTESCL2.jpg",
                 "Spectrogram1": "",
                 "Spectrogram2": "",
                 "Acoustic_Summary": "",
@@ -873,7 +873,7 @@
                 "All_Hours": "",
                 "Sound_Level_All": "",
                 "Sound_Level_Day": "",
-                "Photo1_Caption": "Site at edge of early homesteader rock pile; photo looking west "
+                "Photo1_Caption": " "
             },
             "geometry": {
                 "type": "Point",
@@ -891,7 +891,17 @@
                 "Unit_Code": "GRTE",
                 "Season": "Summer",
                 "Year": "28 Jul-13 Sep 2006",
-                "Habitat": "Open Deciduous Forest"
+                "Habitat": "Open Deciduous Forest",
+                "Photo1": "GRTESRSN_southeast.jpg",
+                "Spectrogram1": "",
+                "Spectrogram2": "",
+                "Acoustic_Summary": "",
+                "Days": "",
+                "Hours": "",
+                "All_Hours": "",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Site near Snake River; photo looking southeast"
             },
             "geometry": {
                 "type": "Point",
@@ -909,7 +919,17 @@
                 "Unit_Code": "GRTE",
                 "Season": "Summer",
                 "Year": "30 Apr-3 Jun 2010",
-                "Habitat": "Sage Brush"
+                "Habitat": "Sage Brush",
+                "Photo1": "GRTESTGL_south.jpg",
+                "Spectrogram1": "",
+                "Spectrogram2": "",
+                "Acoustic_Summary": "",
+                "Days": "",
+                "Hours": "",
+                "All_Hours": "",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Site in tall sage brush; photo looking south"
             },
             "geometry": {
                 "type": "Point",
@@ -926,8 +946,18 @@
                 "Site_Name": "Timbered Island",
                 "Unit_Code": "GRTE",
                 "Season": "Mixed",
-                "Year": "2 Oct-15 Nov 2002,  9 Feb-23 Jul 2003",
-                "Habitat": "Sage Brush"
+                "Year": "2 Oct-15 Nov 2002, 9 Feb-23 Jul 2003",
+                "Habitat": "Sage Brush",
+                "Photo1": "GRTETIIS_northwest.jpg",
+                "Spectrogram1": "",
+                "Spectrogram2": "",
+                "Acoustic_Summary": "",
+                "Days": "",
+                "Hours": "",
+                "All_Hours": "",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Site co-located with weather station; photo looking northwest"
             },
             "geometry": {
                 "type": "Point",
@@ -945,7 +975,17 @@
                 "Unit_Code": "JODR",
                 "Season": "Winter",
                 "Year": "10-20 Feb 2003,  4 Dec 2003-29 Mar 2004",
-                "Habitat": "Open Conifer Forest"
+                "Habitat": "Open Conifer Forest",
+                "Photo1": "GRTEFLRS.jpg",
+                "Spectrogram1": "",
+                "Spectrogram2": "",
+                "Acoustic_Summary": "",
+                "Days": "",
+                "Hours": "",
+                "All_Hours": "",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Site near Ranger Station; photo looking northeast"
             },
             "geometry": {
                 "type": "Point",
@@ -963,7 +1003,17 @@
                 "Unit_Code": "GRTE",
                 "Season": "Mixed",
                 "Year": "14 Jan 2004-11 Feb 2005",
-                "Habitat": "Open Conifer Forest"
+                "Habitat": "Open Conifer Forest",
+                "Photo1": "GRTETRLG.jpg",
+                "Spectrogram1": "",
+                "Spectrogram2": "",
+                "Acoustic_Summary": "",
+                "Days": "",
+                "Hours": "",
+                "All_Hours": "",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Site in small island of pine; photo looking north"
             },
             "geometry": {
                 "type": "Point",
@@ -981,7 +1031,19 @@
                 "Unit_Code": "GRTE",
                 "Season": "Mixed",
                 "Year": "2 Feb 2004-7 Feb 2005,  21 Jan-7 Feb 2015",
-                "Habitat": "Sage Brush"
+                "Habitat": "Sage Brush",
+                "Photo1": "GRTEWHGR_summer.jpg", 
+                "Photo2": "GRTEWHGR_winter.jpg",
+                "Spectrogram1": "",
+                "Spectrogram2": "",
+                "Acoustic_Summary": "",
+                "Days": "",
+                "Hours": "",
+                "All_Hours": "",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Site in large meadow; photo looking west",
+                "Photo2_Caption": "”Site in large meadow; photo looking north"
             },
             "geometry": {
                 "type": "Point",
@@ -991,7 +1053,236 @@
                 ]
             }
         },
+               {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEMWR2",
+                "Site_Name": "Moose Wilson Road 2",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "19 Aug-19 Sep 2013",
+                "Habitat": "Open Conifer Forest",
+                "Photo1": "GRTEMWR2_southeast.jpg", 
+                "Spectrogram1": "",
+                "Spectrogram2": "",
+                "Acoustic_Summary": "",
+                "Days": "",
+                "Hours": "",
+                "All_Hours": "",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Site 100 feet from gravel Moose Wilson Road; photo looking souotheast"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.79222,
+                    43.61265
+                ]
+            }
+        },
         {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEMWR3",
+                "Site_Name": "Moose Wilson Road 3",
+                "Unit_Code": "GRTE",
+                "Season": "Mixed",
+                "Year": "1 Nov 2013-26 Nov 2014",
+                "Habitat": "Open Mixed Forest",
+                "Photo1": "GRTEMWR3_southwest_summer.jpg", 
+                "Spectrogram1": "",
+                "Spectrogram2": "",
+                "Acoustic_Summary": "",
+                "Days": "",
+                "Hours": "",
+                "All_Hours": "",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Site in near wetlands; photo looking southwest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.73983,
+                    43.65266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEPACR",
+                "Site_Name": "Pacific Creek Intersection",
+                "Unit_Code": "GRTE",
+                "Season": "Winter",
+                "Year": "2-4 Jan 2003",
+                "Habitat": "Open Conifer Forest",
+                "Photo1": "GRTEPACR.jpg", 
+                "Spectrogram1": "",
+                "Spectrogram2": "",
+                "Acoustic_Summary": "",
+                "Days": "",
+                "Hours": "",
+                "All_Hours": "",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Site in trees off of Hwy 89; photo looking north"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.521124,
+                    43.855329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEPET2",
+                "Site_Name": "Pemble Trail 2",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "11-16 Jul 2008",
+                "Habitat": "Conifer Forest",
+                "Photo1": ".jpg", 
+                "Spectrogram1": "",
+                "Spectrogram2": "",
+                "Acoustic_Summary": "",
+                "Days": "",
+                "Hours": "",
+                "All_Hours": "",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.74042,
+                    43.68382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEPETR",
+                "Site_Name": "Pemble Trail",
+                "Unit_Code": "GRTE",
+                "Season": "Winter",
+                "Year": "17-23 Feb 2007",
+                "Habitat": "Conifer Forest",
+                "Photo1": "GRTEPETR_summer.jpg", 
+                "Photo2": "GRTEPETR_winter.jpg",
+                "Spectrogram1": "",
+                "Spectrogram2": "",
+                "Acoustic_Summary": "",
+                "Days": "",
+                "Hours": "",
+                "All_Hours": "",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Site along little used trail; photo looking south",
+                "Photo2_Caption": "”Site along little used trail; photo looking south"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.740128,
+                    43.683974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEPLJR",
+                "Site_Name": "Phelps Lake Jump Rock",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "7 Sep-2 Oct 2014",
+                "Habitat": "Conifer Forest",
+                "Photo1": "GRTEPLJR.jpg", 
+                "Spectrogram1": "",
+                "Spectrogram2": "",
+                "Acoustic_Summary": "",
+                "Days": "",
+                "Hours": "",
+                "All_Hours": "",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Site in hillside overlooking lake; photo looking northwest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.79354,
+                    43.64905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEPLLN",
+                "Site_Name": "Phelps Lake Low Noise",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "7 Sep-2 Oct 2014",
+                "Habitat": "Open Conifer Forest",
+                "Photo1": "", 
+                "Spectrogram1": "",
+                "Spectrogram2": "",
+                "Acoustic_Summary": "",
+                "Days": "",
+                "Hours": "",
+                "All_Hours": "",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Site in mature forest near lake; photo looking "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.79555,
+                    43.63432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEPHWE",
+                "Site_Name": "Potholes West",
+                "Unit_Code": "GRTE",
+                "Season": "Mixed",
+                "Year": "7 Mar-15 Apr 2014, 28 Jul-20 Aug 2014",
+                "Habitat": "Open Conifer Forest",
+                "Photo1": "GRTEPHWE_summer.jpg", 
+                "Photo2": "GRTEPHWE_winter.jpg",
+                "Spectrogram1": "",
+                "Spectrogram2": "",
+                "Acoustic_Summary": "",
+                "Days": "",
+                "Hours": "",
+                "All_Hours": "",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Site on bluff overlooking Potholes; photo looking north",
+                "Photo2_Caption": "”Site on bluff overlooking Potholes; photo looking north"
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.63428,
+                    43.80864
+                ]
+            }
+},
+{
             "type": "Feature",
             "properties": {
                 "Site_Code": "YELLACLN",
@@ -1817,151 +2108,8 @@
                     -111.02554,
                     44.6506
                 ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Site_Code": "GRTEMWR2",
-                "Site_Name": "Moose Wilson Road 2",
-                "Unit_Code": "GRTE",
-                "Season": "Summer",
-                "Year": "19 Aug-19 Sep 2013",
-                "Habitat": "Open Conifer Forest"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -110.79222,
-                    43.61265
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Site_Code": "GRTEMWR3",
-                "Site_Name": "Moose Wilson Road 3",
-                "Unit_Code": "GRTE",
-                "Season": "Mixed",
-                "Year": "1 Nov 2013-26 Nov 2014",
-                "Habitat": "Open Mixed Forest"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -110.73983,
-                    43.65266
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Site_Code": "GRTEPACR",
-                "Site_Name": "Pacific Creek Intersection",
-                "Unit_Code": "GRTE",
-                "Season": "Winter",
-                "Year": "2-4 Jan 2003",
-                "Habitat": "Open Conifer Forest"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -110.521124,
-                    43.855329
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Site_Code": "GRTEPET2",
-                "Site_Name": "Pemble Trail 2",
-                "Unit_Code": "GRTE",
-                "Season": "Summer",
-                "Year": "11-16 Jul 2008",
-                "Habitat": "Conifer Forest"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -110.74042,
-                    43.68382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Site_Code": "GRTEPETR",
-                "Site_Name": "Pemble Trail",
-                "Unit_Code": "GRTE",
-                "Season": "Winter",
-                "Year": "17-23 Feb 2007",
-                "Habitat": "Conifer Forest"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -110.740128,
-                    43.683974
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Site_Code": "GRTEPLJR",
-                "Site_Name": "Phelps Lake Jump Rock",
-                "Unit_Code": "GRTE",
-                "Season": "Summer",
-                "Year": "7 Sep-2 Oct 2014",
-                "Habitat": "Conifer Forest"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -110.79354,
-                    43.64905
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Site_Code": "GRTEPLLN",
-                "Site_Name": "Phelps Lake Low Noise",
-                "Unit_Code": "GRTE",
-                "Season": "Summer",
-                "Year": "7 Sep-2 Oct 2014",
-                "Habitat": "Open Conifer Forest"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -110.79555,
-                    43.63432
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "Site_Code": "GRTEPHWE",
-                "Site_Name": "Potholes West",
-                "Unit_Code": "GRTE",
-                "Season": "Mixed",
-                "Year": "7 Mar-15 Apr 2014, 28 Jul-20 Aug 2014",
-                "Habitat": "Open Conifer Forest"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -110.63428,
-                    43.80864
-                ]
-            }
+                    }
         }
     ]
 }
+
