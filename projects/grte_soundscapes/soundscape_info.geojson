@@ -103,8 +103,8 @@
         "Photo1_Caption":"Site by rock pile; white RV campers can be seen in background",
         "Photo2_Caption":"text here",
         "Spectrogram1_Caption": "A very windy winter day obscured most other sounds.",
-        "Spectrogram2_Caption": "The migrant bird’s morning chorus started just before 0600 this day. Wind picked up after noon. The Gros Ventre River rapids could be heard all day."
-        "Spectrogram3_Caption": "The loudest sounds on this summer day were jets and propeller plane overflights. The Gros Ventre River was constantly heard and wind picked up at 1450."
+        "Spectrogram2_Caption": "The migrant bird’s morning chorus started just before 0600 this day. Wind picked up after noon. The Gros Ventre River rapids could be heard all day.",
+        "Spectrogram3_Caption": "The loudest sounds on this summer day were jets and propeller plane overflights. The Gros Ventre River was constantly heard and wind picked up at 1450.",
         "Spectrogram4_Caption": "A low flying helicopter overflew this site several times starting at 1625 to 1925."
       },
       "geometry": {
@@ -144,9 +144,9 @@
         "Sound_Level_Day": "L90=20.0 dBA, L50=25.4 dBA, L10=33.4 dBA, Leq=32.1 dBA",
         "Photo1_Caption":"Dollar Island site on bluff looking north",
         "Photo2_Caption":"Dollar Island site on top of bluff; photo taken south from Jackson Lake",
-        "Spectrogram1_Caption": "A very quiet winter day, interrupted occasionally by high flying jets."
-        "Spectrogram2_Caption": "The spring bird’s morning chorus started at 0525. Wind became strong after 1600."
-         "Spectrogram3_Caption": "Motorboats on Jackson Lake started about 0750 and were heard regularly until almost 1900."
+        "Spectrogram1_Caption": "A very quiet winter day, interrupted occasionally by high flying jets.",
+        "Spectrogram2_Caption": "The spring bird’s morning chorus started at 0525. Wind became strong after 1600.",
+         "Spectrogram3_Caption": "Motorboats on Jackson Lake started about 0750 and were heard regularly until almost 1900.",
         "Spectrogram4_Caption": "A low flying propeller plane circled Dollar Island from 1230 to 1300. Wind started and ended the day."
      },
       "geometry": {
