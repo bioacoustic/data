@@ -63,7 +63,7 @@
         "Sound_Level_Day": "L90=21.9 dBA, L50=23.7 dBA, L10=29.1 dBA, Leq=28.1 dBA",
         "Photo1_Caption":"Site just to the right of finger tip on northeast side of summit",
         "Photo2_Caption":"text here",
-        "Spectrogram1_Caption": "text"
+        "Spectrogram1_Caption": "text",
         "Spectrogram2_Caption": "text"
       },
       "geometry": {
@@ -91,7 +91,7 @@
         "Spectrogram1": "GRTEGVCE_2012_01_18_A.png",
         "Spectrogram2": "GRTEGVCE_2012_04_11_A.png",
         "Spectrogram3": "GRTEGVCE_2011_07_21_A.png",
-        "Spectrogram4":  “GRTEGVCE_2011_10_02_A.png",
+        "Spectrogram4":  "GRTEGVCE_2011_10_02_A.png",
         "Acoustic_Portrait": "Gros_Ventre_Campground_East_A_Year_of_Sound.mp3",
         "Acoustic_Summary": "The predominant sound at Gros Ventre Campground East is the rushing Gros Ventre River, louder during spring runoff, but audible year-round. This sage  brush area just east of the Gros Ventre Campground is home to many vocalizing birds and insects during the summer days, and coyotes and Common Nighthawks during the night. Road vehicles and aircraft are also commonly heard.",
         "Days": 78,
