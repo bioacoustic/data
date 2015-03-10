@@ -16,9 +16,6 @@
         "Photo1": "GRTEBAFL_to_east.jpg",
         "Photo2": "GRTEBAFL_to_west.jpg",
         "Spectrogram1": "GRTEBAFL_2009_07_27_A_summer.png",
-        "Spectrogram2": "",
-        "Spectrogram3": "",
-        "Spectrogram4": "",
         "Acoustic_Portrait": "Baseline_Flats_ A_mid_summer_day_of_sounds.mp3",
         "Acoustic_Summary": "Baseline Flats is a sage brush dominated location just west of the Snake River in the shadow of the Tetons. During quiet periods the rapids on the Snake River are audible. Wind picks up in the summer afternoons along with insect activity. Birds are also frequently heard. This area is directly under the flight path of aircraft approaching the Jackson Hole Airport from the north, but the sounds from road vehicles on Highway 89 are heard more frequently.",
         "Days": 11,
@@ -30,7 +27,7 @@
         "Sound_Level_Day": "L90=30.3 dBA, L50=37.7 dBA, L10=47.1 dBA, Leq=46.5 dBA",
         "Photo1_Caption":"Site at base of tree",
         "Photo2_Caption":"Site under tree at base of bluff",
-        "Spectrogram1_Caption": "text"
+        "Spectrogram1_Caption": "Note strong wind in 1400 hour, and aircraft starting at 0700. Snake River is a constant broadband sound."
       },
       "geometry": {
         "type": "Point",
