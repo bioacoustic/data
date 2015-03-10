@@ -53,7 +53,7 @@
         "Spectrogram1": "GRTEGRTE_2013_07_25_A.png",
         "Spectrogram2": "GRTEGRTE_2013_08_10_A.png",
         "Acoustic_Portrait": "Grand_Teton_Summit-_A_Summer_Day.mp3",
-        "Acoustic_Summary": "The sounds that characterize the summit of Grand Teton are: thunderstorms as they roll across the Tetons, wind whistling through the rocks, the croak of a raven, buzzing insects, dripping water as the snowpack melt, and maybe even the cries of elation and then muffled chatter of climbers as they celebrate their success. The summit of Grand Teton is usually very quiet except for when the wind picks up or there are climbers talking. Most of the motor sounds are fairly quiet because of their distance. Aircraft are much louder than road vehicles, especially if they are flying nearby. Only a few hearty birds frequent the high peaks, most of which are Common Ravens. Small rodents are present, but active mostly at night.  ",
+        "Acoustic_Summary": "The sounds that characterize the summit of Grand Teton are: thunderstorms as they roll across the Tetons, wind whistling through the rocks, the croak of a raven, buzzing insects, dripping water as the snowpack melt, and maybe even the cries of elation and then muffled chatter of climbers as they celebrate their success. The summit of Grand Teton is usually very quiet except for when the wind picks up or there are climbers talking. Most of the motor sounds are fairly quiet because of their distance. Aircraft are much louder than road vehicles, especially if they are flying nearby. Only a few hearty birds frequent the high peaks, most frequent of which are Common Ravens. Small rodents are present and their faint gnawing can be heard, but mostly at night. ",
         "Days": 13,
         "Hours": 645,
         "All_Hours": "All non-natural sounds (38%), Wind (31%), Silence (31%), All motor sounds (28%), People’s Voices (17%), Aircraft (10%)",
@@ -61,10 +61,9 @@
         "Winter": "",
         "Sound_Level_All": "L90=21.6 dBA, L50=22.8 dBA, L10=26.9 dBA, Leq=26.2 dBA",
         "Sound_Level_Day": "L90=21.9 dBA, L50=23.7 dBA, L10=29.1 dBA, Leq=28.1 dBA",
-        "Photo1_Caption":"Site just to the right of finger tip on northeast side of summit",
-        "Photo2_Caption":"text here",
-        "Spectrogram1_Caption": "text",
-        "Spectrogram2_Caption": "text"
+        "Photo1_Caption":"Site just to the right of fingertip on northeast side of summit",
+        "Spectrogram1_Caption": "The first two aircraft overflights were at 0510 and 0633. Successful climbers arrived at 0710 and were voices were audible until the afternoon. At 1700 a propeller plane flew by close to the summit.",
+        "Spectrogram2_Caption": "This day started out and continued windy, but this did not discourage climbers from summiting by 0730. A rodent gnawing close to the monitor can be seen at 1630."
       },
       "geometry": {
         "type": "Point",
@@ -90,7 +89,7 @@
         "Photo2": "",
         "Spectrogram1": "GRTEGVCE_2012_01_18_A.png",
         "Spectrogram2": "GRTEGVCE_2012_04_11_A.png",
-        "Spectrogram3": "GRTEGVCE_2011_07_21_A.png",
+        "Spectrogram3": "GRTEGVCE_2011_07_30_A.png",
         "Spectrogram4":  "GRTEGVCE_2011_10_02_A.png",
         "Acoustic_Portrait": "Gros_Ventre_Campground_East_A_Year_of_Sound.mp3",
         "Acoustic_Summary": "The predominant sound at Gros Ventre Campground East is the rushing Gros Ventre River, louder during spring runoff, but audible year-round. This sage  brush area just east of the Gros Ventre Campground is home to many vocalizing birds and insects during the summer days, and coyotes and Common Nighthawks during the night. Road vehicles and aircraft are also commonly heard.",
@@ -103,7 +102,10 @@
         "Sound_Level_Day": "L90=24.8 dBA, L50=28.9 dBA, L10=36.5 dBA, Leq=36.3 dBA",
         "Photo1_Caption":"Site by rock pile; white RV campers can be seen in background",
         "Photo2_Caption":"text here",
-        "Spectrogram1_Caption": "text"
+        "Spectrogram1_Caption": "A very windy winter day obscured most other sounds.",
+        "Spectrogram2_Caption": "The migrant bird’s morning chorus started just before 0600 this day. Wind picked up after noon. The Gros Ventre River rapids could be heard all day."
+        "Spectrogram3_Caption": "The loudest sounds on this summer day were jets and propeller plane overflights. The Gros Ventre River was constantly heard and wind picked up at 1450."
+        "Spectrogram4_Caption": "A low flying helicopter overflew this site several times starting at 1625 to 1925."
       },
       "geometry": {
         "type": "Point",
@@ -142,8 +144,11 @@
         "Sound_Level_Day": "L90=20.0 dBA, L50=25.4 dBA, L10=33.4 dBA, Leq=32.1 dBA",
         "Photo1_Caption":"Dollar Island site on bluff looking north",
         "Photo2_Caption":"Dollar Island site on top of bluff; photo taken south from Jackson Lake",
-        "Spectrogram1_Caption": "text"
-      },
+        "Spectrogram1_Caption": "A very quiet winter day, interrupted occasionally by high flying jets."
+        "Spectrogram2_Caption": "The spring bird’s morning chorus started at 0525. Wind became strong after 1600."
+         "Spectrogram3_Caption": "Motorboats on Jackson Lake started about 0750 and were heard regularly until almost 1900."
+        "Spectrogram4_Caption": "A low flying propeller plane circled Dollar Island from 1230 to 1300. Wind started and ended the day."
+     },
       "geometry": {
         "type": "Point",
         "coordinates": [
