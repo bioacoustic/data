@@ -397,8 +397,8 @@
                 "Days": "8",
                 "Hours": "187",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=22.5 dBA, L50=26.4 dBA, L10=33.0 dBA, Leq=31.7 dBA",
+                "Sound_Level_Day": "L90=25.1 dBA, L50=30.2 dBA, L10=38.0 dBA, Leq=37.5 dBA",
                 "Photo1_Caption": "Site in deadfall; photo looking west"
             },
             "geometry": {
@@ -425,8 +425,8 @@
                 "Acoustic_Summary": "",
                 "Days": "27",
                 "Hours": "646",
-                "All_Hours": "",
-                "Sound_Level_All": "",
+                "All_Hours": "L90=38.7 dBA, L50=39.1 dBA, L10=40.6 dBA, Leq=39.7 dBA",
+                "Sound_Level_All": "L90=38.2 dBA, L50=38.8 dBA, L10=40.7 dBA, Leq=39.7 dBA",
                 "Sound_Level_Day": "",
                 "Photo1_Caption": "Site in forest; photo looking south"
             },
@@ -456,8 +456,8 @@
                 "Days": "139",
                 "Hours": "3323",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=28.8 dBA, L50=32.0 dBA, L10=41.2 dBA, Leq=53.7 dBA",
+                "Sound_Level_Day": "L90=29.7 dBA, L50=34.0 dBA, L10=49.9 dBA, Leq=62.4 dBA",
                 "Photo1_Caption": "Site near approach landing lights; photo looking east",
                 "Photo2_Caption": "Site near north end of runway; photo looking south"
             },
@@ -487,8 +487,8 @@
                 "Days": "21",
                 "Hours": "505",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90~17.1 dBA, L50~17.8 dBA, L10~19.4 dBA, Leq~18.5 dBA",
+                "Sound_Level_Day": "L90~17.2 dBA, L50~18.1 dBA, L10~21.5 dBA, Leq~20.1 dBA",
                 "Photo1_Caption": "",
                 "Photo2_Caption": ""
             },
@@ -518,8 +518,8 @@
                 "Days": "417",
                 "Hours": "9992",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=23.8 dBA, L50=26.9 dBA, L10=32.8 dBA, Leq=31.5 dBA",
+                "Sound_Level_Day": "L90=24.1 dBA, L50=28.2 dBA, L10=35.9 dBA, Leq=34.3 dBA",
                 "Photo1_Caption": "Site at edge of water; photo looking southwest",
                 "Photo2_Caption": "Site at edge of lake; photo looking southwest"
             },
@@ -548,8 +548,8 @@
                 "Days": "37",
                 "Hours": "874",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=15.9 dBA, L50=18.3 dBA, L10=26.1 dBA, Leq=26.1 dBA",
+                "Sound_Level_Day": "L90=16.6 dBA, L50=19.8 dBA, L10=29.0 dBA, Leq=29.2 dBA",
                 "Photo1_Caption": "Site in pines; photo looking west"
             },
             "geometry": {
@@ -577,8 +577,8 @@
                 "Days": "8",
                 "Hours": "173",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=15.4 dBA, L50=16.2 dBA, L10=23.8 dBA, Leq=26.0 dBA",
+                "Sound_Level_Day": "L90=15.4 dBA, L50=17.0 dBA, L10=26.6 dBA, Leq=31.0 dBA",
                 "Photo1_Caption": "Site near lake; photo looking south"
             },
             "geometry": {
@@ -606,8 +606,8 @@
                 "Days": "18",
                 "Hours": "432",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=14.8 dBA, L50=15.6 dBA, L10=18.9 dBA, Leq=18.8 dBA",
+                "Sound_Level_Day": "L90=14.8 dBA, L50=15.6 dBA, L10=20.4 dBA, Leq=21.1 dBA",
                 "Photo1_Caption": "Site at base of small pine; photo looking northeast"
             },
             "geometry": {
@@ -636,8 +636,8 @@
                 "Days": "15",
                 "Hours": "358",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=22.7 dBA, L50=25.8 dBA, L10=29.9 dBA, Leq=28.4 dBA",
+                "Sound_Level_Day": "L90=23.1 dBA, L50=26.9 dBA, L10=32.4 dBA, Leq=30.9 dBA",
                 "Photo1_Caption": "Photo from site looking north",
                 "Photo2_Caption": "Photo from site looking west"
             },
@@ -667,8 +667,8 @@
                 "Days": "68",
                 "Hours": "1634",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=25.2 dBA, L50=30.7 dBA, L10=39.0 dBA, Leq=38.8 dBA",
+                "Sound_Level_Day": "L90=27.1 dBA, L50=31.9 dBA, L10=40.0 dBA, Leq=42.8 dBA",
                 "Photo1_Caption": "Site in sage brush; photo looking northwest",
                 "Photo2_Caption": "During site visit; photo of sound monitoring system"
             },
@@ -694,10 +694,10 @@
                 "Max_ID": "Helicopter",
                 "Photo1": "GRTEMOPO_north.jpg",
                 "Acoustic_Summary": "",
-                "Days": "",
-                "Hours": "55",
-                "All_Hours": "1306",
-                "Sound_Level_All": "",
+                "Days": "55",
+                "Hours": "1306",
+                "All_Hours": "",
+                "Sound_Level_All": "L90=23.5 dBA, L50=26.7 dBA, L10=33.3 dBA, Leq=31.8 dBA",
                 "Sound_Level_Day": "",
                 "Photo1_Caption": "Photo near site looking north"
             },
@@ -726,8 +726,8 @@
                 "Days": "109",
                 "Hours": "2596",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=31.6 dBA, L50=34.3 dBA, L10=39.3 dBA, Leq=39.4 dBA",
+                "Sound_Level_Day": "L90=30.9 dBA, L50=34.1 dBA, L10=40.4 dBA, Leq=41.4 dBA",
                 "Photo1_Caption": "Site south of ranch cabins; photo looking north"
             },
             "geometry": {
@@ -755,8 +755,8 @@
                 "Days": "8",
                 "Hours": "191",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=40.2 dBA, L50=40.9 dBA, L10=42.7 dBA, Leq=41.6 dBA",
+                "Sound_Level_Day": "L90=39.3 dBA, L50=40.2 dBA, L10=42.8 dBA, Leq=41.3 dBA",
                 "Photo1_Caption": "Site south of Spread Creek; photo looking northeast"
             },
             "geometry": {
@@ -784,8 +784,8 @@
                 "Days": "73",
                 "Hours": "1745",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=33.3 dBA, L50=34.9 dBA, L10=38.5 dBA, Leq=37.4 dBA",
+                "Sound_Level_Day": "L90=43.9 dBA, L50=47.6 dBA, L10=52.8 dBA, Leq=50.5 dBA",
                 "Photo1_Caption": "Site near gravel pit and asphalt plant; photo looking southwest"
             },
             "geometry": {
@@ -813,8 +813,8 @@
                 "Days": "24",
                 "Hours": "562",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=24.0 dBA, L50=26.9 dBA, L10=31.7 dBA, Leq=30.2 dBA",
+                "Sound_Level_Day": "L90=20.9 dBA, L50=24.3 dBA, L10=31.3 dBA, Leq=30.6 dBA",
                 "Photo1_Caption": "Site in expansive sage brush; photo looking west"
             },
             "geometry": {
@@ -842,8 +842,8 @@
                 "Days": "38",
                 "Hours": "908",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=23.7 dBA, L50=27.1 dBA, L10=32.5 dBA, Leq=31.6 dBA",
+                "Sound_Level_Day": "L90=22.7 dBA, L50=25.8 dBA, L10=33.3 dBA, Leq=33.2 dBA",
                 "Photo1_Caption": "Site at edge of early homesteader rock pile; photo looking west"
             },
             "geometry": {
@@ -871,8 +871,8 @@
                 "Days": "17",
                 "Hours": "406",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=19.9 dBA, L50=23.6 dBA, L10=29.3 dBA, Leq=27.8 dBA",
+                "Sound_Level_Day": "L90=19.8 dBA, L50=23.8 dBA, L10=31.5 dBA, Leq=31.0 dBA",
                 "Photo1_Caption": "Site at edge of early homesteader rock pile; photo looking west "
             },
             "geometry": {
@@ -900,8 +900,8 @@
                 "Days": "50",
                 "Hours": "590",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=20.7 dBA, L50=23.4 dBA, L10=29.5 dBA, Leq=28.6 dBA",
+                "Sound_Level_Day": "L90=23.6 dBA, L50=26.8 dBA, L10=34.5 dBA, Leq=33.1 dBA",
                 "Photo1_Caption": " "
             },
             "geometry": {
@@ -929,8 +929,8 @@
                 "Days": "47",
                 "Hours": "1122",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=36.9 dBA, L50=37.9 dBA, L10=39.5 dBA, Leq=38.7 dBA",
+                "Sound_Level_Day": "L90=35.8 dBA, L50=37.1 dBA, L10=39.1 dBA, Leq=38.6 dBA",
                 "Photo1_Caption": "Site near Snake River; photo looking southeast"
             },
             "geometry": {
@@ -987,8 +987,8 @@
                 "Days": "139",
                 "Hours": "3336",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=36.0 dBA, L50=37.7 dBA, L10=40.6 dBA, Leq=39.7 dBA",
+                "Sound_Level_Day": "L90=35.9 dBA, L50=37.8 dBA, L10=41.8 dBA, Leq=4.5 dBA",
                 "Photo1_Caption": "Site co-located with weather station; photo looking northwest"
             },
             "geometry": {
@@ -1016,8 +1016,8 @@
                 "Days": "103",
                 "Hours": "2472",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=21.6 dBA, L50=23.2 dBA, L10=28.1 dBA, Leq=28.3 dBA",
+                "Sound_Level_Day": "L90=21.6 dBA, L50=24.0 dBA, L10=32.8 dBA, Leq=32.8 dBA",
                 "Photo1_Caption": "Site near Ranger Station; photo looking northeast"
             },
             "geometry": {
@@ -1045,8 +1045,8 @@
                 "Days": "346",
                 "Hours": "8291",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=23.4 dBA, L50=28.2 dBA, L10=34.7 dBA, Leq=36.8 dBA",
+                "Sound_Level_Day": "L90=25.7 dBA, L50=33.0 dBA, L10=45.0 dBA, Leq=45.2 dBA",
                 "Photo1_Caption": "Site in small island of pine; photo looking north"
             },
             "geometry": {
@@ -1075,8 +1075,8 @@
                 "Days": "279",
                 "Hours": "6674",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=25.9 dBA, L50=28.0 dBA, L10=33.1 dBA, Leq=32.9 dBA",
+                "Sound_Level_Day": "L90=26.7 dBA, L50=29.2 dBA, L10=36.0 dBA, Leq=35.2 dBA",
                 "Photo1_Caption": "Site in large meadow; photo looking west",
                 "Photo2_Caption": "”Site in large meadow; photo looking north"
             },
@@ -1105,8 +1105,8 @@
                 "Days": "32",
                 "Hours": "745",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90~24.7 dBA, L50~29.6 dBA, L10~38.4 dBA, Leq~35.2 dBA",
+                "Sound_Level_Day": "L90~26.3 dBA, L50~32.6 dBA, L10~40.9 dBA, Leq~37.8 dBA",
                 "Photo1_Caption": "Site 100 feet from gravel Moose Wilson Road; photo looking southeast"
             },
             "geometry": {
@@ -1134,8 +1134,8 @@
                 "Days": "357",
                 "Hours": "8562",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=27.3 dBA, L50=30.4 dBA, L10=35.8 dBA, Leq=34.7 dBA",
+                "Sound_Level_Day": "L90=28.9 dBA, L50=33.0 dBA, L10=39.1 dBA, Leq=38.4 dBA",
                 "Photo1_Caption": "Site in near wetlands; photo looking southwest"
             },
             "geometry": {
@@ -1163,8 +1163,8 @@
                 "Days": "14",
                 "Hours": "321",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=17.5 dBA, L50=22.3 dBA, L10=37.8 dBA, Leq=42.0 dBA",
+                "Sound_Level_Day": "L90=19.7 dBA, L50=25.8 dBA, L10=41.6 dBA, Leq=43.9 dBA",
                 "Photo1_Caption": "Site in trees off of Hwy 89; photo looking north"
             },
             "geometry": {
@@ -1192,8 +1192,8 @@
                 "Days": "6",
                 "Hours": "126",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=27.0 dBA, L50=30.5 dBA, L10=34.7 dBA, Leq=33.3 dBA",
+                "Sound_Level_Day": "L90=25.2 dBA, L50=28.8 dBA, L10=35.3 dBA, Leq=33.7 dBA",
                 "Photo1_Caption": "Site along little used trail; photo looking south"
             },
             "geometry": {
@@ -1221,8 +1221,8 @@
                 "Days": "12",
                 "Hours": "280",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=20.1 dBA, L50=23.1 dBA, L10=30.8 dBA, Leq=28.7 dBA",
+                "Sound_Level_Day": "L90=20.5 dBA, L50=23.6 dBA, L10=32.4 dBA, Leq=31.2 dBA",
                 "Photo1_Caption": "Site along little used trail; photo looking south"
             },
             "geometry": {
@@ -1250,8 +1250,8 @@
                 "Days": "25",
                 "Hours": "594",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90~26.7 dBA, L50~28.6 dBA, L10~31.0 dBA, Leq~29.9 dBA",
+                "Sound_Level_Day": "L90~26.7 dBA, L50~28.6 dBA, L10~31.0 dBA, Leq~29.9 dBA",
                 "Photo1_Caption": "Site in hillside overlooking lake; photo looking northwest"
             },
             "geometry": {
@@ -1279,8 +1279,8 @@
                 "Days": "25",
                 "Hours": "593",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=27.7 dBA, L50=30.1 dBA, L10=33.8 dBA, Leq=34.7 dBA",
+                "Sound_Level_Day": "L90=28.4 dBA, L50=31.2 dBA, L10=37.5 dBA, Leq=37.5 dBA",
                 "Photo1_Caption": "Site in mature forest near lake; photo looking "
             },
             "geometry": {
@@ -1309,8 +1309,8 @@
                 "Days": "62",
                 "Hours": "1484",
                 "All_Hours": "",
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=16.3 dBA, L50=18.1 dBA, L10=27.4 dBA, Leq=28.5 dBA",
+                "Sound_Level_Day": "L90=17.2 dBA, L50=21.0 dBA, L10=30.9 dBA, Leq=31.1 dBA",
                 "Photo1_Caption": "Site on bluff overlooking Potholes; photo looking north",
                 "Photo2_Caption": "”Site on bluff overlooking Potholes; photo looking north"
 
