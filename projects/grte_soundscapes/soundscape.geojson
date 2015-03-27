@@ -133,7 +133,7 @@
                 "Acoustic_Summary": "",
                 "Days": "111",
                 "Hours": "2650",
-                "All_Hours": "",
+                "All_Hours": "Silence (48%), All non-natural sounds (35%), All natural sources (24%), Unknown motor sounds (14%), Wind (11%), People (9%), Road vehicles (6%), Bird (8%), Aircraft (8%), Mammals (4%), Snow plows (3%)",
                 "Sound_Level_All": "L90=21.0 dBA, L50=21.9 dBA, L10=28.6 dBA, Leq=29.8 dBA",
                 "Sound_Level_Day": "L90=21.6 dBA, L50=24.1 dBA, L10=33.4 dBA, Leq=33.7 dBA",
                 "Photo1_Caption": "Site near shore; photo looking west"
@@ -420,9 +420,9 @@
                 "Acoustic_Summary": "",
                 "Days": "27",
                 "Hours": "646",
-                "All_Hours": "L90=38.7 dBA, L50=39.1 dBA, L10=40.6 dBA, Leq=39.7 dBA",
-                "Sound_Level_All": "L90=38.2 dBA, L50=38.8 dBA, L10=40.7 dBA, Leq=39.7 dBA",
-                "Sound_Level_Day": "",
+                "All_Hours": "All natural sources (100%), Flowing water (96%), All non-natural sounds (34%), Bird (30%), Watercraft (26%), Wind (6%), Mammal (4%), Unknown motor (4%), Aircraft (3%), Insect (2%)",
+                "Sound_Level_All": " L90=38.7 dBA, L50=39.1 dBA, L10=40.6 dBA, Leq=39.7 dBA ",
+                "Sound_Level_Day": " L90=38.2 dBA, L50=38.8 dBA, L10=40.7 dBA, Leq=39.7 dBA ",
                 "Photo1_Caption": "Site in forest; photo looking south"
             },
             "geometry": {
