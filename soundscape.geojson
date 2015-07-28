@@ -1569,7 +1569,7 @@
                 "Site_Name": "Delacy Creek",
                 "Unit_Code": "YELL",
                 "Season": "Winter",
-                "Year":"4-6 January 2003 and 13-19 February 2003",
+                "Year": "4-6 January 2003 and 13-19 February 2003",
                 "Habitat": "Conifer Forest",
                 "Lmin": "dBA",
                 "Lmax": "dBA",
@@ -1719,7 +1719,7 @@
                 "Site_Name": "Heart Lake Backcountry",
                 "Unit_Code": "YELL",
                 "Season": "Winter",
-                "Year": "16 January-16 February 2013"
+                "Year": "16 January-16 February 2013",
                 "Habitat": "Open Conifer Forest",
                 "Lmin": "dBA",
                 "Lmax": "dBA",
@@ -1852,8 +1852,8 @@
                 "Winter Daytime Hours": "",
                 "Sound_Level_All": "L90= dBA, L50= dBA, L10= dBA, Leq= dBA",
                 "Sound_Level_Day": "",
-                "Photo1_Caption": ""           
- },
+                "Photo1_Caption": ""
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -2049,7 +2049,7 @@
                 "Site_Name": "North Twin Lake",
                 "Unit_Code": "YELL",
                 "Season": "Winter",
-                "Year":"10-25 February 2009",
+                "Year": "10-25 February 2009",
                 "Habitat": "Conifer Forest",
                 "Lmin": "dBA",
                 "Lmax": "dBA",
@@ -2349,7 +2349,7 @@
                 "Site_Name": "Spring Creek 2",
                 "Unit_Code": "YELL",
                 "Season": "Multiple",
-                "Year": "21 December 2006-6 April 2007"
+                "Year": "21 December 2006-6 April 2007",
                 "Habitat": "Open Conifer Forest",
                 "Lmin": "dBA",
                 "Lmax": "dBA",
