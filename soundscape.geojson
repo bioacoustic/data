@@ -1941,8 +1941,8 @@
                 "All_Hours": "",
                 "Winter Daytime Hours": "",
                 "Sound_Level_All": "L90=29.7 dBA, L50=30.5 dBA, L10=32.1 dBA, Leq=33.4 dBA",
-                "Sound_Level_Day": "L90=30.4 dBA, L50=32.5 dBA, L10=39.7 dBA, Leq=36.4 dBA"
-            },
+                "Sound_Level_Day": "L90=30.4 dBA, L50=32.5 dBA, L10=39.7 dBA, Leq=36.4 dBA ",
+            }
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -2092,7 +2092,8 @@
                 "Sound_Level_All": "L90=30.9 dBA, L50=35.6 dBA, L10=47.5 dBA, Leq=43.0 dBA",
                 "Sound_Level_Day": "L90=37.3 dBA, L50=46.0 dBA, L10=54.5 dBA, Leq=50.3 dBA ",
                 "Photo1_Caption": "Sound monitor behind post office and ranger station in developed area"
-            },
+
+ },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -2350,18 +2351,18 @@
                 "Season": "Multiple",
                 "Year": "21 December 2006-6 April 2007",
                 "Habitat": "Open Conifer Forest",
-                "Lmin": "dBA",
-                "Lmax": "dBA",
-                "Max_ID": "",
+                "Lmin": "0.7 dBA",
+                "Lmax": "86.7 dBA",
+                "Max_ID": "Snow removal equipment",
                 "Photo1": "YELLSPC2.jpg",
                 "Acoustic_Summary": "",
                 "Days": "",
-                "Hours": "",
+                "Hours": "2142",
                 "All_Hours": "",
                 "Winter Daytime Hours": "",
-                "Sound_Level_All": "L90= dBA, L50= dBA, L10= dBA, Leq= dBA",
-                "Sound_Level_Day": "",
-                "Photo1_Caption": ""
+                "Sound_Level_All": "L90=19.1 dBA, L50=21.1 dBA, L10=28.6 dBA, Leq=32.0 dBA",
+                "Sound_Level_Day": "L90=21.3 dBA, L50=25.8 dBA, L10=35.2 dBA, Leq=38.6 dBA ",
+                "Photo1_Caption": "Sound monitor 100 feet from the road at the edge of a wetlands embedded in a forest"
             },
             "geometry": {
                 "type": "Point",
@@ -2380,18 +2381,18 @@
                 "Season": "Winter",
                 "Year": "15-23 February 2006",
                 "Habitat": "Open Conifer Forest",
-                "Lmin": "dBA",
-                "Lmax": "dBA",
-                "Max_ID": "",
+                "Lmin": "17.6 dBA",
+                "Lmax": "84.1 dBA",
+                "Max_ID": "Snow groomer",
                 "Photo1": "YELLSCR.jpg",
                 "Acoustic_Summary": "",
                 "Days": "",
-                "Hours": "",
+                "Hours": "184",
                 "All_Hours": "",
                 "Winter Daytime Hours": "",
-                "Sound_Level_All": "L90= dBA, L50= dBA, L10= dBA, Leq= dBA",
-                "Sound_Level_Day": "",
-                "Photo1_Caption": ""
+                "Sound_Level_All": "L90=20.0 dBA, L50=21.5 dBA, L10=31.5 dBA, Leq=34.5 dBA",
+                "Sound_Level_Day": "L90=23.1 dBA, L50=28.3 dBA, L10=37.3 dBA, Leq=43.1 dBA ",
+                "Photo1_Caption": "Sound monitor 100 feet from road"
             },
             "geometry": {
                 "type": "Point",
@@ -2410,18 +2411,18 @@
                 "Season": "Winter",
                 "Year": "15 December 2012-7 March 2013",
                 "Habitat": "Open Conifer Forest",
-                "Lmin": "dBA",
-                "Lmax": "dBA",
-                "Max_ID": "",
+                "Lmin": "<13.7 dBA",
+                "Lmax": "72.1 dBA",
+                "Max_ID": "Snow falling",
                 "Photo1": "YELLSYL3.jpg",
                 "Acoustic_Summary": "",
                 "Days": "",
-                "Hours": "",
+                "Hours": "1942",
                 "All_Hours": "",
                 "Winter Daytime Hours": "",
-                "Sound_Level_All": "L90= dBA, L50= dBA, L10= dBA, Leq= dBA",
-                "Sound_Level_Day": "",
-                "Photo1_Caption": ""
+                "Sound_Level_All": "L90=16.2 dBA, L50=18.1 dBA, L10=22.9 dBA, Leq=25.1 dBA",
+                "Sound_Level_Day": "L90=16.9 dBA, L50=19.7 dBA, L10=26.5 dBA, Leq=28.6 dBA ",
+                "Photo1_Caption": "Sound monitor 100 feet from road in deep snow"
             },
             "geometry": {
                 "type": "Point",
@@ -2440,17 +2441,17 @@
                 "Season": "Winter",
                 "Year": "4-17 February 2010",
                 "Habitat": "Sage Brush",
-                "Lmin": "dBA",
-                "Lmax": "dBA",
+                "Lmin": "15.9 dBA",
+                "Lmax": "67.6 dBA",
                 "Max_ID": "",
                 "Photo1": "YELLTIE1.jpg",
                 "Acoustic_Summary": "",
                 "Days": "",
-                "Hours": "",
+                "Hours": "267",
                 "All_Hours": "",
                 "Winter Daytime Hours": "",
-                "Sound_Level_All": "L90= dBA, L50= dBA, L10= dBA, Leq= dBA",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=20.2 dBA, L50=21.9 dBA, L10=25.8 dBA, Leq=26.5 dBA",
+                "Sound_Level_Day": "L90=20.6 dBA, L50=23.5 dBA, L10=28.8 dBA, Leq=29.5 dBA ",
                 "Photo1_Caption": ""
             },
             "geometry": {
@@ -2703,3 +2704,4 @@
         }
     ]
 }
+
