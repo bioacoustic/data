@@ -1941,8 +1941,8 @@
                 "All_Hours": "",
                 "Winter Daytime Hours": "",
                 "Sound_Level_All": "L90=29.7 dBA, L50=30.5 dBA, L10=32.1 dBA, Leq=33.4 dBA",
-                "Sound_Level_Day": "L90=30.4 dBA, L50=32.5 dBA, L10=39.7 dBA, Leq=36.4 dBA ",
-            }
+                "Sound_Level_Day": "L90=30.4 dBA, L50=32.5 dBA, L10=39.7 dBA, Leq=36.4 dBA"
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -2092,8 +2092,7 @@
                 "Sound_Level_All": "L90=30.9 dBA, L50=35.6 dBA, L10=47.5 dBA, Leq=43.0 dBA",
                 "Sound_Level_Day": "L90=37.3 dBA, L50=46.0 dBA, L10=54.5 dBA, Leq=50.3 dBA ",
                 "Photo1_Caption": "Sound monitor behind post office and ranger station in developed area"
-
- },
+            },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -2704,4 +2703,3 @@
         }
     ]
 }
-
