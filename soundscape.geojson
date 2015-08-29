@@ -1155,7 +1155,7 @@
                 "Lmax": "84.6 dBA",
                 "Max_ID": "Unknown",
                 "Photo1": "GRTEPACR_in_trees.jpg",
-                "Acoustic_Summary": "This very early sound monitoring site was adjacent to Highway 89.",
+                "Acoustic_Summary": "This very early sound monitoring site was adjacent to Highway 89. Other than the road traffic the site was very quiet.",
                 "Days": "14",
                 "Hours": "321",
                 "All_Hours": "",
@@ -1172,54 +1172,28 @@
             }
         },
         {
-            "type": "Feature",
-            "properties": {
-                "Site_Code": "GRTEPET2",
-                "Site_Name": "Pemble Trail 2",
-                "Unit_Code": "GRTE",
-                "Season": "Summer",
-                "Year": "11-16 Jul 2008",
-                "Habitat": "Conifer Forest",
-                "Lmin": "<19.9 dBA",
-                "Lmax": "71.7 dBA",
-                "Max_ID": "Propeller Plane",
-                "Photo1": "GRTEPETR_summer.jpg",
-                "Acoustic_Summary": "",
-                "Days": "6",
-                "Hours": "126",
-                "All_Hours": "",
-                "Sound_Level_All": "L90=27.0 dBA, L50=30.5 dBA, L10=34.7 dBA, Leq=33.3 dBA",
-                "Sound_Level_Day": "L90=25.2 dBA, L50=28.8 dBA, L10=35.3 dBA, Leq=33.7 dBA",
-                "Photo1_Caption": "Site along little used trail; photo looking south"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -110.74042,
-                    43.68382
-                ]
-            }
-        },
-        {
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
             "type": "Feature",
             "properties": {
                 "Site_Code": "GRTEPETR",
                 "Site_Name": "Pemble Trail",
                 "Unit_Code": "GRTE",
-                "Season": "Winter",
-                "Year": "17-23 Feb 2007",
+                "Season": "Winter and Summer",
+                "Year": "17-23 Feb 2007, 11-16 July 2008",
                 "Habitat": "Conifer Forest",
                 "Lmin": "<6.7 dBA",
-                "Lmax": "62.9 dBA",
+                "Lmax": "71.7 dBA",
                 "Max_ID": "Propeller Plane",
                 "Photo1": "GRTEPETR_winter.jpg",
-                "Acoustic_Summary": "",
-                "Days": "12",
-                "Hours": "280",
+                 "Photo2": "GRTEPETR_summer.jpg",
+              "Acoustic_Summary": "Not far from the government housing area this site had many sounds from the Jackson Hole Airport and overflying aircraft. Distant streams flowing out of the Tetons, wind in the trees, red squirrels and birds dominated the soundscape here.",
+                "Days": "18",
+                "Hours": "406",
                 "All_Hours": "",
-                "Sound_Level_All": "L90=20.1 dBA, L50=23.1 dBA, L10=30.8 dBA, Leq=28.7 dBA",
-                "Sound_Level_Day": "L90=20.5 dBA, L50=23.6 dBA, L10=32.4 dBA, Leq=31.2 dBA",
-                "Photo1_Caption": "Site along little used trail; photo looking south"
+                "Sound_Level_All": "Winter L90=20.1 dBA, L50=23.1 dBA, L10=30.8 dBA, Leq=28.7 dBA, Summer L90=27.0 dBA, L50=30.5 dBA, L10=34.7 dBA, Leq=33.3 dBA ",
+                "Sound_Level_Day": "Winter L90=20.5 dBA, L50=23.6 dBA, L10=32.4 dBA, Leq=31.2 dBA, Summer L90=25.2 dBA, L50=28.8 dBA, L10=35.3 dBA, Leq=33.7 dBA ",
+                "Photo1_Caption": "Site along little used trail; photo looking south",               "Photo2_Caption": "Site along little used trail; photo looking south"
             },
             "geometry": {
                 "type": "Point",
