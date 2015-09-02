@@ -717,7 +717,7 @@
                 "Acoustic_Summary": "Early in the summer the rushing waters of the Snake River dominated the soundscape along with bird songs and squirrel calls. Aircraft and unidentified motors were regularly audible throughout the sampling period.",
                 "Days": "109",
                 "Hours": "2596",
-                "All_Hours": " All natural sounds (97%), Bird (61%), All non-natural sounds (60%), Flowing water (59%), Squirrel (32%), Unknown motors (32%), All aircraft (26%), Wind ((16%), Insect (16%)",
+                "All_Hours": "All natural sounds (97%), Bird (61%), All non-natural sounds (60%), Flowing water (59%), Squirrel (32%), Unknown motors (32%), All aircraft (26%), Wind (16%), Insect (16%)",
                 "Sound_Level_All": "L90=31.6 dBA, L50=34.3 dBA, L10=39.3 dBA, Leq=39.4 dBA",
                 "Sound_Level_Day": "L90=30.9 dBA, L50=34.1 dBA, L10=40.4 dBA, Leq=41.4 dBA",
                 "Photo1_Caption": "Site south of ranch cabins; photo looking north"
@@ -774,7 +774,7 @@
                 "Acoustic_Summary": "This site was adjacent to the Spread Creek pit during gravel extraction and asphalt production. The soundscape was dominated by loud motorized sounds during the period of pit operations.",
                 "Days": "73",
                 "Hours": "1745",
-                "All_Hours": "",
+                "All_Hours": " All non-natural sounds (73%), All natural sounds (65%), Heavy Equipment (65%), Flowing water (37%), Bird (26%), Wind (10%), Insect (9%), All aircraft (5%), Squirrel (4%)",
                 "Sound_Level_All": "L90=33.3 dBA, L50=34.9 dBA, L10=38.5 dBA, Leq=37.4 dBA",
                 "Sound_Level_Day": "L90=43.9 dBA, L50=47.6 dBA, L10=52.8 dBA, Leq=50.5 dBA",
                 "Photo1_Caption": "Site near gravel pit and asphalt plant; photo looking southwest"
@@ -803,7 +803,7 @@
                 "Acoustic_Summary": "This site was selected along with nearby others to characterize the soundscape between the Spread Creek pit and two sage grouse leks. The pit operations were clearly audible at this site, along with sounds from Spread Creek and other natural sound sources.",
                 "Days": "24",
                 "Hours": "562",
-                "All_Hours": "",
+                "All_Hours": "All natural sounds (89%), All non-natural sounds (49%), Flowing water (48%), Bird (24%), Wind (24%), Heavy Equipment (21%), Insect (20%), All aircraft (12%), Unknown motors (7%)",
                 "Sound_Level_All": "L90=24.0 dBA, L50=26.9 dBA, L10=31.7 dBA, Leq=30.2 dBA",
                 "Sound_Level_Day": "L90=20.9 dBA, L50=24.3 dBA, L10=31.3 dBA, Leq=30.6 dBA",
                 "Photo1_Caption": "Site in expansive sage brush; photo looking west"
@@ -832,7 +832,7 @@
                 "Acoustic_Summary": "This site was adjacent to a location of a sage grouse lek on the sage grouse flats. The distant Spread Creek gravel pit operations soundscape could often be heard here, but natural sounds were often audible. ",
                 "Days": "38",
                 "Hours": "908",
-                "All_Hours": "All natural sounds (93%), Bird (54%),  All non-natural sounds (47%), Flowing water (40%), Road vehicles (33%), Heavy equipment (25%), Insect (24%), All aircraft ( %), Wind (17%), Unknown motor (5%), Backup alarms (3%)",
+                "All_Hours": "All natural sounds (93%), Bird (54%), All non-natural sounds (47%), Flowing water (40%), Road vehicles (33%), Heavy equipment (25%), Insect (24%), Wind (17%), All aircraft ( 10%), Unknown motor (5%), Backup alarms (3%)",
                 "Summer Daytime Hours": "All natural sounds (92%), All non-natural sounds (66%), Bird (62%), Road vehicles (47%), Insect (43%), Heavy equipment (39%), Wind (28%), All aircraft (15%), Unknown motor (5%), Backup alarms (5%), Flowing water (4%)",
                 "Sound_Level_All": "L90=23.7 dBA, L50=27.1 dBA, L10=32.5 dBA, Leq=31.6 dBA",
                 "Sound_Level_Day": "L90=22.7 dBA, L50=25.8 dBA, L10=33.3 dBA, Leq=33.2 dBA",
@@ -862,8 +862,7 @@
                 "Acoustic_Summary": "This site, co-located with GRTESCL1, used specialized low noise instruments that could measure sounds as low as 0 dBA. The lowest sounds measured were far below the lowest sound levels measured by the standard sound monitors.",
                 "Days": "17",
                 "Hours": "406",
-                "All_Hours": "All natural sounds (93%), Bird (54%),  All non-natural sounds (47%), Flowing water (40%), Road vehicles (33%), Heavy equipment (25%), Insect (24%), Wind (17%), Unknown motor (5%), Backup alarms (3%)",
-                "Summer Daytime Hours": "All natural sounds (92%), All non-natural sounds (66%), Bird (62%), Road vehicles (47%), Insect (43%), Heavy equipment (39%), Wind (28%), Unknown motor (5%), Backup alarms (5%), Flowing water (4%)",
+                "All_Hours": "see co-located GRTESCL1",
                 "Sound_Level_All": "L90=19.9 dBA, L50=23.6 dBA, L10=29.3 dBA, Leq=27.8 dBA",
                 "Sound_Level_Day": "L90=19.8 dBA, L50=23.8 dBA, L10=31.5 dBA, Leq=31.0 dBA",
                 "Photo1_Caption": "Site at edge of early homesteader rock pile; photo looking west "
@@ -922,7 +921,7 @@
                 "Acoustic_Summary": "The soundscape at this site adjacent to the Snake River was dominated by the sounds of flowing water, but elk were often heard especially in the evenings. Birds and insects along with occasional voices of boaters were audible here. Distant highway vehicle sounds were also audible at this site.",
                 "Days": "47",
                 "Hours": "1122",
-                "All_Hours": "",
+                "All_Hours": "Flowing water (100%), All natural sounds (100%), Birds (45%), All non-natural sounds (20%), Chipmunk, (13%), Unknown motors (12%) All aircraft (6%)",
                 "Sound_Level_All": "L90=36.9 dBA, L50=37.9 dBA, L10=39.5 dBA, Leq=38.7 dBA",
                 "Sound_Level_Day": "L90=35.8 dBA, L50=37.1 dBA, L10=39.1 dBA, Leq=38.6 dBA",
                 "Photo1_Caption": "Site near Snake River; photo looking southeast"
@@ -951,7 +950,6 @@
                 "Acoustic_Summary": "The primary reason for this site in the sage brush overlooking the Kelly Hayfields was to document the presence of sharp-tailed grouse. Many sage brush habitat birds including meadowlarks and sharp-tailed grouse were recorded. ",
                 "Days": "27",
                 "Hours": "781",
-                "All_Hours": "",
                 "Sound_Level_All": "L90=23.1 dBA, L50=30.8 dBA, L10=39.7 dBA, Leq=37.0 dBA ",
                 "Sound_Level_Day": "L90=24.6 dBA, L50=33.7 dBA, L10=42.3 dBA, Leq=41.2 dBA ",
                 "Photo1_Caption": "Site in tall sage brush; photo looking south"
@@ -980,7 +978,7 @@
                 "Acoustic_Summary": "This was one of the earliest sound monitoring sites in Grand Teton National Park. Distant highway vehicles were audible along with frequent aircraft coming and going from the Jackson Hole Airport. Many birds were audible, especially in the spring and summer.",
                 "Days": "139",
                 "Hours": "3336",
-                "All_Hours": "",
+                "All_Hours": "All non-natural sounds (66%), All natural sounds (50%), All road vehicles (33%), Unknown motors (24%), Elk (19%), Wind (18%), All aircraft (10%), Birds (9%)",
                 "Sound_Level_All": "L90=36.0 dBA, L50=37.7 dBA, L10=40.6 dBA, Leq=39.7 dBA",
                 "Sound_Level_Day": "L90=35.9 dBA, L50=37.8 dBA, L10=41.8 dBA, Leq=4.5 dBA",
                 "Photo1_Caption": "Site co-located with weather station; photo looking northwest"
@@ -1038,7 +1036,7 @@
                 "Acoustic_Summary": "This year-long site was adjacent to the Teton Park Road just south of Signal Mountain. Road traffic dominated the soundscape in the spring, summer, and fall, but the winters were comparatively serene after the road closed for the season. Occasional snowmobiles and groomers were heard during the winter and distant traffic from Highway 89 was also audible.",
                 "Days": "346",
                 "Hours": "8291",
-                "All_Hours": "",
+                "All_Hours": "All non-natural sounds (52%), All natural sounds (48%), All road vehicles (29%), Silence (25%), Wind (23%), Birds (18%), Sewage lagoon pump (12%), All aircraft (8%), ",
                 "Sound_Level_All": "L90=23.4 dBA, L50=28.2 dBA, L10=34.7 dBA, Leq=36.8 dBA",
                 "Sound_Level_Day": "L90=25.7 dBA, L50=33.0 dBA, L10=45.0 dBA, Leq=45.2 dBA",
                 "Photo1_Caption": "Site in small island of pine; photo looking north"
@@ -1068,7 +1066,7 @@
                 "Acoustic_Summary": "This early yearlong site was augmented more recently with a very low noise system. The minimum sound levels were far below levels documented with standard sound monitoring systems. The distant airport sounds, high flying aircraft, and summer cars along the Death Canyon Road were regularly audible. Natural sounds included elk bugling, wind, distant flowing water coming out of the Tetons, and many birds singing",
                 "Days": "279",
                 "Hours": "6674",
-                "All_Hours": "",
+                "All_Hours": "All natural sounds (69%), All non-natural sounds (44%), Flowing water (27%), Wind (27%), Birds (19%), Unknown motors (17%), All aircraft (16%), Elk (10%), All road vehicles (7%)",
                 "Sound_Level_All": "L90=25.9 dBA, L50=28.0 dBA, L10=33.1 dBA, Leq=32.9 dBA",
                 "Sound_Level_Day": "L90=26.7 dBA, L50=29.2 dBA, L10=36.0 dBA, Leq=35.2 dBA",
                 "Photo1_Caption": "Site in large meadow; photo looking west",
@@ -1159,7 +1157,6 @@
                 "Acoustic_Summary": "This very early sound monitoring site was adjacent to Highway 89. Other than the road traffic the site was very quiet.",
                 "Days": "14",
                 "Hours": "321",
-                "All_Hours": "",
                 "Sound_Level_All": "L90=17.5 dBA, L50=22.3 dBA, L10=37.8 dBA, Leq=42.0 dBA",
                 "Sound_Level_Day": "L90=19.7 dBA, L50=25.8 dBA, L10=41.6 dBA, Leq=43.9 dBA",
                 "Photo1_Caption": "Site in trees off of Hwy 89; photo looking north"
@@ -1191,7 +1188,6 @@
               "Acoustic_Summary": "Not far from the government housing area this site had many sounds from the Jackson Hole Airport and overflying aircraft. Distant streams flowing out of the Tetons, wind in the trees, red squirrels and birds dominated the soundscape here.",
                 "Days": "18",
                 "Hours": "406",
-                "All_Hours": "",
                 "Sound_Level_All": "In winter L90=20.1 dBA, L50=23.1 dBA, L10=30.8 dBA, Leq=28.7 dBA, and in summer L90=27.0 dBA, L50=30.5 dBA, L10=34.7 dBA, Leq=33.3 dBA ",
                 "Sound_Level_Day": "In winter L90=20.5 dBA, L50=23.6 dBA, L10=32.4 dBA, Leq=31.2 dBA, and in summer L90=25.2 dBA, L50=28.8 dBA, L10=35.3 dBA, Leq=33.7 dBA ",
                 "Photo1_Caption": "Site along little used trail; photo looking south",               "Photo2_Caption": "Site along little used trail; photo looking south"
