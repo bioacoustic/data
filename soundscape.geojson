@@ -1819,36 +1819,6 @@
         {
             "type": "Feature",
             "properties": {
-                "Site_Code": "YELLMJ23",
-                "Site_Name": "Madison Junction 2.3",
-                "Unit_Code": "YELL",
-                "Season": "Multiple",
-                "Year": "3-5 January and 12-18 February 2003 and 13-16 February 2004 and 17-22 February 2005 and 5 October 2005-13 July 2015",
-                "Habitat": "Conifer Forest",
-                "Lmin": "14.3 dBA",
-                "Lmax": "99.2 dBA",
-                "Max_ID": "Thunder",
-                "Photo1": "YELLMJ23.jpg",
-                "Acoustic_Summary": "",
-                "Days": "3333",
-                "Hours": "80000",
-                "All_Hours": "",
-                "Winter Daytime Hours": "",
-                "Sound_Level_All": "L90=28.6 dBA, L50=31.9 dBA, L10=38.7 dBA, Leq=40.9 dBA",
-                "Sound_Level_Day": "L90=32.0 dBA, L50=37.4 dBA, L10=49.0 dBA, Leq=45.8 dBA ",
-                "Photo1_Caption": "Sound monitor 100 feet from the West Entrance Road in regenerating pines"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -110.89645,
-                    44.64254
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Site_Code": "YELLMJ2B",
                 "Site_Name": "Madison Junction 50 feet",
                 "Unit_Code": "YELL",
@@ -1873,6 +1843,36 @@
                 "coordinates": [
                     -110.89751,
                     44.6424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLMJ23",
+                "Site_Name": "Madison Junction 2.3",
+                "Unit_Code": "YELL",
+                "Season": "Multiple",
+                "Year": "3-5 January and 12-18 February 2003 and 13-16 February 2004 and 17-22 February 2005 and 5 October 2005-13 July 2015",
+                "Habitat": "Conifer Forest",
+                "Lmin": "14.3 dBA",
+                "Lmax": "99.2 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "YELLMJ23.jpg",
+                "Acoustic_Summary": "",
+                "Days": "3333",
+                "Hours": "80000",
+                "All_Hours": "",
+                "Winter Daytime Hours": "",
+                "Sound_Level_All": "L90=28.6 dBA, L50=31.9 dBA, L10=38.7 dBA, Leq=40.9 dBA",
+                "Sound_Level_Day": "L90=32.0 dBA, L50=37.4 dBA, L10=49.0 dBA, Leq=45.8 dBA ",
+                "Photo1_Caption": "Sound monitor 100 feet from the West Entrance Road in regenerating pines"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.89645,
+                    44.64254
                 ]
             }
         },
@@ -2647,4 +2647,3 @@
         }
     ]
 }
-
