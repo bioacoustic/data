@@ -287,7 +287,63 @@
             }
         },
         {
-            "type": "Feature",
+             "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEGC3M",
+                "Site_Name": "Garnet Canyon 3 Mile",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "10 July-10 August 2015",
+                "Habitat": "Open conifer forest",
+                "Lmin": "",
+                "Lmax": "",
+                "Max_ID": "",
+                "Photo1": "",
+                "Acoustic_Summary": "",
+                "Days": "30",
+                "Hours": "720",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.76582,
+                    43.72505
+                ]
+            }
+        },
+        { 
+              "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEGCMD",
+                "Site_Name": "Garnet Canyon Meadow",
+                "Unit_Code": "GRTE",
+                "Season": "Summer",
+                "Year": "20 July-9 August 2015",
+                "Habitat": "High alpine mixed scree",
+                "Lmin": "",
+                "Lmax": "",
+                "Max_ID": "",
+                "Photo1": "",
+                "Acoustic_Summary": "",
+                "Days": "20",
+                "Hours": "480",
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.78922,
+                    43.72573
+                ]
+            }
+        },
+        { 
+"type": "Feature",
             "properties": {
                 "Site_Code": "GRTEGLR2",
                 "Site_Name": "Grassy Lake Road 2",
