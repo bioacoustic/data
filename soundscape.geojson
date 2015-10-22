@@ -1953,8 +1953,9 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
--110.78744,
-                    44.58099                ]
+-110.78734,
+                    44.58075
+]
             }
         },
         {
@@ -2463,7 +2464,7 @@
                 "Lmax": "73.0 dBA",
                 "Max_ID": "Low Propeller Plane",
                 "Photo1": "YELLMM8K.jpg",
-                "Acoustic_Summary": " This monitoring site was part of an array to evaluate the propagation of oversnow vehicle noise. The transect, with three monitors on each side of the road, extended 1.5 kilometers perpendicular to the road.",
+                "Acoustic_Summary": " This monitoring site was part of an array to evaluate the propagation of oversnow vehicle noise. The transect, with three monitors on each side of the road, extended 1.5 kilometers perpendicular to the road. This location was the same as the earlier YELLMM8K..",
                 "Days": "5",
                 "Hours": "107",
                 "Sound_Level_All": "L90=19.1 dBA, L50=20.5 dBA, L10=23.3 dBA, Leq=24.4 dBA",
