@@ -1507,7 +1507,7 @@
                 "Lmax": "81.3 dBA",
                 "Max_ID": "Heavy Equipment on tracks",
                 "Photo1": "YELLCRPA.jpg",
-                "Acoustic_Summary": "Placed 100 feet from a recent rerouted road between Madison Junction and Norris, the a creek could be heard during quiet times and oversnow vehicles could be heard from a distance as they approached from the south,",
+                "Acoustic_Summary": "Placed 100 feet from a recent rerouted road between Madison Junction and Norris, Gibbon River could be heard during quiet times and oversnow vehicles could be heard from a distance as they approached from the south,",
                 "Days": "30",
                 "Hours": "682",
                 "All_Hours": "All natural sounds (95%), Flowing water (78%), Wind (21%), All non-natural sounds (25%), Oversnow vehicles (22%), Aircraft (3%)",
@@ -1889,7 +1889,7 @@
                 "Days": "3333",
                 "Hours": "80000",
                 "All_Hours": "",
-                "Winter Daytime Hours": "All natural sources (80%), All non-natural sounds (63%), Madison River (46%), Road vehicles (35%), Birds (33%), Oversnow vehicles (24%), Wind (20%), Red squirrels (5%), Insect (4%), Aircraft (3%)",
+                "Daytime Hours": "All natural sources (80%), All non-natural sounds (63%), Madison River (46%), Road vehicles (35%), Birds (33%), Oversnow vehicles (24%), Wind (20%), Red squirrels (5%), Insect (4%), Aircraft (3%)",
                 "Sound_Level_All": "L90=28.6 dBA, L50=31.9 dBA, L10=38.7 dBA, Leq=40.9 dBA",
                 "Sound_Level_Day": "L90=32.0 dBA, L50=37.4 dBA, L10=49.0 dBA, Leq=45.8 dBA ",
                 "Photo1_Caption": "Sound monitor 100 feet from the West Entrance Road in regenerating pines"
@@ -1953,9 +1953,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -110.78603,
-                    44.58153
-                ]
+-110.78724,
+                    44.58075                ]
             }
         },
         {
