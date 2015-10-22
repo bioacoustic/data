@@ -1858,8 +1858,8 @@
                 "Acoustic_Summary": "This site was installed between YELLMJ23 and the road to directly measure sound attenuation from oversnow vehicles.",
                 "Days": "32",
                 "Hours": "766",
-                "All_Hours": "",
-                "Winter Daytime Hours": "",
+                "All_Hours": "See adjacent YELLMJ2B3",
+                "Winter Daytime Hours": "See adjacent YELLMJ23",
                 "Sound_Level_All": "L90=27.0 dBA, L50=30.6 dBA, L10=34.6 dBA, Leq=37.7 dBA",
                 "Sound_Level_Day": "L90=29.3 dBA, L50=33.4 dBA, L10=39.2 dBA, Leq=43.5 dBA ",
                 "Photo1_Caption": "Sound monitor 50 feet from groomed road"
@@ -2148,8 +2148,8 @@
                 "Acoustic_Summary": "This monitor was on Paycheck Pass just off the Heart Lake Trail about 3 miles from the groomed winter road. Wind was the most common sound. Interestingly, oversnow vehicles were heard less often here than the further (by 2 miles), but less windy YELLHLBC monitor.",
                 "Days": "31",
                 "Hours": "737",
-                "All_Hours": "",
-                "Winter Daytime Hours": "",
+                "All_Hours": "All natural sounds (64%), Wind (48%), Silence (32%), Natural other (10%), All non-natural sounds (6%), Oversnow vehicles (3%), Aircraft (2%)",
+                "Winter Daytime Hours": " All natural sounds (71%), Wind (65%), Silence (21%), All non-natural sounds (12%), Natural other (9%), Oversnow vehicles (8%), Birds (5%, and Aircraft (3%)",
                 "Sound_Level_All": "L90=17.6 dBA, L50=21.6 dBA, L10=28.5 dBA, Leq=27.5 dBA",
                 "Sound_Level_Day": "L90= dBA, L50= dBA, L10= dBA, Leq= dBA ",
                 "Photo1_Caption": "Sound monitor just off Heart Lake Trail"
@@ -2178,8 +2178,8 @@
                 "Acoustic_Summary": "Near the shores of Yellowstone Lake just north of Pumice Point, this monitor often recorded strong winds. Other sounds included oversnow vehicles, birds, and ice cracking on the lake.",
                 "Days": "48",
                 "Hours": "1145",
-                "All_Hours": "",
-                "Winter Daytime Hours": "",
+                "All_Hours": "All natural sounds (65%), Wind (49%), Natural other (34%), Silence (26%), All non-natural sounds (17%), Oversnow vehicles (12%), Birds (5%), Aircraft (3%)",
+                "Winter Daytime Hours": "All natural sounds (71%), Wind (43%), Natural other (37%), All non-natural sounds (28%), Oversnow vehicles (22%), Silence (14%), Birds (8%), Aircraft (4%)",
                 "Sound_Level_All": "L90= dBA, L50= dBA, L10= dBA, Leq= dBA",
                 "Sound_Level_Day": "L90= dBA, L50= dBA, L10= dBA, Leq= dBA ",
                 "Photo1_Caption": "Sound monitor 100 feet from road between West Thumb and Bridge Bay"
