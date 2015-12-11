@@ -1,0 +1,349 @@
+2015-12-08 10:58:22.2972|INFO|thread:38|AsyncReaderWriterLock|Released concurrent scheduler for operation: 55:GitClient.cs:218
+2015-12-08 10:08:20.1189|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4\GitHub.exe
+2015-12-08 10:08:20.1359|INFO|thread: 1|AppInstanceCommunicator|Starting up as master instance of GitHub for Windows
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| #########################################
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| GitHub for Windows started. VERSION: 2.14.7.1
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| Build version: b86a398244b1616c5ff52246cf77d6a56cb1f8f9
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| ***************************************
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| ***        Have a problem?          ***
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| ***    Email support@github.com     ***
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| ***      and include this file      ***
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| ***                                 ***
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| ***************************************
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| OS Version: Windows 7 Service Pack 1 6.1.7601.65536 amd64
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| CLR Version: 4.0.30319.18063
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| Current culture: en-US
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| Terminal Services session: no
+2015-12-08 10:08:20.1359|INFO|thread: 5|StartupLogging| Location: C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4\GitHub.exe
+2015-12-08 10:08:20.3229|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2015-12-08 10:08:20.3229|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2015-12-08 10:08:20.3229|INFO|thread: 5|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2015-12-08 10:08:20.3229|INFO|thread: 1|App|Checking whether application is network deployed.
+2015-12-08 10:08:20.3379|INFO|thread: 5|GitEnvironment|Process set up with this SSH Agent info: 7948:/tmp/ssh-YU1535y485PC/agent.4164
+2015-12-08 10:08:20.3379|INFO|thread: 5|GitEnvironment|PATH is C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4;C:\Users\sburson\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\QuickTime\QTSystem\
+2015-12-08 10:08:20.3379|INFO|thread: 5|StartupLogging| =====================================================
+2015-12-08 10:08:20.3379|INFO|thread: 5|StartupLogging|  DIAGNOSTICS                                        |
+2015-12-08 10:08:20.3379|INFO|thread: 5|StartupLogging| =====================================================
+2015-12-08 10:08:20.3379|INFO|thread: 5|StartupLogging| Git Extracted: 'True:
+2015-12-08 10:08:20.3379|INFO|thread: 5|StartupLogging| PortableGit Dir Exists: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad'
+2015-12-08 10:08:20.3379|INFO|thread: 5|StartupLogging| Git Executable Exists: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe'
+2015-12-08 10:08:20.3379|ERROR|thread: 5|StartupLogging| MISSING PATH!!: 'C:\Program Files (x86)\AMD APP\bin\x86'
+2015-12-08 10:08:20.3379|INFO|thread: 5|StartupLogging| ----------------------------------------------------
+2015-12-08 10:08:20.3379|INFO|thread: 5|StartupLogging| PATH: C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\QuickTime\QTSystem\
+2015-12-08 10:08:20.3570|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4\Images\App.ico'
+2015-12-08 10:08:20.3570|INFO|thread: 5|StartupLogger|Proxy information: (None)
+2015-12-08 10:08:20.3570|INFO|thread: 5|StartupLogger|Couldn't fetch creds for proxy
+2015-12-08 10:08:20.7440|INFO|thread: 5|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2015-12-08 10:08:20.8260|INFO|thread: 5|MsysGitCertificateInstaller|Found certificate cache, loaded 162 certificates
+2015-12-08 10:08:20.8370|INFO|thread: 5|MsysGitCertificateInstaller|Created certificate bundle with 382 entries
+2015-12-08 10:08:20.8610|INFO|thread: 5|StartupSequence|Took 125ms to Update certificate bundle from system store
+2015-12-08 10:08:21.2830|INFO|thread: 1|CommandLineToolsExtractor|Portable Git and Git LFS are already extracted
+2015-12-08 10:08:21.2830|INFO|thread: 1|GitClient|Installing git lfs filters
+2015-12-08 10:08:21.2910|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 7948:/tmp/ssh-YU1535y485PC/agent.4164
+2015-12-08 10:08:21.2910|INFO|thread: 1|GitEnvironment|PATH is C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4;C:\Users\sburson\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-08 10:08:21.2910|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'lfs init ', Working Directory: C:\Users\sburson\AppData\Local\Temp\
+2015-12-08 10:08:21.3441|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2015-12-08 10:08:21.3441|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2015-12-08 10:08:21.7491|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2015-12-08 10:08:22.0411|WARN|thread: 9|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:null' was not present in the cache.
+2015-12-08 10:08:22.0571|INFO|thread:14|DashboardViewModel|Selected repository ''
+2015-12-08 10:08:22.0831|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 1:GitClient.cs:696
+2015-12-08 10:08:22.0841|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 1:GitClient.cs:696
+2015-12-08 10:08:22.0841|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 2:GitClient.cs:674
+2015-12-08 10:08:22.0841|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 2:GitClient.cs:674
+2015-12-08 10:08:22.1061|INFO|thread:16|AsyncReaderWriterLock|Released concurrent scheduler for operation: 1:GitClient.cs:696
+2015-12-08 10:08:22.5322|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 3:GitClient.cs:243
+2015-12-08 10:08:22.5322|INFO|thread:16|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 3:GitClient.cs:243
+2015-12-08 10:08:22.5322|INFO|thread: 5|DashboardViewModel|Took 474ms to create repository for location: C:\Github\data-gh-pages
+2015-12-08 10:08:22.5322|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 2:GitClient.cs:674
+2015-12-08 10:08:22.5322|INFO|thread:11|GitClient|Loading commits for repo: C:\Github\data-gh-pages
+2015-12-08 10:08:22.5572|INFO|thread:11|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Github\data-gh-pages\.
+2015-12-08 10:08:22.5572|INFO|thread:11|AsyncReaderWriterLock|Released concurrent scheduler for operation: 3:GitClient.cs:243
+2015-12-08 10:08:22.6292|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo - doFetch: True
+2015-12-08 10:08:22.6302|INFO|thread:24|BackgroundFetcher|Added a delay for C:\Github\data-gh-pages\.git of 11401 milliseconds
+2015-12-08 10:08:22.6302|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 4:RepositoryModel.cs:582
+2015-12-08 10:08:22.6302|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 4:RepositoryModel.cs:582
+2015-12-08 10:08:22.6302|ERROR|thread: 5|SyncButtonViewModel|Branch was not updated before refresh was called
+2015-12-08 10:08:22.6482|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 5:GitClient.cs:309
+2015-12-08 10:08:22.6482|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 5:GitClient.cs:309
+2015-12-08 10:08:22.6482|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 6:BranchesViewModel.cs:627
+2015-12-08 10:08:22.6482|INFO|thread:11|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 6:BranchesViewModel.cs:627
+2015-12-08 10:08:22.6482|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 4:RepositoryModel.cs:582
+2015-12-08 10:08:22.6482|INFO|thread:16|GitEnvironment|Process set up with this SSH Agent info: 7948:/tmp/ssh-YU1535y485PC/agent.4164
+2015-12-08 10:08:22.6482|INFO|thread:16|GitEnvironment|PATH is C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4;C:\Users\sburson\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-08 10:08:22.6482|INFO|thread:16|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Github\data-gh-pages\
+2015-12-08 10:08:22.6482|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 6:BranchesViewModel.cs:627
+2015-12-08 10:08:22.7942|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo - doFetch: True
+2015-12-08 10:08:22.7942|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 7:RepositoryModel.cs:582
+2015-12-08 10:08:22.7942|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 7:RepositoryModel.cs:582
+2015-12-08 10:08:22.7942|ERROR|thread: 5|SyncButtonViewModel|Branch was not updated before refresh was called
+2015-12-08 10:08:22.7942|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 7:RepositoryModel.cs:582
+2015-12-08 10:08:22.7942|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 8:ICommitFetcher.cs:63
+2015-12-08 10:08:22.7942|INFO|thread:10|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 8:ICommitFetcher.cs:63
+2015-12-08 10:08:22.8022|INFO|thread: 4|ConcurrentRepositoryConnection|Loading commits for repo: C:\Github\data-gh-pages\
+2015-12-08 10:08:22.8022|INFO|thread: 4|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Github\data-gh-pages\.
+2015-12-08 10:08:22.8022|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 9:ICommitFetcher.cs:81
+2015-12-08 10:08:22.8022|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 9:ICommitFetcher.cs:81
+2015-12-08 10:08:22.8022|ERROR|thread: 1|SyncButtonViewModel|Branch was not updated before refresh was called
+2015-12-08 10:08:22.8022|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 10:GitClient.cs:679
+2015-12-08 10:08:22.8212|INFO|thread:25|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Github\data-gh-pages\.
+2015-12-08 10:08:22.8212|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 8:ICommitFetcher.cs:63
+2015-12-08 10:08:22.8212|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 10:GitClient.cs:679
+2015-12-08 10:08:22.8462|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 10:GitClient.cs:679
+2015-12-08 10:08:22.8532|INFO|thread:25|AsyncReaderWriterLock|Released concurrent scheduler for operation: 9:ICommitFetcher.cs:81
+2015-12-08 10:08:22.8532|INFO|thread:11|RepositoryViewModel|Took 214ms to load files for C:\Github\data-gh-pages
+2015-12-08 10:08:22.8532|INFO|thread:11|AsyncReaderWriterLock|Released concurrent scheduler for operation: 5:GitClient.cs:309
+2015-12-08 10:08:23.4753|INFO|thread:10|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 11:GitClient.cs:286
+2015-12-08 10:08:23.4753|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 11:GitClient.cs:286
+2015-12-08 10:08:23.4753|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 12:GitClient.cs:286
+2015-12-08 10:08:23.4753|INFO|thread:25|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 12:GitClient.cs:286
+2015-12-08 10:08:23.4893|INFO|thread:16|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 13:GitClient.cs:286
+2015-12-08 10:08:23.4893|INFO|thread:11|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 13:GitClient.cs:286
+2015-12-08 10:08:23.5053|INFO|thread:16|AsyncReaderWriterLock|Released concurrent scheduler for operation: 13:GitClient.cs:286
+2015-12-08 10:08:23.5053|INFO|thread:16|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 14:GitClient.cs:286
+2015-12-08 10:08:23.5053|INFO|thread:11|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 14:GitClient.cs:286
+2015-12-08 10:08:23.5253|INFO|thread:16|AsyncReaderWriterLock|Released concurrent scheduler for operation: 14:GitClient.cs:286
+2015-12-08 10:08:23.5253|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 12:GitClient.cs:286
+2015-12-08 10:08:23.5253|INFO|thread:17|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 15:GitClient.cs:286
+2015-12-08 10:08:23.5253|INFO|thread:17|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 15:GitClient.cs:286
+2015-12-08 10:08:23.5253|INFO|thread:10|AsyncReaderWriterLock|Released concurrent scheduler for operation: 11:GitClient.cs:286
+2015-12-08 10:08:23.5253|INFO|thread:16|AsyncReaderWriterLock|Released concurrent scheduler for operation: 15:GitClient.cs:286
+2015-12-08 10:08:23.5253|INFO|thread:10|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 16:GitClient.cs:286
+2015-12-08 10:08:23.5253|INFO|thread:10|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 16:GitClient.cs:286
+2015-12-08 10:08:23.5253|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 16:GitClient.cs:286
+2015-12-08 10:08:23.5413|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 17:GitClient.cs:286
+2015-12-08 10:08:23.5413|INFO|thread:25|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 17:GitClient.cs:286
+2015-12-08 10:08:23.5413|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 17:GitClient.cs:286
+2015-12-08 10:08:23.5573|INFO|thread:11|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 18:GitClient.cs:286
+2015-12-08 10:08:23.5573|INFO|thread:10|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 18:GitClient.cs:286
+2015-12-08 10:08:23.5573|INFO|thread:11|AsyncReaderWriterLock|Released concurrent scheduler for operation: 18:GitClient.cs:286
+2015-12-08 10:08:23.5933|INFO|thread:25|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 19:GitClient.cs:286
+2015-12-08 10:08:23.5933|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 19:GitClient.cs:286
+2015-12-08 10:08:23.5933|INFO|thread:10|AsyncReaderWriterLock|Released concurrent scheduler for operation: 19:GitClient.cs:286
+2015-12-08 10:08:23.7013|INFO|thread: 1|RepositoryViewModel|Took 1056ms to render file list for C:\Github\data-gh-pages
+2015-12-08 10:08:23.7013|INFO|thread:26|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/WindowsBranch
+2015-12-08 10:08:23.7013|INFO|thread:27|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/WindowsBranch
+2015-12-08 10:08:23.7083|INFO|thread:26|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 20:GitClient.cs:218
+2015-12-08 10:08:23.7083|INFO|thread:10|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 20:GitClient.cs:218
+2015-12-08 10:08:23.7243|INFO|thread:11|AsyncReaderWriterLock|Released concurrent scheduler for operation: 20:GitClient.cs:218
+2015-12-08 10:08:26.0815|INFO|thread: 1|RepositoryHost|Log in from cache for login 'bioacoustic' to host 'https://api.github.com/' SUCCEEDED
+2015-12-08 10:08:26.0965|INFO|thread:27|ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = 'Shan Burson' and user.email = 'shan_burson@nps.gov'
+2015-12-08 10:08:26.0965|INFO|thread:27|SSHKeyHelper|ssh-agent already running
+2015-12-08 10:08:26.1105|INFO|thread:27|PortablePackageManager|Already extracted lfs-amd64.7z, returning 100%
+2015-12-08 10:08:26.1105|INFO|thread:27|GitEnvironment|Process set up with this SSH Agent info: 7948:/tmp/ssh-YU1535y485PC/agent.4164
+2015-12-08 10:08:26.1105|INFO|thread:27|GitEnvironment|PATH is C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4;C:\Users\sburson\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-08 10:08:26.1105|INFO|thread:27|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\ssh-add.exe', Args: '"C:\Users\sburson\.ssh\github_rsa"', Working Directory: C:\Users\sburson\AppData\Local\Temp\
+2015-12-08 10:08:26.1685|INFO|thread:11|SSHKeyHelper|Found existing SSH key pair
+2015-12-08 10:08:30.4140|INFO|thread:10|SoftwareUpdateViewModel|Checking for new version
+2015-12-08 10:08:32.4512|INFO|thread:17|SoftwareUpdateViewModel|New version available: 3.0.9.0
+2015-12-08 10:10:16.8516|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo - doFetch: False
+2015-12-08 10:10:16.8516|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 21:RepositoryModel.cs:582
+2015-12-08 10:10:16.8516|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 21:RepositoryModel.cs:582
+2015-12-08 10:10:16.8626|INFO|thread: 9|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/WindowsBranch
+2015-12-08 10:10:16.8626|INFO|thread: 9|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 22:GitClient.cs:309
+2015-12-08 10:10:16.8626|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 22:GitClient.cs:309
+2015-12-08 10:10:16.8626|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 21:RepositoryModel.cs:582
+2015-12-08 10:10:16.8756|INFO|thread: 9|GitEnvironment|Process set up with this SSH Agent info: 7948:/tmp/ssh-YU1535y485PC/agent.4164
+2015-12-08 10:10:16.8756|INFO|thread: 9|GitEnvironment|PATH is C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4;C:\Users\sburson\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-08 10:10:16.8756|INFO|thread: 9|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Github\data-gh-pages\
+2015-12-08 10:10:17.0946|INFO|thread: 5|RepositoryViewModel|Took 231ms to load files for C:\Github\data-gh-pages
+2015-12-08 10:10:17.0946|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 22:GitClient.cs:309
+2015-12-08 10:10:17.1116|INFO|thread: 1|RepositoryViewModel|Took 247ms to render file list for C:\Github\data-gh-pages
+2015-12-08 10:10:17.1116|INFO|thread:31|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/WindowsBranch
+2015-12-08 10:10:17.1116|INFO|thread:31|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 23:GitClient.cs:218
+2015-12-08 10:10:17.1116|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 23:GitClient.cs:218
+2015-12-08 10:10:17.1116|INFO|thread:25|AsyncReaderWriterLock|Released concurrent scheduler for operation: 23:GitClient.cs:218
+2015-12-08 10:10:36.0885|INFO|thread:20|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 24:GitClient.cs:232
+2015-12-08 10:10:36.0885|INFO|thread: 9|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 24:GitClient.cs:232
+2015-12-08 10:10:36.0885|INFO|thread:20|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 25:GitClient.cs:128
+2015-12-08 10:10:36.0885|INFO|thread:27|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 25:GitClient.cs:128
+2015-12-08 10:10:36.0955|INFO|thread:11|AsyncReaderWriterLock|Released concurrent scheduler for operation: 24:GitClient.cs:232
+2015-12-08 10:10:36.0955|INFO|thread:25|GitEnvironment|Process set up with this SSH Agent info: 7948:/tmp/ssh-YU1535y485PC/agent.4164
+2015-12-08 10:10:36.0955|INFO|thread:25|GitEnvironment|PATH is C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4;C:\Users\sburson\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-08 10:10:36.0955|INFO|thread:25|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\Github\data-gh-pages\
+2015-12-08 10:10:36.1745|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 25:GitClient.cs:128
+2015-12-08 10:10:38.9878|INFO|thread: 1|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation: 26:RepositoryModel.cs:652
+2015-12-08 10:10:38.9878|INFO|thread:17|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 26:RepositoryModel.cs:652
+2015-12-08 10:10:39.0068|INFO|thread:18|ExclusiveRepositoryConnection|Checking out treeish: C:\Github\data-gh-pages\@master
+2015-12-08 10:10:39.0208|INFO|thread:18|GitLfsSmudgeTail|Setting Git LFS smudge progress environment variable
+2015-12-08 10:10:39.0378|INFO|thread:18|GitEnvironment|Process set up with this SSH Agent info: 7948:/tmp/ssh-YU1535y485PC/agent.4164
+2015-12-08 10:10:39.0378|INFO|thread:18|GitEnvironment|PATH is C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4;C:\Users\sburson\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-08 10:10:39.0378|INFO|thread:18|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'checkout master ', Working Directory: C:\Github\data-gh-pages\
+2015-12-08 10:10:39.1268|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 27:RepositoryModel.cs:582
+2015-12-08 10:10:39.1268|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 28:RepositoryModel.cs:582
+2015-12-08 10:10:39.1268|INFO|thread: 4|AsyncReaderWriterLock|Released exclusive scheduler for operation: 26:RepositoryModel.cs:652
+2015-12-08 10:10:39.1268|INFO|thread:25|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 27:RepositoryModel.cs:582
+2015-12-08 10:10:39.1268|INFO|thread: 4|GitLfsSmudgeTail|Cleaning up Git LFS smudge progress environment variable
+2015-12-08 10:10:39.1268|INFO|thread:27|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 28:RepositoryModel.cs:582
+2015-12-08 10:10:39.1268|INFO|thread:32|AsyncReaderWriterLock|Released concurrent scheduler for operation: 27:RepositoryModel.cs:582
+2015-12-08 10:10:39.1268|INFO|thread:11|AsyncReaderWriterLock|Released concurrent scheduler for operation: 28:RepositoryModel.cs:582
+2015-12-08 10:10:39.1268|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 29:BranchesViewModel.cs:627
+2015-12-08 10:10:39.1268|INFO|thread:18|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 29:BranchesViewModel.cs:627
+2015-12-08 10:10:39.1268|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 30:ICommitFetcher.cs:63
+2015-12-08 10:10:39.1268|INFO|thread:32|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 30:ICommitFetcher.cs:63
+2015-12-08 10:10:39.1268|INFO|thread:25|ConcurrentRepositoryConnection|Loading commits for repo: C:\Github\data-gh-pages\
+2015-12-08 10:10:39.1268|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 31:ICommitFetcher.cs:81
+2015-12-08 10:10:39.1268|INFO|thread:33|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 31:ICommitFetcher.cs:81
+2015-12-08 10:10:39.1268|INFO|thread: 1|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/WindowsBranch
+2015-12-08 10:10:39.1268|INFO|thread:25|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Github\data-gh-pages\.
+2015-12-08 10:10:39.1268|INFO|thread:25|AsyncReaderWriterLock|Released concurrent scheduler for operation: 30:ICommitFetcher.cs:63
+2015-12-08 10:10:39.1268|INFO|thread:17|AsyncReaderWriterLock|Released concurrent scheduler for operation: 29:BranchesViewModel.cs:627
+2015-12-08 10:10:39.1388|INFO|thread: 9|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Github\data-gh-pages\.
+2015-12-08 10:10:39.1388|INFO|thread: 9|AsyncReaderWriterLock|Released concurrent scheduler for operation: 31:ICommitFetcher.cs:81
+2015-12-08 10:10:45.8375|INFO|thread:34|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 32:GitClient.cs:232
+2015-12-08 10:10:45.8375|INFO|thread:27|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 32:GitClient.cs:232
+2015-12-08 10:10:45.8375|INFO|thread:34|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 33:GitClient.cs:128
+2015-12-08 10:10:45.8375|INFO|thread:25|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 33:GitClient.cs:128
+2015-12-08 10:10:45.8375|INFO|thread:20|AsyncReaderWriterLock|Released concurrent scheduler for operation: 32:GitClient.cs:232
+2015-12-08 10:10:45.8505|INFO|thread:34|GitEnvironment|Process set up with this SSH Agent info: 7948:/tmp/ssh-YU1535y485PC/agent.4164
+2015-12-08 10:10:45.8505|INFO|thread:34|GitEnvironment|PATH is C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4;C:\Users\sburson\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-08 10:10:45.8505|INFO|thread:34|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\Github\data-gh-pages\
+2015-12-08 10:10:45.9415|INFO|thread:18|AsyncReaderWriterLock|Released concurrent scheduler for operation: 33:GitClient.cs:128
+2015-12-08 10:10:47.9147|INFO|thread: 1|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation: 34:RepositoryModel.cs:652
+2015-12-08 10:10:47.9147|INFO|thread:31|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 34:RepositoryModel.cs:652
+2015-12-08 10:10:47.9147|INFO|thread:32|ExclusiveRepositoryConnection|Checking out treeish: C:\Github\data-gh-pages\@WindowsBranch
+2015-12-08 10:10:47.9347|INFO|thread:32|GitLfsSmudgeTail|Setting Git LFS smudge progress environment variable
+2015-12-08 10:10:47.9427|INFO|thread:32|GitEnvironment|Process set up with this SSH Agent info: 7948:/tmp/ssh-YU1535y485PC/agent.4164
+2015-12-08 10:10:47.9427|INFO|thread:32|GitEnvironment|PATH is C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4;C:\Users\sburson\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-08 10:10:47.9427|INFO|thread:32|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'checkout WindowsBranch ', Working Directory: C:\Github\data-gh-pages\
+2015-12-08 10:10:48.0427|INFO|thread:25|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 35:RepositoryModel.cs:582
+2015-12-08 10:10:48.0427|INFO|thread:25|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 36:RepositoryModel.cs:582
+2015-12-08 10:10:48.0427|INFO|thread:25|AsyncReaderWriterLock|Released exclusive scheduler for operation: 34:RepositoryModel.cs:652
+2015-12-08 10:10:48.0427|INFO|thread:11|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 35:RepositoryModel.cs:582
+2015-12-08 10:10:48.0427|INFO|thread:31|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 36:RepositoryModel.cs:582
+2015-12-08 10:10:48.0427|INFO|thread:25|GitLfsSmudgeTail|Cleaning up Git LFS smudge progress environment variable
+2015-12-08 10:10:48.0447|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 35:RepositoryModel.cs:582
+2015-12-08 10:10:48.0447|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 36:RepositoryModel.cs:582
+2015-12-08 10:10:48.0447|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 37:BranchesViewModel.cs:627
+2015-12-08 10:10:48.0447|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 37:BranchesViewModel.cs:627
+2015-12-08 10:10:48.0447|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 38:ICommitFetcher.cs:63
+2015-12-08 10:10:48.0447|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 38:ICommitFetcher.cs:63
+2015-12-08 10:10:48.0447|INFO|thread:31|ConcurrentRepositoryConnection|Loading commits for repo: C:\Github\data-gh-pages\
+2015-12-08 10:10:48.0447|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 39:ICommitFetcher.cs:81
+2015-12-08 10:10:48.0447|INFO|thread:11|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 39:ICommitFetcher.cs:81
+2015-12-08 10:10:48.0447|INFO|thread: 1|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/master
+2015-12-08 10:10:48.0447|INFO|thread:31|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Github\data-gh-pages\.
+2015-12-08 10:10:48.0447|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 38:ICommitFetcher.cs:63
+2015-12-08 10:10:48.0447|INFO|thread:25|AsyncReaderWriterLock|Released concurrent scheduler for operation: 37:BranchesViewModel.cs:627
+2015-12-08 10:10:48.0447|INFO|thread:34|ConcurrentRepositoryConnection|Loaded '1' commits for repo: C:\Github\data-gh-pages\.
+2015-12-08 10:10:48.0447|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 39:ICommitFetcher.cs:81
+2015-12-08 10:11:15.2284|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo - doFetch: False
+2015-12-08 10:11:15.2284|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 40:RepositoryModel.cs:582
+2015-12-08 10:11:15.2284|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 40:RepositoryModel.cs:582
+2015-12-08 10:11:15.2384|INFO|thread:34|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/WindowsBranch
+2015-12-08 10:11:15.2384|INFO|thread:34|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 41:GitClient.cs:309
+2015-12-08 10:11:15.2384|INFO|thread:11|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 41:GitClient.cs:309
+2015-12-08 10:11:15.2384|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 40:RepositoryModel.cs:582
+2015-12-08 10:11:15.2544|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 7948:/tmp/ssh-YU1535y485PC/agent.4164
+2015-12-08 10:11:15.2544|INFO|thread: 4|GitEnvironment|PATH is C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4;C:\Users\sburson\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-08 10:11:15.2544|INFO|thread: 4|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Github\data-gh-pages\
+2015-12-08 10:11:15.3725|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 42:GitClient.cs:232
+2015-12-08 10:11:15.3725|INFO|thread:31|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 42:GitClient.cs:232
+2015-12-08 10:11:15.3725|INFO|thread: 4|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 43:GitClient.cs:128
+2015-12-08 10:11:15.3725|INFO|thread:35|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 43:GitClient.cs:128
+2015-12-08 10:11:15.3725|INFO|thread:36|AsyncReaderWriterLock|Released concurrent scheduler for operation: 42:GitClient.cs:232
+2015-12-08 10:11:15.3775|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 7948:/tmp/ssh-YU1535y485PC/agent.4164
+2015-12-08 10:11:15.3775|INFO|thread: 4|GitEnvironment|PATH is C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4;C:\Users\sburson\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-08 10:11:15.3775|INFO|thread: 4|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\Github\data-gh-pages\
+2015-12-08 10:11:15.4505|INFO|thread:37|AsyncReaderWriterLock|Released concurrent scheduler for operation: 43:GitClient.cs:128
+2015-12-08 10:11:15.4695|INFO|thread: 5|RepositoryViewModel|Took 230ms to load files for C:\Github\data-gh-pages
+2015-12-08 10:11:15.4695|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 41:GitClient.cs:309
+2015-12-08 10:11:15.4805|INFO|thread: 1|RepositoryViewModel|Took 241ms to render file list for C:\Github\data-gh-pages
+2015-12-08 10:11:15.4915|INFO|thread:42|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/WindowsBranch
+2015-12-08 10:11:15.4915|INFO|thread:42|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 44:GitClient.cs:218
+2015-12-08 10:11:15.4915|INFO|thread:36|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 44:GitClient.cs:218
+2015-12-08 10:11:15.4915|INFO|thread:39|AsyncReaderWriterLock|Released concurrent scheduler for operation: 44:GitClient.cs:218
+2015-12-08 10:11:31.9421|INFO|thread:37|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 45:GitClient.cs:232
+2015-12-08 10:11:31.9421|INFO|thread:25|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 45:GitClient.cs:232
+2015-12-08 10:11:31.9461|INFO|thread:37|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 46:GitClient.cs:128
+2015-12-08 10:11:31.9461|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 46:GitClient.cs:128
+2015-12-08 10:11:31.9461|INFO|thread:41|AsyncReaderWriterLock|Released concurrent scheduler for operation: 45:GitClient.cs:232
+2015-12-08 10:11:31.9461|INFO|thread:31|GitEnvironment|Process set up with this SSH Agent info: 7948:/tmp/ssh-YU1535y485PC/agent.4164
+2015-12-08 10:11:31.9461|INFO|thread:31|GitEnvironment|PATH is C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4;C:\Users\sburson\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-08 10:11:31.9461|INFO|thread:31|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\Github\data-gh-pages\
+2015-12-08 10:11:32.0401|INFO|thread:11|AsyncReaderWriterLock|Released concurrent scheduler for operation: 46:GitClient.cs:128
+2015-12-08 10:13:34.0603|INFO|thread: 5|RepositoryViewModel|Refreshing all information for repo - doFetch: True
+2015-12-08 10:13:34.0603|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 47:RepositoryModel.cs:582
+2015-12-08 10:13:34.0603|INFO|thread:31|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 47:RepositoryModel.cs:582
+2015-12-08 10:13:34.0703|INFO|thread:37|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/WindowsBranch
+2015-12-08 10:13:34.0703|INFO|thread:37|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 48:GitClient.cs:309
+2015-12-08 10:13:34.0703|INFO|thread:38|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 48:GitClient.cs:309
+2015-12-08 10:13:34.0703|INFO|thread:37|AsyncReaderWriterLock|Released concurrent scheduler for operation: 47:RepositoryModel.cs:582
+2015-12-08 10:13:34.0703|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 7948:/tmp/ssh-YU1535y485PC/agent.4164
+2015-12-08 10:13:34.0703|INFO|thread: 4|GitEnvironment|PATH is C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4;C:\Users\sburson\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-08 10:13:34.0703|INFO|thread: 4|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Github\data-gh-pages\
+2015-12-08 10:13:34.3093|INFO|thread: 5|RepositoryViewModel|Took 237ms to load files for C:\Github\data-gh-pages
+2015-12-08 10:13:34.3093|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 48:GitClient.cs:309
+2015-12-08 10:13:34.3393|INFO|thread: 1|RepositoryViewModel|Took 268ms to render file list for C:\Github\data-gh-pages
+2015-12-08 10:13:34.3393|INFO|thread:42|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/WindowsBranch
+2015-12-08 10:13:34.3393|INFO|thread:42|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 49:GitClient.cs:218
+2015-12-08 10:13:34.3393|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 49:GitClient.cs:218
+2015-12-08 10:13:34.3543|INFO|thread:38|AsyncReaderWriterLock|Released concurrent scheduler for operation: 49:GitClient.cs:218
+2015-12-08 10:17:39.5819|ERROR|thread:39|SoftwareUpdateViewModel|Downloading application update failed.
+System.Deployment.Application.DeploymentDownloadException: Downloading http://github-windows.s3.amazonaws.com/Application Files/GitHub_3_0_9_0/libcef.dll.deploy did not succeed. ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.ConnectStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Deployment.Application.SystemNetDownloader.DownloadSingleFile(DownloadQueueItem next)
+   --- End of inner exception stack trace ---
+   at System.Deployment.Application.SystemNetDownloader.DownloadSingleFile(DownloadQueueItem next)
+   at System.Deployment.Application.SystemNetDownloader.DownloadAllFiles()
+   at System.Deployment.Application.FileDownloader.Download(SubscriptionState subState)
+   at System.Deployment.Application.DownloadManager.DownloadDependencies(SubscriptionState subState, AssemblyManifest deployManifest, AssemblyManifest appManifest, Uri sourceUriBase, String targetDirectory, String group, IDownloadNotification notification, DownloadOptions options)
+   at System.Deployment.Application.DeploymentManager.SynchronizeCore(Boolean blocking)
+   at System.Deployment.Application.DeploymentManager.SynchronizeAsyncWorker()
+2015-12-08 10:26:49.6049|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo - doFetch: True
+2015-12-08 10:26:49.6049|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 50:RepositoryModel.cs:582
+2015-12-08 10:26:49.6179|INFO|thread:45|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 50:RepositoryModel.cs:582
+2015-12-08 10:26:49.6179|INFO|thread:47|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/WindowsBranch
+2015-12-08 10:26:49.6179|INFO|thread:47|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 51:GitClient.cs:309
+2015-12-08 10:26:49.6179|INFO|thread:49|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 51:GitClient.cs:309
+2015-12-08 10:26:49.6179|INFO|thread:47|AsyncReaderWriterLock|Released concurrent scheduler for operation: 50:RepositoryModel.cs:582
+2015-12-08 10:26:49.6319|INFO|thread:50|GitEnvironment|Process set up with this SSH Agent info: 7948:/tmp/ssh-YU1535y485PC/agent.4164
+2015-12-08 10:26:49.6319|INFO|thread:50|GitEnvironment|PATH is C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4;C:\Users\sburson\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-08 10:26:49.6319|INFO|thread:50|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Github\data-gh-pages\
+2015-12-08 10:26:49.8459|INFO|thread:44|RepositoryViewModel|Took 224ms to load files for C:\Github\data-gh-pages
+2015-12-08 10:26:49.8459|INFO|thread:44|AsyncReaderWriterLock|Released concurrent scheduler for operation: 51:GitClient.cs:309
+2015-12-08 10:26:49.8779|INFO|thread: 1|RepositoryViewModel|Took 255ms to render file list for C:\Github\data-gh-pages
+2015-12-08 10:26:49.8779|INFO|thread:42|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/WindowsBranch
+2015-12-08 10:26:49.8799|INFO|thread:42|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 52:GitClient.cs:218
+2015-12-08 10:26:49.8799|INFO|thread:51|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 52:GitClient.cs:218
+2015-12-08 10:26:49.8799|INFO|thread:44|AsyncReaderWriterLock|Released concurrent scheduler for operation: 52:GitClient.cs:218
+2015-12-08 10:26:52.6492|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.AboutViewModel.
+2015-12-08 10:26:52.6492|INFO|thread: 1|SoftwareUpdateViewModel|Checking for new version
+2015-12-08 10:26:54.8324|INFO|thread:50|SoftwareUpdateViewModel|New version available: 3.0.9.0
+2015-12-08 10:54:11.6481|ERROR|thread:50|SoftwareUpdateViewModel|Downloading application update failed.
+System.Deployment.Application.DeploymentDownloadException: Downloading http://github-windows.s3.amazonaws.com/Application Files/GitHub_3_0_9_0/libcef.dll.deploy did not succeed. ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.ConnectStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.Deployment.Application.SystemNetDownloader.DownloadSingleFile(DownloadQueueItem next)
+   --- End of inner exception stack trace ---
+   at System.Deployment.Application.SystemNetDownloader.DownloadSingleFile(DownloadQueueItem next)
+   at System.Deployment.Application.SystemNetDownloader.DownloadAllFiles()
+   at System.Deployment.Application.FileDownloader.Download(SubscriptionState subState)
+   at System.Deployment.Application.DownloadManager.DownloadDependencies(SubscriptionState subState, AssemblyManifest deployManifest, AssemblyManifest appManifest, Uri sourceUriBase, String targetDirectory, String group, IDownloadNotification notification, DownloadOptions options)
+   at System.Deployment.Application.DeploymentManager.SynchronizeCore(Boolean blocking)
+   at System.Deployment.Application.DeploymentManager.SynchronizeAsyncWorker()
+2015-12-08 10:58:22.0071|INFO|thread: 1|RepositoryViewModel|Refreshing all information for repo - doFetch: True
+2015-12-08 10:58:22.0131|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 53:RepositoryModel.cs:582
+2015-12-08 10:58:22.0131|INFO|thread:40|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 53:RepositoryModel.cs:582
+2015-12-08 10:58:22.0291|INFO|thread:41|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/WindowsBranch
+2015-12-08 10:58:22.0291|INFO|thread:41|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 54:GitClient.cs:309
+2015-12-08 10:58:22.0291|INFO|thread:39|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 54:GitClient.cs:309
+2015-12-08 10:58:22.0291|INFO|thread:41|AsyncReaderWriterLock|Released concurrent scheduler for operation: 53:RepositoryModel.cs:582
+2015-12-08 10:58:22.0291|INFO|thread:33|GitEnvironment|Process set up with this SSH Agent info: 7948:/tmp/ssh-YU1535y485PC/agent.4164
+2015-12-08 10:58:22.0291|INFO|thread:33|GitEnvironment|PATH is C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\cmd;C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin;C:\Users\sburson\AppData\Local\Apps\2.0\NJ7J2WVW.MYO\GWBTLWM9.VPD\gith..tion_317444273a93ac29_0002.000e_114545a4195e25d4;C:\Users\sburson\AppData\Local\GitHub\lfs-amd64_0.5.1;C:\Windows\Microsoft.NET\Framework\v4.0.30319;C:\Windows\System32
+2015-12-08 10:58:22.0291|INFO|thread:33|ProcessWrapper|Starting: Process - FileName: 'C:\Users\sburson\AppData\Local\GitHub\PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad\bin\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Github\data-gh-pages\
+2015-12-08 10:58:22.2591|INFO|thread:38|RepositoryViewModel|Took 228ms to load files for C:\Github\data-gh-pages
+2015-12-08 10:58:22.2591|INFO|thread:38|AsyncReaderWriterLock|Released concurrent scheduler for operation: 54:GitClient.cs:309
+2015-12-08 10:58:22.2912|INFO|thread: 1|RepositoryViewModel|Took 260ms to render file list for C:\Github\data-gh-pages
+2015-12-08 10:58:22.2972|INFO|thread:34|SyncButtonViewModel|Refresh ahead/behind counts skipped because branch isn't published: refs/heads/WindowsBranch
+2015-12-08 10:58:22.2972|INFO|thread:34|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation: 55:GitClient.cs:218
+2015-12-08 10:58:22.2972|INFO|thread:39|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 55:GitClient.cs:218
