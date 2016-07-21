@@ -271,3 +271,34 @@
     }
   ]
 }
+{
+   "type": "Feature",
+    "properties": {
+    "Site_Code": "YELLOFWS",
+    "Site_Name": "Old Faithful Weather Station (YELLOFWS)",
+    "Unit_Code": "YELL",
+    "Season": "Multiple",
+    "Year": "4-5 Jan 2003 and 16 Dec 2003-31 Mar 2004 and 10 Dec 2004-13 Jul 2015",
+    "Habitat": "Geothermal Basin",
+    "Lmin": "15.3 dBA",
+    "Lmax": "104.8 dBA",
+    "Max_ID": "Helicopter",
+    "Photo1": "YELLOFWS.jpg",
+    "Acoustic_Portrait": "A_Year_at_Old_Faithful_developed_area",
+    "Acoustic_Summary": "Perhaps the longest running non-airport sound monitoring site in the world, this monitor has been collecting data year-round since December of 2004. Although within the busy Old Faithful developed area, a surprising number of natural sounds are heard here, including wetland and upland birds, bison, coyotes, and wolves. Motorized vehicles dominate the soundscape especially in the summer, but people’s voices and building utilities are commonly heard.",
+  "Days": "3533",
+  "Hours": "84823",
+    "All_Hours": "All non-natural sounds (97%), Building utilities (54%), All natural sounds (45%), Road vehicles (29%), Birds (24%), Oversnow vehicles, (18%), Wind (17%), People’s voices (13%), Rumble strip (8%), Aircraft (1%)", 
+    "Winter Daytime Hours": "",
+    "Sound_Level_All": "L90=31.3 dBA, L50=34.8 dBA, L10=43.0 dBA, Leq=40.6 dBA",
+    "Sound_Level_Day": "L90=34.7 dBA, L50=40.4 dBA, L10=47.4 dBA, Leq=44.8 dBA ",
+    "Photo1_Caption": "Sound monitor in weather station enclosure near Ranger Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.83178,
+                    44.45688
+                ]
+            }
+        },
