@@ -111,7 +111,39 @@
         ]
       }
     },
-    {
+        {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEJHAL",
+                "Site_Name": "Jackson Hole Airport Lek (GRTEJHAL)",
+                "Unit_Code": "GRTE",
+                "Season": "Multiple",
+                "Year": "30 Mar-20 Jun 2006, 27 Mar-3 Jun 2013",
+                "Habitat": "Sage Brush",
+                "Lmin": "<22.1 dBA",
+                "Lmax": "107.3 dBA",
+                "Max_ID": "Jet",
+                "Photo1": "GRTEJHAL_northwest.jpg",
+                "Photo2": "GRTEJHAL_south.jpg",
+                "Acoustic_Portrait": "Spring_at_the_airport",
+                "Acoustic_Summary": "This site was in an unusual site location just off the north end of the Jackson Hole Airport runway near a Sage Grouse lek. As expected birds, not only Sage Grouse, were regularly heard along with wind and aircraft. Many of the unidentified motor sounds were from ground operations of the airport but also road vehicles on the highway.",
+                "Days": "139",
+                "Hours": "3323",
+                "All_Hours": "All non-natural sounds (87%), All natural sources (69%), Unknown motor (56%), Bird (48%), Wind (32%), Aircraft (22%), Road vehicles (15%), Rain (5%), Insect (3%)",
+                "Sound_Level_All": "L90=28.8 dBA, L50=32.0 dBA, L10=41.2 dBA, Leq=53.7 dBA",
+                "Sound_Level_Day": "L90=29.7 dBA, L50=34.0 dBA, L10=49.9 dBA, Leq=62.4 dBA",
+                "Photo1_Caption": "Site near approach landing lights; photo looking east",
+                "Photo2_Caption": "Site near north end of runway; photo looking south"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.733204,
+                    43.616516
+                ]
+            }
+        },   
+ {
       "type": "Feature",
       "properties": {
         "Site_Code": "GRTEJLDI",
