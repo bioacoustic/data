@@ -269,6 +269,35 @@
         ]
       }
     },
+    {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLLVWI",
+                "Site_Name": "Lamar Valley Willow (YELLLVWI)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "23 Dec 2009-23 Feb 2010",
+                "Habitat": "Meadow",
+                "Lmin": "14.1 dBA",
+                "Lmax": "85.8 dBA",
+                "Max_ID": "Black-billed Magpie",
+                "Photo1": "YELLLVWI.jpg",
+                "Acoustic_Summary": "This was a winter site, but along a plowed road, not a groomed oversnow vehicle road. Near the Buffalo Ranch in Lamar Valley, flowing water, and road vehicles were the most common sound sources. Birds and wind were often audible, as was an occasional coyote and wolf howl.",
+                "Days": "63",
+                "Hours": "1476",
+                "All_Hours": "All natural sounds (70%), Flowing water (42%), All non-natural sounds (39%), All road vehicles (31%), Wind (15%), Birds (13%), Silence (10%), Aircraft (3%)",
+                "Sound_Level_All": "L90=15.6 dBA, L50=17.4 dBA, L10=27.2 dBA, Leq=28.5 dBA",
+                "Sound_Level_Day": "L90=16.3 dBA, L50=21.1 dBA, L10=34.7 dBA, Leq=33.7 dBA ",
+                "Photo1_Caption": "Sound monitor in willow south of plowed road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.22073,
+                    44.88406
+                ]
+            }
+        },
         {
             "type": "Feature",
             "properties": {
