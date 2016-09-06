@@ -302,6 +302,36 @@
         {
             "type": "Feature",
             "properties": {
+                "Site_Code": "YELLBEC1",
+                "Site_Name": "Bechler 1 (YELLBEC1)",
+                "Unit_Code": "YELL",
+                "Season": "Summer",
+                "Year": "29 Jul-3 Oct 2011",
+                "Habitat": "Open Mixed Forest",
+                "Lmin": "21.3 dBA",
+                "Lmax": "82.6 dBA",
+                "Max_ID": "Off-road Vehicle (motorcycle or 4- wheeler)",
+                "Photo1": "YELLBEC1.jpg",
+                "Acoustic_Portrait": "YELLBEC1_fall_day",
+                "Acoustic_Summary": "Installed to quantify the motorized activity accessing the Bechler area, this site also recorded birds, red squirrels, wind, and silence.",
+                "Days": "58",
+                "Hours": "1361",
+                "All_Hours": "All natural sounds (98%), Flowing water (87%), Squirrel (12%), All non-natural sounds (12%), Wind (11%), Birds (11%), Insects (8%), All road vehicles (6%), Aircraft (4%) ",
+                "Sound_Level_All": "L90=37.3 dBA, L50=39.4 dBA, L10=41.6 dBA, Leq=41.1 dBA ",
+                "Sound_Level_Day": "L90=30.8 dBA, L50=34.0 dBA, L10=39.0 dBA, Leq=40.2 dBA ",
+                "Photo1_Caption": "Sound monitor in trees in middle of photo; taken from road"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.02231,
+                    44.132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Site_Code": "YELLMACS",
                 "Site_Name": "Mammoth Canary Springs (YELLMACS)",
                 "Unit_Code": "YELL",
