@@ -1928,6 +1928,34 @@
         {
             "type": "Feature",
             "properties": {
+                "Site_Code": "YELLOFGY",
+                "Site_Name": "Old Faithful Geyser (YELLOFGY)",
+                "Unit_Code": "YELL",
+                "Season": "Winter",
+                "Year": "17-18 Feb 2003 and 28 Feb-15Mar 2015",
+                "Habitat": "Geothermal Basin",
+                "Lmin": "18.1 dBA",
+                "Lmax": "75.6 dBA",
+                "Max_ID": "Shoveling snow",
+                "Photo1": "",
+                "Acoustic_Summary": "This short-term early site measured the soundscape adjacent to the Old Faithful Geyser. This monitor was under the boardwalk and the common sounds included wind, the geyser erupting, footsteps, voices and ravens.",
+                "Days": "19",
+                "Hours": "399",
+                "Sound_Level_All": "L90=24.2 dBA, L50=25.8 dBA, L10=29.9 dBA, Leq=30.7 dBA",
+                "Sound_Level_Day": "L90=25.1 dBA, L50=28.2 dBA, L10=34.5 dBA, Leq=33.8 dBA ",
+                "Photo1_Caption": "Photo soon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.82773,
+                    44.4964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "Site_Code": "YELLOFPO",
                 "Site_Name": "Old Faithful Post Office (YELLOFPO)",
                 "Unit_Code": "YELL",
