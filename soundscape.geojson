@@ -886,7 +886,7 @@
                 "Days": "38",
                 "Hours": "908",
                 "All_Hours": "All natural sounds (93%), Bird (54%), All non-natural sounds (47%), Flowing water (40%), Road vehicles (33%), Heavy equipment (25%), Insect (24%), Wind (17%), Aircraft ( 10%), Unknown motor (5%), Backup alarms (3%)",
-                "Summer Daytime Hours": "All natural sounds (92%), All non-natural sounds (66%), Bird (62%), Road vehicles (47%), Insect (43%), Heavy equipment (39%), Wind (28%), Aircraft (15%), Unknown motor (5%), Backup alarms (5%), Flowing water (4%)",
+                "Summer Daytime Hours": "All natural sounds (92%), All non-natural sounds (66%), Bird (62%), Road vehicles (47%), Insect (43%), Heavy equipment (39%), Wind (28%), Aircraft (15%), Unknown motor (5%), Backup alarms (5%), Flowing water (4%)", 
                 "Sound_Level_All": "L90=23.7 dBA, L50=27.1 dBA, L10=32.5 dBA, Leq=31.6 dBA",
                 "Sound_Level_Day": "L90=22.7 dBA, L50=25.8 dBA, L10=33.3 dBA, Leq=33.2 dBA",
                 "Photo1_Caption": "Site at edge of early homesteader rock pile; photo looking west"
@@ -1146,7 +1146,7 @@
                 "Lmax": "~84.7 dBA",
                 "Max_ID": "Motorcycle",
                 "Photo1": "GRTEMWR2_southeast.jpg",
-                "Acoustic_Summary": "This late summer sound monitor was located 100 feet from the gravel portion of the Moose Wilson Road. Road traffic was the single most prevalent sound source during the day, but many natural sounds were also audible.",
+                "Acoustic_Summary": "This late summer sound monitor was located 100 feet from the gravel portion of the Moose Wilson Road. Road traffic was the single most prevalent sound source during the day, but many natural sounds were also audible.", 
                 "Days": "32",
                 "Hours": "745",
                 "All_Hours": "All non-natural sounds (60%), All natural sounds (71%), Road vehicles (49%), Flowing water (40%), Birds (18%), Insect (10%), Wind (9%), Aircraft (8%), Unknown motors (8%), Rain (6%), Elk (5%), Squirrel (4%)",
@@ -2100,6 +2100,36 @@
             }
         },
         {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLSEAR",
+                "Site_Name": "South East Arm (YELLSEAR)",
+                "Unit_Code": "YELL",
+                "Season": "Summer",
+                "Year": "18 Aug 2016-14 Sep 2016",
+                "Habitat": "Lakeshore, Conifer Forest",
+                "Lmin": "14.8 dBA",
+                "Lmax": "91.4 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "YELLSEAR.jpg",
+                "Acoustic_Summary": "",
+                "Days": "28",
+                "Hours": "647",
+                "All_Hours": "
+",
+                "Sound_Level_All": "L90=42.2 dBA, L50=45.8 dBA, L10=49.3 dBA, Leq=46.8 dBA",
+                "Sound_Level_Day": "L90=44.2 dBA, L50=47.4 dBA, L10=50.8 dBA, Leq=48.2 dBA ",
+                "Photo1_Caption": "Sound monitor 50 feet from shore in tall conifer forest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.23738,
+                    44.3838
+                ]
+            }
+        },
+       {
             "type": "Feature",
             "properties": {
                 "Site_Code": "YELLSERS",
