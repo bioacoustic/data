@@ -948,7 +948,7 @@
                 "Hours": "2181",
                 "Sound_Level_All": "L90=22.6 dBA, L50=25.9 dBA, L10=31.3 dBA, Leq=29.9 dBA",
                 "Sound_Level_Day": "L90=20.4, dBA, L50=23.7 dBA, L10=31.5 dBA, Leq=31.0 dBA",
-                "Photo1_Caption": "Microphone is in the sage brush in the foreground. Photo looking west towards the Teton Range. "
+                "Photo1_Caption": "The microphone is in the sage brush in the foreground. Photo looking west towards the Teton Range. "
             },
             "geometry": {
                 "type": "Point",
