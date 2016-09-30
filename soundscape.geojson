@@ -408,22 +408,22 @@
                 "Season": "Summer",
                 "Year": "7-18 Jul and 3-17 Aug 2016",
                 "Habitat": "Developed",
-                "Lmin": "23.2 dBA",
-                "Lmax": "97.6 dBA",
-                "Max_ID": "Military Jet",
-                "Photo1": "GRTEHQOF.jpg",
-                "Acoustic_Summary": "On the roof of an office trailer at park headquarters, non-natural sounds dominated this site. However, surprisingly the sounds of birds and flowing water joined with wind and rain as common natural sound sources.",
-                "Days": "1057",
-                "Hours": "25349",
-                "All_Hours": "All non-natural sounds (92%), All natural sources (67%), Road vehicles (52%), Building utilities (48%), Bird (31%), Wind (23%), Flowing water (21%), Snowfall or rain (16%), People (7%), Aircraft (3%)",
-                "Sound_Level_All": "L90=38.3 dBA, L50=40.9 dBA, L10=45.1 dBA, Leq=46.6 dBA",
-                "Sound_Level_Day": "L90=39.7 dBA, L50=43.0 dBA, L10=48.7 dBA, Leq=50.6 dBA",
-                "Photo1_Caption": "Site on office trailer; photo looking west"
+                "Lmin": "33.9 dBA",
+                "Lmax": "85.0 dBA",
+                "Max_ID": "Diesel Truck or Heavy Equipment",
+                "Photo1": "GRTEHQC1.jpg",
+                "Acoustic_Summary": "Non-natural sounds dominated this site, both before and during the temporary cell tower period. The site was adjacent to parking lots, roadways and buildings. The temporary cell tower mounted on a trailer was about 7 meters from the microphone.",
+                "Days": "22",
+                "Hours": "475",
+                "All_Hours": "",
+                "Sound_Level_All": "L90=41.4 dBA, L50=46.5 dBA, L10=54.8 dBA, Leq=54.6 dBA",
+                "Sound_Level_Day": "L90=43.3 dBA, L50=47.3 dBA, L10=55.8 dBA, Leq=55.5 dBA",
+                "Photo1_Caption": "Photo coming soon"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -110.70478,
+                    -110.71478,
                     43.65712
                 ]
             }
