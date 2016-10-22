@@ -19,7 +19,7 @@
                 "Days": "7",
                 "Hours": "141",
                 "All_Hours": "All natural sources (99%), Flowing water (74%), Wind (26%), All non-natural sounds (24%), Bird (19%), Unknown motor sounds (12%), Insects (10%), Aircraft (9%), Road vehicles (3%), Mammals (3%)",
-                "Summer Hours": "All natural sources (98%), Wind (50%), Flowing water (48%), All non-natural sounds (35%), Bird (30%), Insects (21%), Unknown motor sounds (15%), Aircraft (15%), Mammals (5%), Road vehicles (4%)",
+                "Summer": "All natural sources (98%), Wind (50%), Flowing water (48%), All non-natural sounds (35%), Bird (30%), Insects (21%), Unknown motor sounds (15%), Aircraft (15%), Mammals (5%), Road vehicles (4%)",
                 "Sound_Level_All": "L90=33.8 dBA, L50=35.9 dBA, L10=38.4 dBA, Leq=39.2 dBA",
                 "Sound_Level_Day": "L90=30.5 dBA, L50=33.9 dBA, L10=39.1 dBA, Leq=42.0 dBA",
                 "Photo1_Caption": "Site in burnt pines; photo looking south",
