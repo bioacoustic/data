@@ -1361,7 +1361,7 @@
                 "Days": "98",
                 "Hours": "2253",
                 "All_Hours": "All natural sounds (98%), Flowing water (74%), All non-natural sounds (24%), Rain (17%), Bird (15%), Wind (15%), Waves (14%), Aircraft (11%), Squirrel (8%), Unknown motor (8%), People's voices (6%)",
-                "Summer_Daytime_Hours ": "All natural sounds (96%), Flowing water (59%), All non-natural sounds (40%), Rain (18%), Bird (21%), Wind (22%), Waves (17%), Aircraft (19%), Squirrel (16%), Unknown motor (13%), People's voices (11%)",
+                "Summer_Daytime_Hours": "All natural sounds (96%), Flowing water (59%), All non-natural sounds (40%), Rain (18%), Bird (21%), Wind (22%), Waves (17%), Aircraft (19%), Squirrel (16%), Unknown motor (13%), People's voices (11%)",
                 "Sound_Level_All": "L90~26.7 dBA, L50~28.6 dBA, L10~31.0 dBA, Leq~29.9 dBA",
                 "Sound_Level_Day": "L90~26.7 dBA, L50~28.6 dBA, L10~31.0 dBA, Leq~29.9 dBA",
                 "Photo1_Caption": "Site in hillside overlooking lake; photo looking northwest"
