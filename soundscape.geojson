@@ -716,7 +716,7 @@
                 "Acoustic_Summary": "The soundscape at this site near a long-abandoned sage grouse lek was dominated by wind, the nearby highway and Jackson Hole Airport.",
                 "Days": "68",
                 "Hours": "1634",
-                "All_Hours": "",
+                "All_Hours": "All non-natural (88%), All natural (61%), Road vehicles (53%), Bird (42%), Wind (30%), Unknown motor (26%), Aircraft (13%), Rain (5%), Mammal (3%), Silence (2%), Amphibian (2%)",
                 "Sound_Level_All": "L90=25.2 dBA, L50=30.7 dBA, L10=39.0 dBA, Leq=38.8 dBA",
                 "Sound_Level_Day": "L90=27.1 dBA, L50=31.9 dBA, L10=40.0 dBA, Leq=42.8 dBA",
                 "Photo1_Caption": "Site in sage brush; photo looking northwest",
@@ -941,7 +941,7 @@
                 "Site_Name": "Spread Creek 05 (GRTESC05)",
                 "Unit_Code": "GRTE",
                 "Season": "Summer",
-                "Year": "31 May 2016 to present",
+                "Year": "31 May- 23 October 2016",
                 "Habitat": "Open sage brush flat ",
                 "Lmin": "15.6 dBA",
                 "Lmax": "103.3 dBA",
@@ -1274,10 +1274,10 @@
                 "Hours": "8562",
                 "All_Hours": "",
                 "Summer Daylight Hours": "All natural sounds (99%), Birds (93%), All non-natural sounds (85%), All Road Vehicles (60%), Wind (39%), Aircraft (20%), Unknown motor sounds (10%), Insects (8%), Flowing Water (4%), Mammals (4%), Rain (4%)",
-                "Winter Daylight Hours": "",
+                "Winter Daylight Hours": "All natural sounds (77%), Birds (36%), All non-natural sounds (68%), All Road Vehicles (13%), Wind (38%), Aircraft (22%), Unknown motor sounds (33%), Flowing Water (10%), Mammals (2%), Snow (11%)",
                 "Sound_Level_All": "L90=27.3 dBA, L50=30.4 dBA, L10=35.8 dBA, Leq=34.7 dBA",
                 "Sound_Level_Day": "L90=28.9 dBA, L50=33.0 dBA, L10=39.1 dBA, Leq=38.4 dBA",
-                "Photo1_Caption": "Site in near wetlands; photo looking southwest"
+                "Photo1_Caption": "Site near wetlands; photo looking southwest"
             },
             "geometry": {
                 "type": "Point",
