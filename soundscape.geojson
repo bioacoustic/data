@@ -1335,7 +1335,8 @@
                 "Days": "388",
                 "Hours": "8983",
                 "All_Hours": "All natural sounds (73%), Wind (40%), All non-natural sounds (30%), Bird (27%), Silence (19%), Mammal (15%), Trees creaking in wind(14%) Aircraft (12%), Unknown motor (10%), Rain (7%), Road vehicles (7%), Insect (5%)",
-	  "Winter_Daytime_Hours": "All natural sounds (52%), All non-natural sounds (37%), Silence (27%), Wind (26%), Aircraft (18%), Unknown motor (15%), Trees creaking in wind(10%), Bird (8%), Squirrel (7%), Rain (5%), Road vehicles (3%), Snowfall (3%)",
+	  "Winter_Daytime_Hours": "All natural sounds (52%), All non-natural sounds (37%), Silence (27%), Wind (26%), Aircraft (18%), Unknown motor (15%), Trees creaking in wind (10%), Bird (8%), Squirrel (7%), Snow melting (5%), Road vehicles (3%), Snowfall (3%)",
+	  "Summer_Daytime_Hours": "All natural sounds (99%), Bird (72%), Wind (58%), All non-natural sounds (40%), Insect (34%), Aircraft (22%), Mammal (15%), Unknown motor (12%), Road vehicles (7%), Trees creaking in wind (5%), Rain (2%)",
                 "Sound_Level_All": "L90=20.1 dBA, L50=23.1 dBA, L10=30.8 dBA, Leq=28.7 dBA",
                 "Sound_Level_Day": "L90=20.1 dBA, L50=23.8 dBA, L10=31.1 dBA, Leq=30.7 dBA",
                 "Photo1_Caption": "Site along little used trail; photo looking south",               "Photo2_Caption": "Site along little used trail; photo looking south"
