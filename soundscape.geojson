@@ -304,6 +304,7 @@
                 "Acoustic_Summary": "This site just off a trail on the mountainside overlooking Jackson Hole, was distant from cascading streams, and nearby roads. Common, but distant sounds were from road traffic on the park road below, and from aircraft, both high fliers and those visiting the Jackson Hole Airport. Birds, people’s voices, wind, and distant flowing water was also audible. Overall, this was a quiet location.",
                 "Days": "30",
                 "Hours": "745",
+                "All_Hours": "All natural sources (90%), Wind (79%), Bird (51%), All non-natural sounds (39%), Road vehicles (15%), People (11%), Unknown motor (10%), Aircraft (9%), Insect (5%), Squirrel (4%)",
                 "Sound_Level_All": "L90=19.4 dBA, L50=20.3 dBA, L10=23.6 dBA, Leq=26.5 dBA",
                 "Sound_Level_Day": "L90=19.6 dBA, L50=20.6 dBA, L10=23.8 dBA, Leq=27.8 dBA",
                 "Photo1_Caption": ""
@@ -332,6 +333,7 @@
                 "Acoustic_Summary": "This site was located adjacent to a visitor survey sampling location. The nearby cascading creek dominated the soundscape here high in the Tetons. Climbers, pikas, and birds were also audible",
                 "Days": "20",
                 "Hours": "485",
+                "All_Hours": "All natural sources (100%), Flowing water (98%), Wind (48%), Bird (8%), All non-natural sounds (3%), People (1%), Aircraft (1%)",
                 "Sound_Level_All": "L90=48.2 dBA, L50=48.7 dBA, L10=49.2 dBA, Leq=48.8 dBA",
                 "Sound_Level_Day": "L90=47.9 dBA, L50=48.2 dBA, L10=48.8 dBA, Leq=49.0 dBA ",
                 "Photo1_Caption": ""
