@@ -1273,8 +1273,8 @@
                 "Days": "357",
                 "Hours": "8562",
                 "All_Hours": "",
-                "Summer_Daylight_Hours": "All natural sounds (99%), Birds (93%), All non-natural sounds (85%), All Road Vehicles (60%), Wind (39%), Aircraft (20%), Unknown motor sounds (10%), Insects (8%), Flowing Water (4%), Mammals (4%), Rain (4%)",
-                "Winter_Daylight_Hours": "All natural sounds (77%), Birds (36%), All non-natural sounds (68%), All Road Vehicles (13%), Wind (38%), Aircraft (22%), Unknown motor sounds (33%), Flowing Water (10%), Mammals (2%), Snow (11%)",
+                "Summer_Daytime_Hours": "All natural sounds (99%), Birds (93%), All non-natural sounds (85%), All Road Vehicles (60%), Wind (39%), Aircraft (20%), Unknown motor sounds (10%), Insects (8%), Flowing Water (4%), Mammals (4%), Rain (4%)",
+                "Winter_Daytime_Hours": "All natural sounds (77%), Birds (36%), All non-natural sounds (68%), All Road Vehicles (13%), Wind (38%), Aircraft (22%), Unknown motor sounds (33%), Flowing Water (10%), Mammals (2%), Snow (11%)",
                 "Sound_Level_All": "L90=27.3 dBA, L50=30.4 dBA, L10=35.8 dBA, Leq=34.7 dBA",
                 "Sound_Level_Day": "L90=28.9 dBA, L50=33.0 dBA, L10=39.1 dBA, Leq=38.4 dBA",
                 "Photo1_Caption": "Site near wetlands; photo looking southwest"
