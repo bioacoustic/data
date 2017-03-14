@@ -1051,7 +1051,37 @@
                 ]
             }
         },
-        {
+        { 
+		"type": "Feature",
+            "properties": {
+                "Site_Code": "GRTESCL3",
+                "Site_Name": "Spread Creek Lek 3 (GRTESCL3)",
+                "Unit_Code": "GRTE",
+                "Season": "Spring",
+                "Year": "25 Mar-20 Apr 2016",
+                "Habitat": "Sage Brush",
+                "Lmin": "",
+                "Lmax": "",
+                "Max_ID": "",
+                "Photo1": "GRTESCL3.jpg",
+                "Acoustic_Summary": "This site was on hillside overlooking the sage brush flats.",
+                "Days": "27",
+                "Hours": "",
+                "All_Hours": "",
+                "Summer_Daytime_Hours": "", 
+                "Sound_Level_All": "",
+                "Sound_Level_Day": "",
+                "Photo1_Caption": "Setting up site; photo looking west"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.4859,
+                    43.79149
+                ]
+            }
+        },
+	{
             "type": "Feature",
             "properties": {
                 "Site_Code": "GRTESRSN",
