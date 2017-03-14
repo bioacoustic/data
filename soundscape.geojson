@@ -1060,8 +1060,8 @@
                 "Season": "Spring",
                 "Year": "25 Mar-20 Apr 2016",
                 "Habitat": "Sage Brush",
-                "Lmin": "",
-                "Lmax": "",
+                "Lmin": "~16.7",
+                "Lmax": "~74.6",
                 "Max_ID": "",
                 "Photo1": "GRTESCL3.jpg",
                 "Acoustic_Summary": "This site was on hillside overlooking the sage brush flats.",
@@ -1069,8 +1069,8 @@
                 "Hours": "",
                 "All_Hours": "",
                 "Summer_Daytime_Hours": "", 
-                "Sound_Level_All": "",
-                "Sound_Level_Day": "",
+                "Sound_Level_All": "L90=~20.8 dBA, L50=~24.0 dBA, L10=~30.8 dBA, Leq=~30.8 dBA",
+                "Sound_Level_Day": "L90=~21.1 dBA, L50=~24.9 dBA, L10=~34.4 dBA, Leq=~34.6 dBA",
                 "Photo1_Caption": "Setting up site; photo looking west"
             },
             "geometry": {
