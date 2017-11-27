@@ -2274,10 +2274,9 @@
                 "All_Hours": "All natural sounds (98%), Waves (83%), Birds (44%), Insects (21%), All non-natural sounds (12%), Wind (11%), Aircraft (5%), Watercraft (6%), Rain (4%)",
                 "Sound_Level_All": "L90=29.8 dBA, L50=35.1 dBA, L10=40.3 dBA, Leq=37.7 dBA",
                 "Sound_Level_Day": "L90=24.1 dBA, L50=28.9 dBA, L10=33.6 dBA, Leq=32.2 dBA ",
-                "Photo1_Caption": "Sound monitor 50 feet from shore in dense understory vegetation"
-            },
+                "Photo1_Caption": "Sound monitor 50 feet from shore in dense understory vegetation",
                 "Photo2_Caption": "Sound monitor below remnant trees in burnt forest"
-            },
+           },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
