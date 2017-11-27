@@ -2254,7 +2254,39 @@
                 ]
             }
         },
-       {
+           {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "YELLSEAW",
+                "Site_Name": "South East Arm West (YELLSEAW)",
+                "Unit_Code": "YELL",
+                "Season": "Summer",
+                "Year": "26 Jul 2017-23 Aug 2017",
+                "Habitat": "Lakeshore, Burnt Forest",
+                "Lmin": "15.1 dBA",
+                "Lmax": "86.3 dBA",
+                "Max_ID": "Thunder",
+                "Photo1": "YELLSEAW1.JPG",
+	"Photo2": "YELLSEAW2.JPG"
+                "Acoustic_Summary": "Waves washing on shore were the dominant sounds at this site in late summer, followed by bird and insect vocalizations. Other sounds were audible less than 10% of the time. Watercraft were audible for six percent of the time.",
+                "Days": "29",
+                "Hours": "671",
+                "All_Hours": "All natural sounds (98%), Waves (83%), Birds (44%), Insects (21%), All non-natural sounds (12%), Wind (11%), Aircraft (5%), Watercraft (6%), Rain (4%)",
+                "Sound_Level_All": "L90=29.8 dBA, L50=35.1 dBA, L10=40.3 dBA, Leq=37.7 dBA",
+                "Sound_Level_Day": "L90=24.1 dBA, L50=28.9 dBA, L10=33.6 dBA, Leq=32.2 dBA ",
+                "Photo1_Caption": "Sound monitor 50 feet from shore in dense understory vegetation"
+            },
+                "Photo2_Caption": "Sound monitor below remnant trees in burnt forest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.27634,
+                    44.34999
+                ]
+            }
+        },
+    {
             "type": "Feature",
             "properties": {
                 "Site_Code": "YELLSERS",
