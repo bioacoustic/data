@@ -518,6 +518,7 @@
                 "Days": "9",
                 "Hours": "187",
                 "All_Hours": "All natural sources (90%), Wind (54%), All non-natural sounds (42%), Bird (34%), Insect (32%), Road vehicles (20%), Aircraft (14%), Mammal (13%), Rain (3%)",
+                "Daytime_Hours": "All natural sources (99%), Wind (55%), All non-natural sounds (54%), Bird (48%), Insect (60%), Road vehicles (20%), Aircraft (22%), Mammal (6%)",
                 "Sound_Level_All": "L90=22.5 dBA, L50=26.4 dBA, L10=33.0 dBA, Leq=31.7 dBA",
                 "Sound_Level_Day": "L90=25.1 dBA, L50=30.2 dBA, L10=38.0 dBA, Leq=37.5 dBA",
                 "Photo1_Caption": "Site in deadfall; photo looking west"
@@ -547,7 +548,8 @@
                 "Days": "28",
                 "Hours": "646",
                 "All_Hours": "All natural sources (100%), Flowing water (96%), All non-natural sounds (34%), Bird (30%), Watercraft (26%), Wind (6%), Mammal (4%), Unknown motor (4%), Aircraft (3%), Insect (2%)",
-                "Sound_Level_All": " L90=38.7 dBA, L50=39.1 dBA, L10=40.6 dBA, Leq=39.7 dBA ",
+                 "Daytime_Hours": "All natural sources (100%), Flowing water (94%), All non-natural sounds (64%), Watercraft (50%), Bird (49%), Mammal (7%), Wind (6%), Unknown motor (6%), Aircraft (4%), Insect (3%)",
+               "Sound_Level_All": " L90=38.7 dBA, L50=39.1 dBA, L10=40.6 dBA, Leq=39.7 dBA ",
                 "Sound_Level_Day": " L90=38.2 dBA, L50=38.8 dBA, L10=40.7 dBA, Leq=39.7 dBA ",
                 "Photo1_Caption": "Site in forest; photo looking south"
             },
@@ -576,11 +578,6 @@
                 "Acoustic_Summary": "The monitoring equipment at this site collected only digital recordings that were then processed to estimate sound levels. Snow was still deep at the beginning of the sampling period, but visitor activity increased during the month. Silence was still the most common ‘sound.",
                 "Days": "21",
                 "Hours": "505",
-                "All_Hours": "Silence (62%), All natural sounds (26%), All non-natural sounds (13%), Wind (12%), Waves (9%), Helicopter (5%), Aircraft (5%), Birds (4%), All watercraft (2%)",
-                "Sound_Level_All": "L90~17.1 dBA, L50~17.8 dBA, L10~19.4 dBA, Leq~18.5 dBA",
-                "Sound_Level_Day": "L90~17.2 dBA, L50~18.1 dBA, L10~21.5 dBA, Leq~20.1 dBA",
-                "Photo1_Caption": "",
-                "Photo2_Caption": ""
             },
             "geometry": {
                 "type": "Point",
@@ -722,7 +719,7 @@
                 "Max_ID": "Human Voices",
                 "Photo1": "GRTELOSA_north.jpg",
                 "Photo2": "GRTELOSA_west.jpg",
-                "Acoustic_Summary": "Placed in a high rocky pass in the mountains this site was very windy. Voices from the nearby climbers' camping area were heard during almost all hours from very early morning before light until after dark. Rockfall and pika were also heard regularly.",
+                "Acoustic_Summary": "Placed in a high rocky pass in the mountains this site was very windy. Voices from the nearby climbers' camping area were heard during almost All_Hours from very early morning before light until after dark. Rockfall and pika were also heard regularly.",
                 "Days": "15",
                 "Hours": "358",
                 "All_Hours": "All natural sounds (72%), All non-natural sounds (61%), Wind (60%), People's voices (52%), Birds (20%), Aircraft (9%), Insects (4%), Silence (3%) ",
