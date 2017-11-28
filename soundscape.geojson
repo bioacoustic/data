@@ -17,8 +17,8 @@
                 "Acoustic_Summary": "The influence of the nearby highway and airport dominated the soundscape at this site. The natural sounds of birds and wind were also common.",
                 "Days": "51",
                 "Hours": "1174",
-                "All_Hours": "All non-natural sounds (86%), Road Vehicles (58%), All natural sounds (57%), Birds (41%), Motors (23%), Wind (21%), Aircraft (9%), Silence (5%)",
-                "Summer Daytime Hours": "All non-natural sounds (94%), Road Vehicles (65%), All natural sounds (76%), Birds (61%), Wind (26%), Motors (20%), Aircraft (15%)",
+                "All_Hours": "All non-natural sounds (86%), Road Vehicles (58%), All natural sounds (57%), Birds (41%), Unknown motors (23%), Wind (21%), Aircraft (9%), Silence (5%)",
+                "Summer Daytime Hours": "All non-natural sounds (94%), Road Vehicles (65%), All natural sounds (76%), Birds (61%), Wind (26%), Unknown motors (20%), Aircraft (15%)",
                 "Sound_Level_All": "L90=28.8 dBA, L50=34.8 dBA, L10=41.7 dBA, Leq=40.2 dBA",
                 "Sound_Level_Day": "L90=31.9 dBA, L50=37.1 dBA, L10=43.5 dBA, Leq=43.5 dBA ",
                 "Photo1_Caption": "Sound monitor on sage brush bench overlooking Jackson Hole"
@@ -819,7 +819,37 @@
                 ]
             }
         },
-       {
+         {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTENERS",
+                "Site_Name": "North Gap Lek (GRTENERS)",
+                "Unit_Code": "GRTE",
+                "Season": "Mutiple",
+                "Year": "31 Mar 2017- 16 May 2017",
+                "Habitat": "Sage Brush",
+                "Lmin": "<14.7 dBA",
+                "Lmax": "83 dBA",
+                "Max_ID": "Western Meadowlark",
+                "Photo1": "GRTENERS.jpg",
+                "Acoustic_Summary": "This site was on the edge of a Sage Grouse lek and grouse were audible regularly. This was a quiet site tucked down in a ravine away from the highway, but distant road vehicles and aircraft were audible.",
+                "Days": "47",
+                "Hours": "1111",
+                "All_Hours": "All natural sounds (79%), Bird (59%), All non-natural sounds (58%), Wind (29%), Road Vehicles (26%), Unknown motors (19%), Aircraft (13%), Rain (10%), Silence (9%), Insect (7%)",
+                "All_Daytime Hours": "All natural sounds (96%), Bird (81%), All non-natural sounds (64%), Unknown motors (22%), Aircraft (20%), Wind (39%), Rain (14%), Insect (13%)",
+                "Sound_Level_All": "L90=19.4 dBA, L50=22.4 dBA, L10=29.9 dBA, Leq=29.3 dBA",
+                "Sound_Level_Day": "L90=20.8 dBA, L50=24.7 dBA, L10=33.4 dBA, Leq=33.6 dBA",
+                "Photo1_Caption": "Sound monitor on hillside. Photo looking south over National Elk Refuge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.71593,
+                    43.56306
+                ]
+            }
+        },
+      {
             "type": "Feature",
             "properties": {
                 "Site_Code": "GRTEOXP2",
