@@ -338,7 +338,8 @@
                 "Days": "30",
                 "Hours": "745",
                 "All_Hours": "All natural sources (90%), Wind (79%), Bird (51%), All non-natural sounds (39%), Road vehicles (15%), People (11%), Unknown motor (10%), Aircraft (9%), Insect (5%), Squirrel (4%)",
-                "Sound_Level_All": "L90=19.4 dBA, L50=20.3 dBA, L10=23.6 dBA, Leq=26.5 dBA",
+                 "Daytime_Hours": "All natural sources (95%), Wind (95%), Bird (79%), All non-natural sounds (54%), Unknown motor (21%), People (18%), Road vehicles (14%), Aircraft (13%), Insect (10%), Squirrel (5%)",
+               "Sound_Level_All": "L90=19.4 dBA, L50=20.3 dBA, L10=23.6 dBA, Leq=26.5 dBA",
                 "Sound_Level_Day": "L90=19.6 dBA, L50=20.6 dBA, L10=23.8 dBA, Leq=27.8 dBA",
                 "Photo1_Caption": "Visitor acoustic survey adjacent to site. Photo courtesy of Lauren Abbott"
             },
@@ -367,7 +368,8 @@
                 "Days": "20",
                 "Hours": "485",
                 "All_Hours": "All natural sources (100%), Flowing water (98%), Wind (48%), Bird (8%), All non-natural sounds (3%), People (1%), Aircraft (1%)",
-                "Sound_Level_All": "L90=48.2 dBA, L50=48.7 dBA, L10=49.2 dBA, Leq=48.8 dBA",
+                  "Daytime_Hours": "All natural sources (100%), Flowing water (98%), Wind (47%), Bird (13%), All non-natural sounds (6%), People (3%), Aircraft (2%)",
+              "Sound_Level_All": "L90=48.2 dBA, L50=48.7 dBA, L10=49.2 dBA, Leq=48.8 dBA",
                 "Sound_Level_Day": "L90=47.9 dBA, L50=48.2 dBA, L10=48.8 dBA, Leq=49.0 dBA ",
                 "Photo1_Caption": "Visitor acoustic survey adjacent to site. Photo courtesy of Lauren Abbott"
             },
@@ -395,6 +397,8 @@
                 "Acoustic_Summary": "Adjacent to the occasionally groomed Grassy Lake Road, this site collected data for 12 days during the winter. This very quiet soundscape was occasionally interrupted by nearby snowmobiles and high flying jets.",
                 "Days": "12",
                 "Hours": "255",
+                "All_Hours": "All natural sources (68%), Wind (30%), All non-natural sounds (8%), Bird (2%), Aircraft (5%), Oversnow vehicles (1%)",
+                "Daylight_Hours": " All natural sources (80%), Wind (34%), All non-natural sounds (11%), Aircraft (7%), Bird (3%), Oversnow vehicles (2%)",
                 "Sound_Level_All": "L90~15.9 dBA, L50~16.7 dBA, L10~21.2 dBA, Leq~23.4 dBA",
                 "Sound_Level_Day": "L90~16.4 dBA, L50~18.7 dBA, L10~25.2 dBA, Leq~26.8 dBA",
                 "Photo1_Caption": "Site down the trail in thick forest; photo looking west"
@@ -423,7 +427,8 @@
                 "Acoustic_Summary": "The sounds of this site include distant motors including road vehicles and oversnow vehicles in and around Flagg Ranch. Silence was common followed by the sound of wind in the trees.",
                 "Days": "120",
                 "Hours": "2864",
-                "All_Hours": "All non-natural sources (24%), All natural sources (54%), Silence (29%), Wind (12%), Unknown motor (11%), Aircraft (7%), Bird (4%), Oversnow vehicles (3%)",
+                "All_Hours": " All natural sources (54%), Silence (29%), All non-natural sources (24%), Wind (12%), Unknown motor (11%), Aircraft (7%), Bird (4%), Oversnow vehicles (3%)",
+                "Daylight_Hours": " All natural sources (51%), All non-natural sources (36%), Silence (24%), Wind (19%), Unknown motor (18%), Bird (15%), Aircraft (11%), Oversnow vehicles (5%)",
                 "Sound_Level_All": "L90=23.0 dBA, L50=24.6 dBA, L10=28.0 dBA, Leq=28.3 dBA",
                 "Sound_Level_Day": "L90=22.7 dBA, L50=25.2 dBA, L10=31.8 dBA, Leq=32.4 dBA",
                 "Photo1_Caption": "Site at edge of large meadow; photo looking east-southeast"
@@ -452,8 +457,9 @@
                 "Acoustic_Summary": "Non-natural sounds dominated this site, both before and during the temporary cell tower period. The site was adjacent to parking lots, roadways and buildings. The temporary cell tower mounted on a trailer was about 7 meters from the microphone.",
                 "Days": "22",
                 "Hours": "475",
-                "All_Hours": "",
-                "Sound_Level_All": "L90=41.4 dBA, L50=46.5 dBA, L10=54.8 dBA, Leq=54.6 dBA",
+                "All_Hours": "All nonnatural sources (99%), Building Utilities (85%), All natural sources (35%), Birds (30%), Road Vehicles (24%), Wind (6%), Aircraft (4%)",
+                 "Daytime_Summer_Hours": "All nonnatural sources (99%), Building Utilities (77%), All natural sources (52%), Birds (44%), Road Vehicles (33%), Wind (11%), Aircraft (5%)",
+               "Sound_Level_All": "L90=41.4 dBA, L50=46.5 dBA, L10=54.8 dBA, Leq=54.6 dBA",
                 "Sound_Level_Day": "L90=43.3 dBA, L50=47.3 dBA, L10=55.8 dBA, Leq=55.5 dBA",
                 "Photo1_Caption": "Photo coming soon"
             },
@@ -482,7 +488,8 @@
                 "Days": "1057",
                 "Hours": "25349",
                 "All_Hours": "All non-natural sounds (92%), All natural sources (67%), Road vehicles (52%), Building utilities (48%), Bird (31%), Wind (23%), Flowing water (21%), Snowfall or rain (16%), People (7%), Aircraft (3%)",
-                "Sound_Level_All": "L90=38.3 dBA, L50=40.9 dBA, L10=45.1 dBA, Leq=46.6 dBA",
+                  "Daytime_Hours": "All non-natural sounds (95%), Road vehicles (74%), All natural sources (73%), Bird (47%), Building utilities (29%), Wind (24%), Flowing water (11%), Snowfall or rain (16%), People (9%), Aircraft (6%)",
+              "Sound_Level_All": "L90=38.3 dBA, L50=40.9 dBA, L10=45.1 dBA, Leq=46.6 dBA",
                 "Sound_Level_Day": "L90=39.7 dBA, L50=43.0 dBA, L10=48.7 dBA, Leq=50.6 dBA",
                 "Photo1_Caption": "Site on office trailer; photo looking west"
             },
