@@ -18,7 +18,7 @@
                 "Days": "51",
                 "Hours": "1174",
                 "All_Hours": "All non-natural sounds (86%), Road Vehicles (58%), All natural sounds (57%), Birds (41%), Unknown motors (23%), Wind (21%), Aircraft (9%), Silence (5%)",
-                "Daytime Hours": "All non-natural sounds (94%), Road Vehicles (65%), All natural sounds (76%), Birds (61%), Wind (26%), Unknown motors (20%), Aircraft (15%)",
+                "Daytime_Hours": "All non-natural sounds (94%), Road Vehicles (65%), All natural sounds (76%), Birds (61%), Wind (26%), Unknown motors (20%), Aircraft (15%)",
                 "Sound_Level_All": "L90=28.8 dBA, L50=34.8 dBA, L10=41.7 dBA, Leq=40.2 dBA",
                 "Sound_Level_Day": "L90=31.9 dBA, L50=37.1 dBA, L10=43.5 dBA, Leq=43.5 dBA ",
                 "Photo1_Caption": "Sound monitor on sage brush bench overlooking Jackson Hole"
@@ -164,7 +164,7 @@
                 "Days": "111",
                 "Hours": "2650",
                 "All_Hours": "Silence (48%), All non-natural sounds (35%), All natural sources (24%), Unknown motor sounds (14%), Wind (11%), People (9%), Road vehicles (6%), Bird (8%), Aircraft (8%), Mammals (4%), Snow plows (3%)",
-                "Daytime Hours": "All non-natural sounds (54%), All natural sources (32%), Silence (25%), Unknown motor sounds (20%), People (16%), Bird (16%), Wind (13%), Aircraft (12%), Road vehicles (10%), Mammals (5%), Snow plows (6%)",
+                "Daytime_Hours": "All non-natural sounds (54%), All natural sources (32%), Silence (25%), Unknown motor sounds (20%), People (16%), Bird (16%), Wind (13%), Aircraft (12%), Road vehicles (10%), Mammals (5%), Snow plows (6%)",
                 "Sound_Level_All": "L90=21.0 dBA, L50=21.9 dBA, L10=28.6 dBA, Leq=29.8 dBA",
                 "Sound_Level_Day": "L90=21.6 dBA, L50=24.1 dBA, L10=33.4 dBA, Leq=33.7 dBA",
                 "Photo1_Caption": "Site near shore; photo looking west"
@@ -280,7 +280,7 @@
                 "Days": "7",
                 "Hours": "160",
                 "All_Hours": "All natural sources (100%), Flowing water (100%), Bird (19%), All non-natural sounds (5%), Insect (4%), Aircraft (3%), People (2%)",
-                "Daylight Hours": "All natural sources (100%), Flowing water (100%), Bird (31%), All non-natural sounds (8%), Insect (8%), Aircraft (4%), People (3%)",
+                "Daytime_Hours": "All natural sources (100%), Flowing water (100%), Bird (31%), All non-natural sounds (8%), Insect (8%), Aircraft (4%), People (3%)",
                 "Sound_Level_All": "L90=45.2 dBA, L50=45.4 dBA, L10=45.7 dBA, Leq=45.4 dBA",
                 "Sound_Level_Day": "L90=45.2 dBA, L50=45.4 dBA, L10=45.7 dBA, Leq=45.4 dBA",
                 "Photo1_Caption": "Site next to large glacial erratic; photo looking northeast"
@@ -398,7 +398,7 @@
                 "Days": "12",
                 "Hours": "255",
                 "All_Hours": "All natural sources (68%), Wind (30%), All non-natural sounds (8%), Bird (2%), Aircraft (5%), Oversnow vehicles (1%)",
-                "Daylight_Hours": " All natural sources (80%), Wind (34%), All non-natural sounds (11%), Aircraft (7%), Bird (3%), Oversnow vehicles (2%)",
+                "Daytime_Hours": " All natural sources (80%), Wind (34%), All non-natural sounds (11%), Aircraft (7%), Bird (3%), Oversnow vehicles (2%)",
                 "Sound_Level_All": "L90~15.9 dBA, L50~16.7 dBA, L10~21.2 dBA, Leq~23.4 dBA",
                 "Sound_Level_Day": "L90~16.4 dBA, L50~18.7 dBA, L10~25.2 dBA, Leq~26.8 dBA",
                 "Photo1_Caption": "Site down the trail in thick forest; photo looking west"
@@ -428,7 +428,7 @@
                 "Days": "120",
                 "Hours": "2864",
                 "All_Hours": " All natural sources (54%), Silence (29%), All non-natural sources (24%), Wind (12%), Unknown motor (11%), Aircraft (7%), Bird (4%), Oversnow vehicles (3%)",
-                "Daylight_Hours": " All natural sources (51%), All non-natural sources (36%), Silence (24%), Wind (19%), Unknown motor (18%), Bird (15%), Aircraft (11%), Oversnow vehicles (5%)",
+                "Daytime_Hours": " All natural sources (51%), All non-natural sources (36%), Silence (24%), Wind (19%), Unknown motor (18%), Bird (15%), Aircraft (11%), Oversnow vehicles (5%)",
                 "Sound_Level_All": "L90=23.0 dBA, L50=24.6 dBA, L10=28.0 dBA, Leq=28.3 dBA",
                 "Sound_Level_Day": "L90=22.7 dBA, L50=25.2 dBA, L10=31.8 dBA, Leq=32.4 dBA",
                 "Photo1_Caption": "Site at edge of large meadow; photo looking east-southeast"
@@ -846,7 +846,7 @@
                 "Days": "47",
                 "Hours": "1111",
                 "All_Hours": "All natural sounds (79%), Bird (59%), All non-natural sounds (58%), Wind (29%), Road Vehicles (26%), Unknown motors (19%), Aircraft (13%), Rain (10%), Silence (9%), Insect (7%)",
-                "All_Daytime Hours": "All natural sounds (96%), Bird (81%), All non-natural sounds (64%), Unknown motors (22%), Aircraft (20%), Wind (39%), Rain (14%), Insect (13%)",
+                "All_Daytime_Hours": "All natural sounds (96%), Bird (81%), All non-natural sounds (64%), Unknown motors (22%), Aircraft (20%), Wind (39%), Rain (14%), Insect (13%)",
                 "Sound_Level_All": "L90=19.4 dBA, L50=22.4 dBA, L10=29.9 dBA, Leq=29.3 dBA",
                 "Sound_Level_Day": "L90=20.8 dBA, L50=24.7 dBA, L10=33.4 dBA, Leq=33.6 dBA",
                 "Photo1_Caption": "Sound monitor on hillside. Photo looking south over National Elk Refuge"
@@ -1343,7 +1343,7 @@
                 "Days": "32",
                 "Hours": "745",
                 "All_Hours": "All non-natural sounds (60%), All natural sounds (71%), Road vehicles (49%), Flowing water (40%), Birds (18%), Insect (10%), Wind (9%), Aircraft (8%), Unknown motors (8%), Rain (6%), Elk (5%), Squirrel (4%)",
-                "Summer Daytime_Hours": "All non-natural sounds (85%), Road vehicles (71%), All natural sounds (62%), Birds (26%), Insect (20%), Wind (13%), Aircraft (13%), Flowing water (12%), Squirrel (7%)",
+                "Summer_Daytime_Hours": "All non-natural sounds (85%), Road vehicles (71%), All natural sounds (62%), Birds (26%), Insect (20%), Wind (13%), Aircraft (13%), Flowing water (12%), Squirrel (7%)",
                 "Sound_Level_All": "L90~24.7 dBA, L50~29.6 dBA, L10~38.4 dBA, Leq~35.2 dBA",
                 "Sound_Level_Day": "L90~26.3 dBA, L50~32.6 dBA, L10~40.9 dBA, Leq~37.8 dBA",
                 "Photo1_Caption": "Site 100 feet from gravel Moose Wilson Road; photo looking southeast"
