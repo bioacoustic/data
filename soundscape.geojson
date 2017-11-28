@@ -577,7 +577,7 @@
                 "Photo2": "",
                 "Acoustic_Summary": "The monitoring equipment at this site collected only digital recordings that were then processed to estimate sound levels. Snow was still deep at the beginning of the sampling period, but visitor activity increased during the month. Silence was still the most common ‘sound.",
                 "Days": "21",
-                "Hours": "505",
+                "Hours": "505"
             },
             "geometry": {
                 "type": "Point",
