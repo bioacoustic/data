@@ -1,7 +1,37 @@
 {
     "type": "FeatureCollection",
     "features": [
-        {
+                  {
+            "type": "Feature",
+            "properties": {
+                "Site_Code": "GRTEAPLK",
+                "Site_Name": "Airport Lek (GRTEAPLK)",
+                "Unit_Code": "GRTE",
+                "Season": "Multiple",
+                "Year": "24 Mar 2017- 16 May 2017",
+                "Habitat": "Sage Brush",
+                "Lmin": "<15.6 dBA",
+                "Lmax": "81.6 dBA",
+                "Max_ID": "Singing bird",
+                "Photo1": "YELLAPLK.jpg",
+                "Acoustic_Summary": "The influence of the nearby highway and airport dominated the soundscape at this site. The natural sounds of birds and wind were also common.",
+                "Days": "51",
+                "Hours": "1174",
+                "All_Hours": "All non-natural sounds (86%), Road Vehicles (58%), All natural sounds (57%), Birds (41%), Motors (23%), Wind (21%), Aircraft (9%), Silence (5%)",
+                "Summer Daytime Hours": "All non-natural sounds (94%), Road Vehicles (65%), All natural sounds (76%), Birds (61%), Wind (26%), Motors (20%), Aircraft (15%)",
+                "Sound_Level_All": "L90=28.8 dBA, L50=34.8 dBA, L10=41.7 dBA, Leq=40.2 dBA",
+                "Sound_Level_Day": "L90=31.9 dBA, L50=37.1 dBA, L10=43.5 dBA, Leq=43.5 dBA ",
+                "Photo1_Caption": "Sound monitor on sage brush bench overlooking Jackson Hole"
+           },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.72164,
+                    43.59379
+                ]
+            }
+        },
+ {
             "type": "Feature",
             "properties": {
                 "Site_Code": "GRTEBBCR",
