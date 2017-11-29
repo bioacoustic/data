@@ -879,7 +879,8 @@
                 "Acoustic_Summary": "This site was above the busy Highway 191 near Oxbow Bend. Traffic noise was clearly audible during much of the day. Natural sounds included bird song, wind, rain, thunder, insects, and elk",
                 "Days": "28",
                 "Hours": "593",
-                "All_Hours": "",
+                "All_Hours": "All natural sounds (85%), All non-natural sounds (81%), Road Vehicles (80%), Bird (72%), Insect (18%), Wind (17%), Silence (5%), Aircraft (4%), Rain (4%)",
+                "All_Daytime_Hours": "All natural sounds (99%), All non-natural sounds (94%), Road Vehicles (92%), Bird (91%), Insect (34%), Wind (24%), Aircraft (5%), Rain (3%)",
                 "Sound_Level_All": "L90=35.5 dBA, L50=43.7 dBA, L10=50.1 dBA, Leq=46.9 dBA",
                 "Sound_Level_Day": "L90=40.2 dBA, L50=47.0 dBA, L10=52.3 dBA, Leq=48.9 dBA",
                 "Photo1_Caption": "Site on hillside north of Highway 191; photo looking south"
@@ -908,7 +909,8 @@
                 "Acoustic_Summary": "This site was in a open grove of aspen trees within a sage brush habitat. The microphone was close to the busy Highway 191 and the road traffic was the dominant sound source during the day. Insect, bird songs, wind, rustling leaves, thunder, and rain were common natural sounds.",
                 "Days": "40",
                 "Hours": "953",
-                "All_Hours": "",
+                "All_Hours": " All non-natural sounds (86%), Road Vehicles (84%), All natural sounds (54%), Bird (31%), Wind (19%), Silence (6%), Rain (4%), Aircraft (3%)",
+                "All_Daytime_Hours": " All non-natural sounds (98%), Road Vehicles (97%), All natural sounds (64%), Bird (40%), Wind (25%), Rain (5%), Aircraft (3%)",
                 "Sound_Level_All": "L90=35.0 dBA, L50=47.5 dBA, L10=55.9 dBA, Leq=51.8 dBA",
                 "Sound_Level_Day": "L90=39.1 dBA, L50=50.7 dBA, L10=57.5 dBA, Leq=53.6 dBA",
                 "Photo1_Caption": "Site north of Highway 191; photo looking south, Signal Mountain in background"
@@ -966,8 +968,9 @@
                 "Acoustic_Summary": "This site was adjacent to the Spread Creek pit during gravel extraction and asphalt production. The soundscape was dominated by loud motorized sounds during the daily periods of pit operations.",
                 "Days": "73",
                 "Hours": "1745",
-                "All_Hours": " All non-natural sounds (73%), All natural sounds (65%), Heavy Equipment (65%), Flowing water (37%), Bird (26%), Wind (10%), Insect (9%), Aircraft (5%), Squirrel (4%)",
-                "Sound_Level_All": "L90=33.3 dBA, L50=34.9 dBA, L10=38.5 dBA, Leq=37.4 dBA",
+                "All_Hours": " All non-natural sounds (73%), Road Vehicles (68%), All natural sounds (65%), Heavy Equipment (65%), Flowing water (37%), Bird (26%), Wind (10%), Insect (9%), Aircraft (5%), Squirrel (4%)",
+                 "Daytime_Hours": " All non-natural sounds (82%), Road Vehicle (75%), Heavy Equipment (71%), All natural sounds (63%), Bird (33%), Flowing water (19%), Insect (18%), Wind (15%), Aircraft (7%), Squirrel (6%)",
+               "Sound_Level_All": "L90=33.3 dBA, L50=34.9 dBA, L10=38.5 dBA, Leq=37.4 dBA",
                 "Sound_Level_Day": "L90=43.9 dBA, L50=47.6 dBA, L10=52.8 dBA, Leq=50.5 dBA",
                 "Photo1_Caption": "Site near gravel pit and asphalt plant; photo looking southwest"
             },
@@ -995,7 +998,8 @@
                 "Acoustic_Summary": "This site was selected along with others nearby to characterize the soundscape between the Spread Creek pit and two sage grouse leks. The pit operations were clearly audible at this site, along with sounds from Spread Creek and other natural sound sources.",
                 "Days": "24",
                 "Hours": "562",
-                "All_Hours": "All natural sounds (89%), All non-natural sounds (49%), Flowing water (48%), Bird (24%), Wind (24%), Heavy Equipment (21%), Insect (20%), Aircraft (12%), Unknown motors (7%)",
+                "All_Hours": "All natural sounds (89%), All non-natural sounds (49%), Flowing water (48%), Road Vehicle (31%)Bird (24%), Wind (24%), Heavy Equipment (21%), Insect (20%), Aircraft (12%), Unknown motors (7%)",
+                "Daytime_Hours": "All natural sounds (84%), All non-natural sounds (63%), Wind (43%), Road Vehicle (40%), Insect (36%), Heavy Equipment (31%), Bird (21%), Aircraft (17%), Flowing water (12%), Unknown motors (9%)",
                 "Sound_Level_All": "L90=24.0 dBA, L50=26.9 dBA, L10=31.7 dBA, Leq=30.2 dBA",
                 "Sound_Level_Day": "L90=20.9 dBA, L50=24.3 dBA, L10=31.3 dBA, Leq=30.6 dBA",
                 "Photo1_Caption": "Site in expansive sage brush; photo looking west"
