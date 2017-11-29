@@ -605,7 +605,8 @@
                 "Days": "417",
                 "Hours": "9992",
                 "All_Hours": "All natural sounds (70%), All non-natural sounds (34%), Birds (31%), Waves (29%), Wind (20%), Silence (19%), Unknown motor sounds (13%), Watercraft (10%), Aircraft (6%), Road vehicles (4%), Snowfall or rain (3%), People’s Voices (3%), Insects (3%)",
-                "Sound_Level_All": "L90=23.8 dBA, L50=26.9 dBA, L10=32.8 dBA, Leq=31.5 dBA",
+                 "Daytime_Hours": "All natural sounds (76%), All non-natural sounds (51%), Birds (44%), Wind (24%), Waves (22%), Unknown motor sounds (19%), Watercraft (18%), Silence (10%), Aircraft (8%), Insects (6%), Road vehicles (5%), People’s Voices (4%), Snowfall or rain (3%)",
+               "Sound_Level_All": "L90=23.8 dBA, L50=26.9 dBA, L10=32.8 dBA, Leq=31.5 dBA",
                 "Sound_Level_Day": "L90=24.1 dBA, L50=28.2 dBA, L10=35.9 dBA, Leq=34.3 dBA",
                 "Photo1_Caption": "Site at edge of water; photo looking southwest",
                 "Photo2_Caption": "Site at edge of lake; photo looking southwest"
@@ -635,6 +636,7 @@
                 "Days": "37",
                 "Hours": "874",
                 "All_Hours": "All natural sounds (73%), Wind (59%), All non-natural sounds (29%), Silence (16%), Road vehicles (14%), Birds (10%), Aircraft (9%), Rain (8%)",
+                "Daytime_Hours": "All natural sounds (79%), Wind (60%), All non-natural sounds (47%), Silence (4%), Road vehicles (26%), Birds (17%), Aircraft (12%), Rain or snowfall (11%)",
                 "Sound_Level_All": "L90=15.9 dBA, L50=18.3 dBA, L10=26.1 dBA, Leq=26.1 dBA",
                 "Sound_Level_Day": "L90=16.6 dBA, L50=19.8 dBA, L10=29.0 dBA, Leq=29.2 dBA",
                 "Photo1_Caption": "Site in pines; photo looking west"
@@ -692,8 +694,9 @@
                 "Acoustic_Summary": "Located on the west shore of frozen Jackson Lake, natural sounds dominated this area. Wind, birds, and silence were the most common sounds. Aircraft, snowplows, and unidentified motor sounds carried across the lake from the east side. Snowmobiles on the lake were heard, but very infrequently.",
                 "Days": "18",
                 "Hours": "432",
-                "All_Hours": "All natural sounds (63%), Wind (36%), Silence (27%), Bird (20%), All non-natural sounds (18%), Snowfall ((9%), Aircraft (8%), Unknown motors (5%), Rotary snow plow (4%), Snowmbile (1%)",
-                "Sound_Level_All": "L90=14.8 dBA, L50=15.6 dBA, L10=18.9 dBA, Leq=18.8 dBA",
+                "All_Hours": "All natural sounds (63%), Wind (36%), Silence (27%), Bird (20%), All non-natural sounds (18%), Snowfall (9%), Aircraft (8%), Unknown motors (5%), Road Vehicles (4%), Rotary snow plow (4%), Snowmobile (1%)",
+                 "Daytime_Hours": "All natural sounds (60%), Wind (35%), All non-natural sounds (28%), Silence (25%), Bird (14%), Snowfall (11%), Aircraft (11%), Road Vehicles (7%), Unknown motors (9%), Rotary snow plow (7%), Snowmobile (2%)",
+               "Sound_Level_All": "L90=14.8 dBA, L50=15.6 dBA, L10=18.9 dBA, Leq=18.8 dBA",
                 "Sound_Level_Day": "L90=14.8 dBA, L50=15.6 dBA, L10=20.4 dBA, Leq=21.1 dBA",
                 "Photo1_Caption": "Site at base of small pine; photo looking northeast"
             },
@@ -723,6 +726,7 @@
                 "Days": "15",
                 "Hours": "358",
                 "All_Hours": "All natural sounds (72%), All non-natural sounds (61%), Wind (60%), People's voices (52%), Birds (20%), Aircraft (9%), Insects (4%), Silence (3%) ",
+                "Daytime_Hours": " All non-natural sounds (79%), All natural sounds (76%), People's voices (69%), Wind (54%), Birds (37%), Aircraft (16%), Insects (8%), Silence (1%) ",
                 "Sound_Level_All": "L90=22.7 dBA, L50=25.8 dBA, L10=29.9 dBA, Leq=28.4 dBA",
                 "Sound_Level_Day": "L90=23.1 dBA, L50=26.9 dBA, L10=32.4 dBA, Leq=30.9 dBA",
                 "Photo1_Caption": "Photo from site looking north",
@@ -754,6 +758,7 @@
                 "Days": "68",
                 "Hours": "1634",
                 "All_Hours": "All non-natural (88%), All natural (61%), Road vehicles (53%), Bird (42%), Wind (30%), Unknown motor (26%), Aircraft (13%), Rain (5%), Mammal (3%), Silence (2%), Amphibian (2%)",
+                "Daytime_Hours": "All non-natural (91%), All natural (78%), Road vehicles (52%), Bird (57%), Wind (41%), Unknown motor (23%), Aircraft (21%), Rain (6%), Mammal (2%)",
                 "Sound_Level_All": "L90=25.2 dBA, L50=30.7 dBA, L10=39.0 dBA, Leq=38.8 dBA",
                 "Sound_Level_Day": "L90=27.1 dBA, L50=31.9 dBA, L10=40.0 dBA, Leq=42.8 dBA",
                 "Photo1_Caption": "Site in sage brush; photo looking northwest",
@@ -785,6 +790,7 @@
                 "Days": "55",
                 "Hours": "1306",
                 "All_Hours": "All natural sounds (97%), Flowing water (67%), Birds (65%), All non-natural sounds (33%), Wind (21%), Aircraft (11%), Mammals (7%), Watercraft (6%), Unknown motor sounds (5%), Rain (4%), Road vehicles (4%)",
+                "Daytime_Hours": "All natural sounds (93%), Birds (72%), All non-natural sounds (67%), Wind (33%), Flowing water (26%), Aircraft (15%), Unknown motor sounds (13%), Road vehicles (12%), Mammals (10%), Watercraft (8%), Rain (4%), ",
                 "Sound_Level_All": "L90=23.5 dBA, L50=26.7 dBA, L10=33.3 dBA, Leq=31.8 dBA",
                 "Sound_Level_Day": "",
                 "Photo1_Caption": "Photo near site looking north"
@@ -814,6 +820,7 @@
                 "Days": "109",
                 "Hours": "2596",
                 "All_Hours": "All natural sounds (97%), Bird (61%), All non-natural sounds (60%), Flowing water (59%), Squirrel (32%), Unknown motors (32%), Aircraft (26%), Wind (16%), Insect (16%)",
+                "Daytime_Hours": "All natural sounds (97%), All non-natural sounds (76%), Bird (56%), Squirrel (39%), Wind (33%), Aircraft (32%), Unknown motors (29%), Flowing water (25%), Insect (23%), Road Vehicle (12%)",
                 "Sound_Level_All": "L90=31.6 dBA, L50=34.3 dBA, L10=39.3 dBA, Leq=39.4 dBA",
                 "Sound_Level_Day": "L90=30.9 dBA, L50=34.1 dBA, L10=40.4 dBA, Leq=41.4 dBA",
                 "Photo1_Caption": "Site south of ranch cabins; photo looking north"
