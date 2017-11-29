@@ -1028,6 +1028,8 @@
                 "Acoustic_Summary": "This site was selected to quantify the soundscape in known sage grouse habitat and the Spread Creek Pit where gravel extraction and asphalt processing sometimes occurs. Spread Creek was audible, especially early in the summer. The distant sounds of the highway were often audible.",
                 "Days": "92+",
                 "Hours": "2181",
+                "All_Hours": "All natural sounds (83%), All non-natural sounds (52%), Flowing water (45%), Bird (27%), Wind (18%), Insect (17%), Road Vehicle (17%), Aircraft (15%), Unknown motors (7%)",
+                "Daytime_Hours": " All natural sounds (78%), All non-natural sounds (59%), Bird (32%), Wind (32%), Insect (32%), Road Vehicle (17%), Aircraft (24%), Unknown motors (18%), Flowing water (9%)",
                 "Sound_Level_All": "L90=22.6 dBA, L50=25.9 dBA, L10=31.3 dBA, Leq=29.9 dBA",
                 "Sound_Level_Day": "L90=20.4, dBA, L50=23.7 dBA, L10=31.5 dBA, Leq=31.0 dBA",
                 "Photo1_Caption": "The microphone is in the sage brush in the foreground. Photo looking west towards the Teton Range. "
@@ -1176,6 +1178,7 @@
                 "Days": "47",
                 "Hours": "1122",
                 "All_Hours": "Flowing water (100%), All natural sounds (100%), Birds (45%), All non-natural sounds (20%), Chipmunk, (13%), Unknown motors (12%) Aircraft (6%)",
+                "Daytime_Hours": "Flowing water (100%), All natural sounds (100%), Birds (64%), All non-natural sounds (27%), Mammal, (17%), Unknown motors (16%) Aircraft (9%)",
                 "Sound_Level_All": "L90=36.9 dBA, L50=37.9 dBA, L10=39.5 dBA, Leq=38.7 dBA",
                 "Sound_Level_Day": "L90=35.8 dBA, L50=37.1 dBA, L10=39.1 dBA, Leq=38.6 dBA",
                 "Photo1_Caption": "Site near Snake River; photo looking southeast"
@@ -1233,6 +1236,7 @@
                 "Days": "139",
                 "Hours": "3336",
                 "All_Hours": "All non-natural sounds (66%), All natural sounds (50%), All road vehicles (33%), Unknown motors (24%), Elk (19%), Wind (18%), Aircraft (10%), Birds (9%)",
+                "Daytime_Hours": "All non-natural sounds (82%), All natural sounds (60%), Road vehicles (41%), Unknown motors (27%), Wind (21%), Elk (19%), Birds (17%), Aircraft (16%)",
                 "Sound_Level_All": "L90=36.0 dBA, L50=37.7 dBA, L10=40.6 dBA, Leq=39.7 dBA",
                 "Sound_Level_Day": "L90=35.9 dBA, L50=37.8 dBA, L10=41.8 dBA, Leq=4.5 dBA",
                 "Photo1_Caption": "Site co-located with weather station; photo looking northwest"
@@ -1262,6 +1266,7 @@
                 "Days": "103",
                 "Hours": "2472",
                 "All_Hours": "All non-natural sources (39%), All natural sources (33%), Silence (30%), Wind (27%), People (17%), Oversnow vehicles (14%), Unknown motor (10%), Bird (4%), Aircraft (4%)",
+                "Winter_Daytime_Hours": "All non-natural sources (69%), People (33%), All natural sources (27%), Oversnow vehicles (26%), Wind (21%), Unknown motor (17%), Silence (15%), Bird (7%), Aircraft (5%)",
                 "Sound_Level_All": "L90=21.6 dBA, L50=23.2 dBA, L10=28.1 dBA, Leq=28.3 dBA",
                 "Sound_Level_Day": "L90=21.6 dBA, L50=24.0 dBA, L10=32.8 dBA, Leq=32.8 dBA",
                 "Photo1_Caption": "Site near Ranger Station; photo looking northeast"
@@ -1290,8 +1295,9 @@
                 "Acoustic_Summary": "This year-long site was adjacent to the Teton Park Road just south of Signal Mountain. Road traffic dominated the soundscape in the spring, summer, and fall, but the winters were comparatively serene after the road closed for the season. Occasional snowmobiles and groomers were heard during the winter and distant traffic from Highway 89 was also audible.",
                 "Days": "346",
                 "Hours": "8291",
-                "All_Hours": "All non-natural sounds (52%), All natural sounds (48%), All road vehicles (29%), Silence (25%), Wind (23%), Birds (18%), Sewage lagoon pump (12%), Aircraft (8%), ",
-                "Sound_Level_All": "L90=23.4 dBA, L50=28.2 dBA, L10=34.7 dBA, Leq=36.8 dBA",
+                "All_Hours": "All non-natural sounds (52%), All natural sounds (48%), All road vehicles (29%), Silence (25%), Wind (23%), Birds (18%), Sewage lagoon pump (12%), Aircraft (8%)",
+                 "Daytime_Hours": " All natural sounds (63%), All non-natural sounds (62%), All road vehicles (39%), Birds (31%), Wind (29%), Silence (13%), Aircraft (13%), Sewage lagoon pump (4%)",
+               "Sound_Level_All": "L90=23.4 dBA, L50=28.2 dBA, L10=34.7 dBA, Leq=36.8 dBA",
                 "Sound_Level_Day": "L90=25.7 dBA, L50=33.0 dBA, L10=45.0 dBA, Leq=45.2 dBA",
                 "Photo1_Caption": "Site in small island of pine; photo looking north"
             },
@@ -1321,6 +1327,7 @@
                 "Days": "279",
                 "Hours": "6674",
                 "All_Hours": "All natural sounds (69%), All non-natural sounds (44%), Flowing water (27%), Wind (27%), Birds (19%), Unknown motors (17%), Aircraft (16%), Elk (10%), All road vehicles (7%)",
+                "Daytime_Hours": "All natural sounds (72%), All non-natural sounds (57%), Wind (37%), Birds (33%), Unknown motors (22%), Aircraft (26%), Mammal (16%), Flowing water (16%), All road vehicles (8%)",
                 "Sound_Level_All": "L90=25.9 dBA, L50=28.0 dBA, L10=33.1 dBA, Leq=32.9 dBA",
                 "Sound_Level_Day": "L90=26.7 dBA, L50=29.2 dBA, L10=36.0 dBA, Leq=35.2 dBA",
                 "Photo1_Caption": "Site in large meadow; photo looking west",
@@ -1380,7 +1387,7 @@
                 "Acoustic_Summary": "The yearlong standard sound monitor was augmented with a very low sound monitoring system the second winter. Sounds that characterize this site include wind and the near and distant sounds of motors originating from the Jackson Hole Airport and road vehicles. During the winter when the adjacent section of the Moose Wilson Road is plowed, road vehicles are heard regularly. In the summer the nearby road dominates the soundscape during the day. Birds sing and red squirrels chatter, and in the autumn the forest echoes with the sounds of elk bugling.",
                 "Days": "357",
                 "Hours": "8562",
-                "All_Hours": "",
+                "All_Hours": "All natural sounds (?%), All non-natural sounds (?%), Birds (40%), All Road Vehicles (24%), Wind (33%), Aircraft (12%), Unknown motor sounds (21%), Flowing Water (31%), Mammals (8%), Snow or rainfall (8%)",
                 "Summer_Daytime_Hours": "All natural sounds (99%), Birds (93%), All non-natural sounds (85%), All Road Vehicles (60%), Wind (39%), Aircraft (20%), Unknown motor sounds (10%), Insects (8%), Flowing Water (4%), Mammals (4%), Rain (4%)",
                 "Winter_Daytime_Hours": "All natural sounds (77%), Birds (36%), All non-natural sounds (68%), All Road Vehicles (13%), Wind (38%), Aircraft (22%), Unknown motor sounds (33%), Flowing Water (10%), Mammals (2%), Snow (11%)",
                 "Sound_Level_All": "L90=27.3 dBA, L50=30.4 dBA, L10=35.8 dBA, Leq=34.7 dBA",
@@ -1567,7 +1574,8 @@
                 "Days": "3",
                 "Hours": "44",
                 "All_Hours": "Silence (64%), All natural sounds (31%), Natural unknown (17%), Wind (9%), Birds (10%), All non-natural sounds (7%), Oversnow vehicles (2%)",
-                "Sound_Level_All": "L90=8.5 dBA, L50=9.9 dBA, L10=13.3 dBA, Leq=17.0 dBA",
+                 "Winter_Daytime_Hours": "Silence (40%), All natural sounds (52%), Natural unknown (26%), Wind (17%), Birds (20%), All non-natural sounds (13%), Oversnow vehicles (4%)",
+               "Sound_Level_All": "L90=8.5 dBA, L50=9.9 dBA, L10=13.3 dBA, Leq=17.0 dBA",
                 "Sound_Level_Day": "L90=8.7 dBA, L50=10.7 dBA, L10=16.7 dBA, Leq=20.2 dBA",
                 "Photo1_Caption": "Setting up acoustic system 100 feet from road"
             },
@@ -1596,6 +1604,7 @@
                 "Days": "31",
                 "Hours": "667",
                 "All_Hours": "All natural sounds (94%), Wind (79%), Natural other (40%), Silence (12%), All non-natural sounds (10%), Birds (7%), Road vehicles (6%), Aircraft (2%)",
+                "Winter_Daytime_Hours": "All natural sounds (88%), Wind (81%), Natural other (40%), All non-natural sounds (16%), Birds (15%), Road vehicles (10%), Silence (6%), Aircraft (3%)",
                 "Sound_Level_All": "L90=26.6 dBA, L50=33.0 dBA, L10=39.9 dBA, Leq=36.5 dBA",
                 "Sound_Level_Day": "L90=29.5 dBA, L50=34.2 dBA, L10=41.0 dBA, Leq=35.6 dBA ",
                 "Photo1_Caption": "Sound monitor on hillside; photo facing northwest"
@@ -1625,7 +1634,8 @@
                 "Days": "30",
                 "Hours": "681",
                 "All_Hours": "All natural sounds (77%), Wind (75%), All non-natural sounds (22%), Natural other (19%), All road vehicles (18%), Silence (13%), Snowfall (5%), Aircraft (3%)",
-                "Sound_Level_All": "L90=21.6 dBA, L50=26.5 dBA, L10=35.1 dBA, Leq=34.3 dBA",
+                 "Winter_Daytime_Hours": "All natural sounds (77%), Wind (74%), All non-natural sounds (38%), Road vehicles (34%), Natural other (19%), Silence (6%), Snowfall (5%), Aircraft (3%)",
+               "Sound_Level_All": "L90=21.6 dBA, L50=26.5 dBA, L10=35.1 dBA, Leq=34.3 dBA",
                 "Sound_Level_Day": " L90=23.2 dBA, L50=28.8 dBA, L10=37.8 dBA, Leq=38.1 dBA ",
                 "Photo1_Caption": "Sound monitor 100 feet from road"
             },
@@ -1654,7 +1664,8 @@
                 "Days": "79",
                 "Hours": "1828",
                 "All_Hours": "All natural sounds (69%), Wind (64%), Natural other (49%), Silence (21%), All non-natural sounds (16%), Oversnow vehicles (11%), Aircraft (3%)",
-                "Sound_Level_All": "L90=15.5 dBA, L50=17.9 dBA, L10=26.9 dBA, Leq=30.9 dBA",
+                 "Winter_Daytime_Hours": "All natural sounds (75%), Wind (70%), Natural other (54%), All non-natural sounds (24%), Oversnow vehicles (19%), Silence (12%), Aircraft (4%)",
+               "Sound_Level_All": "L90=15.5 dBA, L50=17.9 dBA, L10=26.9 dBA, Leq=30.9 dBA",
                 "Sound_Level_Day": " L90=17.3 dBA, L50=22.9 dBA, L10=32.8 dBA, Leq=36.3 dBA ",
                 "Photo1_Caption": "Sound monitor in power line clearing 100 feet from road"
             },
