@@ -2112,6 +2112,7 @@
                 "Days": "49",
                 "Hours": "723",
                 "All_Hours": "All natural sounds (99%), Flowing water (78%), Geothermal (63%), Birds (28%), Wind (21%), All non-natural sounds (13%), Oversnow vehicles (7%), Aircraft (3%)",
+                "Daytime_Hours": "All natural sounds (98%), Flowing water (65%), Birds (47%), Geothermal (45%), Wind (33%), All non-natural sounds (22%), Oversnow vehicles (13%), Road Vehicles (4%), Aircraft (3%)",
                 "Sound_Level_All": "L90=29.8 dBA, L50=31.0 dBA, L10=32.8 dBA, Leq=34.7 dBA",
                 "Sound_Level_Day": "L90=30.0 dBA, L50=31.6 dBA, L10=35.0 dBA, Leq=37.3 dBA ",
                 "Photo1_Caption": "Sound monitor 100 feet from road near bank of Yellowstone River across road from Mud Volcano"
@@ -2141,7 +2142,8 @@
                 "Days": "16",
                 "Hours": "356",
                 "All_Hours": "All natural sounds (57%), Wind (41%), Silence (35%), Natural other (33%), All non-natural sounds (16%), Oversnow vehicles (13%), Aircraft (3%)",
-                "Sound_Level_All": "L90=17.8 dBA, L50=19.1 dBA, L10=26.4 dBA, Leq=29.4 dBA",
+                  "Daytime_Hours": "All natural sounds (73%), Wind (58%), Natural other (49%), All non-natural sounds (28%), Oversnow vehicles (24%), Silence (15%), Aircraft (4%)",
+              "Sound_Level_All": "L90=17.8 dBA, L50=19.1 dBA, L10=26.4 dBA, Leq=29.4 dBA",
                 "Sound_Level_Day": "L90=19.6 dBA, L50=23.5 dBA, L10=33.5 dBA, Leq=36.7 dBA ",
                 "Photo1_Caption": "Sound monitor in trees between road and North Twin Lake"
             },
@@ -2226,6 +2228,7 @@
                 "Days": "34",
                 "Hours": "769",
                 "All_Hours": "All natural sounds (93%), Geothermal (85%), All non-natural sounds (45%), Oversnow vehicles (20%), People’s voices (20%), Wind (12%), Birds (9%), Aircraft (3%)",
+                "Daytime_Winter_Hours": "All natural sounds (93%), Geothermal (83%), All non-natural sounds (66%), Oversnow vehicles (31%), People’s voices (31%), Birds (21%), Wind (12%), Aircraft (4%)",
                 "Sound_Level_All": "L90=28.3 dBA, L50=30.5 dBA, L10=35.2 dBA, Leq=34.2 dBA",
                 "Sound_Level_Day": "L90=29.4 dBA, L50=32.1 dBA, L10=37.5 dBA, Leq=36.2 dBA ",
                 "Photo1_Caption": "Sound monitor just off boardwalk in geyser basin overlooking Old Faithful"
@@ -2315,6 +2318,7 @@
                 "Days": "34",
                 "Hours": "802",
                 "All_Hours": "All natural sounds (98%), Waves (82%), Wind (37%), Birds (21%), Insects (18%), All non-natural sounds (16%), Watercraft (11%), Aircraft (3%)",
+                "Summer_Daytime_Hours": "All natural sounds (99%), Waves (71%), Wind (52%), Insects (32%), Birds (27%), All non-natural sounds (25%), Watercraft (19%), Aircraft (3%)",
                 "Sound_Level_All": "L90=27.6 dBA, L50=32.6 dBA, L10=38.1 dBA, Leq=35.6 dBA",
                 "Sound_Level_Day": "L90=28.0 dBA, L50=33.3 dBA, L10=38.7 dBA, Leq=37.4 dBA ",
                 "Photo1_Caption": "Sound monitor under trees next to the shore"
@@ -2344,6 +2348,7 @@
                 "Days": "28",
                 "Hours": "647",
                 "All_Hours": "All natural sounds (97%), Waves (92%), Wind (19%), All non-natural sounds (5%), Birds (3%), Rain (3%), Insects (3%), Squirrels (3%), Aircraft (2%), Watercraft (2%)",
+                "Summer_Daytime_Hours": "All natural sounds (100%), Waves (92%), Wind (27%), All non-natural sounds (7%), Birds (6%), Rain (6%), Insects (5%), Squirrels (5%), Aircraft (2%), Watercraft (2%)",
                 "Sound_Level_All": "L90=42.2 dBA, L50=45.8 dBA, L10=49.3 dBA, Leq=46.8 dBA",
                 "Sound_Level_Day": "L90=44.2 dBA, L50=47.4 dBA, L10=50.8 dBA, Leq=48.2 dBA ",
                 "Photo1_Caption": "Sound monitor 50 feet from shore in tall conifer forest"
@@ -2374,6 +2379,7 @@
                 "Days": "29",
                 "Hours": "671",
                 "All_Hours": "All natural sounds (98%), Waves (83%), Birds (44%), Insects (21%), All non-natural sounds (12%), Wind (11%), Aircraft (5%), Watercraft (6%), Rain (4%)",
+                "Summer_Daytime_Hours": "All natural sounds (100%), Waves (76%), Birds (69%), Insects (41%), All non-natural sounds (20%), Wind (19%), Watercraft (11%), Aircraft (7%), Rain (5%)",
                 "Sound_Level_All": "L90=29.8 dBA, L50=35.1 dBA, L10=40.3 dBA, Leq=37.7 dBA",
                 "Sound_Level_Day": "L90=24.1 dBA, L50=28.9 dBA, L10=33.6 dBA, Leq=32.2 dBA ",
                 "Photo1_Caption": "Sound monitor 50 feet from shore in dense understory vegetation",
@@ -2434,6 +2440,7 @@
                 "Days": "19",
                 "Hours": "306",
                 "All_Hours": "All natural sounds (93%), Wind (75%), Geothermal (21%), All non-natural sounds (15%), Oversnow vehicles (10%), Aircraft (4%)",
+                "Winter_Daytime_Hours": "All natural sounds (93%), Wind (73%), All non-natural sounds (25%), Geothermal (23%), Oversnow vehicles (17%), Aircraft (6%)",
                 "Sound_Level_All": "L90= dBA, L50= dBA, L10= dBA, Leq= dBA",
                 "Sound_Level_Day": "",
                 "Photo1_Caption": "Sound monitor in trees on edge of geyser basin"
@@ -2462,6 +2469,8 @@
                 "Acoustic_Summary": "This low noise monitoring site was on the ice in the middle of Sylvan Lake near the top of Sylvan Pass. Wind, silence and occasional oversnow vehicles were audible at this location.",
                 "Days": "2",
                 "Hours": "33",
+                "All_Hours": "All natural sounds (74%), Wind (70%), All non-natural sounds (7%), Oversnow vehicles (4%), Aircraft (3%)",
+                "Winter_Daytime_Hours": "All natural sounds (91%), Wind (85%), All non-natural sounds (12%), Oversnow vehicles (7%), Aircraft (3%)",
                 "Sound_Level_All": "L90=14.4 dBA, L50=16.6 dBA, L10=19.6 dBA, Leq=24.4 dBA",
                 "Sound_Level_Day": "L90=18.8 dBA, L50=25.5 dBA, L10=36.7 dBA, Leq=31.9 dBA ",
                 "Photo1_Caption": ""
@@ -2491,6 +2500,7 @@
                 "Days": "90",
                 "Hours": "2142",
                 "All_Hours": "All natural sounds (69%), Wind (56%), All non-natural sounds (26%), Natural other (25%), Silence (21%), Oversnow vehicles (20%), Birds (12%), Aircraft (3%)",
+                "Daytime_Hours": "All natural sounds (82%), Wind (65%), All non-natural sounds (40%), Natural other (32%), Oversnow vehicles (31%), Birds (19%), Silence (6%), Aircraft (3%)",
                 "Sound_Level_All": "L90=19.1 dBA, L50=21.1 dBA, L10=28.6 dBA, Leq=32.0 dBA",
                 "Sound_Level_Day": "L90=21.3 dBA, L50=25.8 dBA, L10=35.2 dBA, Leq=38.6 dBA ",
                 "Photo1_Caption": "Sound monitor 100 feet from the road at the edge of a wetlands embedded in a forest"
@@ -2519,7 +2529,8 @@
                 "Acoustic_Summary": "This short-term location was moved to YELLSCR2 the following winter. Wind, silence, and birds were the main natural sounds. Oversnow vehicles and aircraft were the only non-natural sounds.",
                 "Days": "8",
                 "Hours": "184",
-                "All_Hours": "All natural sounds (78%), Wind (53%), Natural other (40%), All non-natural sounds  (26%), Oversnow vehicles (18%), Silence (15%), Aircraft (4%), Birds (4%)",
+                "All_Hours": "All natural sounds (78%), Wind (53%), Natural other (40%), All non-natural sounds (26%), Oversnow vehicles (18%), Silence (15%), Aircraft (4%), Birds (4%)",
+                "Winter_Daytime_Hours": "All natural sounds (87%), Wind (67%), All non-natural sounds (38%), Oversnow vehicles (28%), Natural other (19), Birds (6%), Silence (5%), Aircraft (5%)",
                 "Sound_Level_All": "L90=20.0 dBA, L50=21.5 dBA, L10=31.5 dBA, Leq=34.5 dBA",
                 "Sound_Level_Day": "L90=23.1 dBA, L50=28.3 dBA, L10=37.3 dBA, Leq=43.1 dBA ",
                 "Photo1_Caption": "Sound monitor 100 feet from road"
@@ -2549,7 +2560,8 @@
                 "Days": "81",
                 "Hours": "1942",
                 "All_Hours": "All natural sounds (73%), Wind (65%), Natural other (37%), Silence (24%), All non-natural sounds (6%), Aircraft (3%), Oversnow vehicles (2%)",
-                "Sound_Level_All": "L90=16.2 dBA, L50=18.1 dBA, L10=22.9 dBA, Leq=25.1 dBA",
+                 "Winter_Daytime_Hours": "All natural sounds (81%), Wind (73%), Natural other (46%), Silence (15%), All non-natural sounds (9%), Aircraft (4%), Oversnow vehicles (4%)",
+               "Sound_Level_All": "L90=16.2 dBA, L50=18.1 dBA, L10=22.9 dBA, Leq=25.1 dBA",
                 "Sound_Level_Day": "L90=16.9 dBA, L50=19.7 dBA, L10=26.5 dBA, Leq=28.6 dBA ",
                 "Photo1_Caption": "Sound monitor 100 feet from road in deep snow"
             },
@@ -2661,7 +2673,9 @@
                 "Acoustic_Summary": " This monitoring site was part of an array to evaluate the propagation of oversnow vehicle noise. The transect, with three monitors on each side of the road, extended 1.5 kilometers perpendicular to the road.",
                 "Days": "9",
                 "Hours": "216",
-                "Sound_Level_All": "L90=19.8 dBA, L50=22.1 dBA, L10=27.4 dBA, Leq=27.4 dBA",
+                "All_Hours": "All natural sounds (85%), All non-natural sounds (28%), Oversnow vehicles (26%), Wind (22%), Birds (8%), Aircraft (3%)",
+                 "Winter_Daytime_Hours": "All natural sounds (75%), All non-natural sounds (47%), Oversnow vehicles (43%), Wind (34%), Birds (15%), Aircraft (4%)",
+               "Sound_Level_All": "L90=19.8 dBA, L50=22.1 dBA, L10=27.4 dBA, Leq=27.4 dBA",
                 "Sound_Level_Day": "L90=20.6 dBA, L50=24.0 dBA, L10=31.7 dBA, Leq=30.5 dBA ",
                 "Photo1_Caption": ""
             },
@@ -2689,7 +2703,9 @@
                 "Acoustic_Summary": "This monitoring site was part of an array to evaluate the propagation of oversnow vehicle noise. The transect, with three monitors on each side of the road, extended 1.5 kilometers perpendicular to the road.",
                 "Days": "7",
                 "Hours": "166",
-                "Sound_Level_All": "L90=19.1 dBA, L50=20.8 dBA, L10=25.4 dBA, Leq=25.6 dBA",
+                 "All_Hours": "All natural sounds (93%), Geothermal (75%), All non-natural sounds (26%), Flowing water (25%), Oversnow vehicles (23%), Wind (17%), Birds (12%), Aircraft (3%)",
+                 "Winter_Daytime_Hours": "All natural sounds (94%), Geothermal (60%), All non-natural sounds (40%), Oversnow vehicles (36%), Wind (32%), Birds (18%), Flowing water (16%), Aircraft (4%)",
+               "Sound_Level_All": "L90=19.1 dBA, L50=20.8 dBA, L10=25.4 dBA, Leq=25.6 dBA",
                 "Sound_Level_Day": "L90=19.5 dBA, L50=23.4 dBA, L10=29.7 dBA, Leq=28.1 dBA ",
                 "Photo1_Caption": ""
             },
@@ -2717,6 +2733,8 @@
                 "Acoustic_Summary": " This monitoring site was part of an array to evaluate the propagation of oversnow vehicle noise. The transect, with three monitors on each side of the road, extended 1.5 kilometers perpendicular to the road.",
                 "Days": "9",
                 "Hours": "206",
+                 "All_Hours": "All natural sounds (96%), Flowing water (87%), All non-natural sounds (23%), Oversnow vehicles (21%), Wind (15%), Birds (8%), Snowfall (4%),Aircraft (3%)",
+                 "Winter_Daytime_Hours": "All natural sounds (93%), Flowing water (74%), All non-natural sounds (39%), Oversnow vehicles (36%), Wind (27%), Birds (13%), Snowfall (6%), Aircraft (4%)",
                 "Sound_Level_All": "L90=23.7 dBA, L50=26.5 dBA, L10=30.6 dBA, Leq=29.4 dBA",
                 "Sound_Level_Day": "L90=23.0 dBA, L50=27.2 dBA, L10=32.6 dBA, Leq=31.0 dBA ",
                 "Photo1_Caption": ""
@@ -2774,7 +2792,8 @@
                 "Days": "15",
                 "Hours": "356",
                 "All_Hours": "All natural sounds (87%), Geothermal (51%), All non-natural sounds (48%), Wind (44%), Oversnow vehicles (27%), Building utilities (14%), Natural other (13%), People’s voices (10%), Birds (7%), Aircraft (3%)",
-                "Sound_Level_All": "L90=21.7 dBA, L50=23.1 dBA, L10=30.4 dBA, Leq=29.7 dBA",
+                 "Winter_Daytime_Hours": "All natural sounds (76%), All non-natural sounds (65%), Oversnow vehicles (47%), Wind (46%), Geothermal (32%), People (29%), Birds (10%), Natural other (10%), Building utilities (6%), Aircraft (3%)",
+               "Sound_Level_All": "L90=21.7 dBA, L50=23.1 dBA, L10=30.4 dBA, Leq=29.7 dBA",
                 "Sound_Level_Day": "L90=22.2 dBA, L50=26.2 dBA, L10=35.1 dBA, Leq=33.0 dBA ",
                 "Photo1_Caption": "Sound monitor under large conifer adjacent to boardwalk"
             },
@@ -2803,7 +2822,7 @@
                 "Days": "254",
                 "Hours": "6084",
                 "All_Hours": "All natural sounds (68%), All non-natural sounds (54%), All road vehicles (42%), Flowing water (36%), Birds (23%), Wind (13%), Oversnow vehicles (9%), Insects (5%), Aircraft (3%)",
-                "Winter_Daytime_Hours": "",
+                "Daytime_Hours": "All non-natural sounds (74%), All natural sounds (58%), All road vehicles (54%), Birds (31%), Oversnow vehicles (16%), Flowing water (12%), Wind (12%), Insects (9%), Aircraft (3%)",
                 "Sound_Level_All": "L90=25.3 dBA, L50=29.9 dBA, L10=44.5 dBA, Leq=44.6 dBA",
                 "Sound_Level_Day": "L90=30.3 dBA, L50=41.7 dBA, L10=55.5 dBA, Leq=49.3 dBA ",
                 "Photo1_Caption": "Sound monitor 100 feet from road in regenerating pine forest"
