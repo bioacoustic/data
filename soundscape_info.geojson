@@ -130,7 +130,8 @@
                 "Days": "139",
                 "Hours": "3323",
                 "All_Hours": "All non-natural sounds (87%), All natural sources (69%), Unknown motor (56%), Bird (48%), Wind (32%), Aircraft (22%), Road vehicles (15%), Rain (5%), Insect (3%)",
-                "Sound_Level_All": "L90=28.8 dBA, L50=32.0 dBA, L10=41.2 dBA, Leq=53.7 dBA",
+                 "Daytime_Hours": "All non-natural sounds (91%), All natural sources (75%), Bird (47%), Unknown motor (44%), Wind (37%), Aircraft (31%), Road vehicles (14%), Rain (4%), Insect (5%)",
+               "Sound_Level_All": "L90=28.8 dBA, L50=32.0 dBA, L10=41.2 dBA, Leq=53.7 dBA",
                 "Sound_Level_Day": "L90=29.7 dBA, L50=34.0 dBA, L10=49.9 dBA, Leq=62.4 dBA",
                 "Photo1_Caption": "Site near approach landing lights; photo looking east",
                 "Photo2_Caption": "Site near north end of runway; photo looking south"
@@ -287,6 +288,7 @@
                 "Days": "63",
                 "Hours": "1476",
                 "All_Hours": "All natural sounds (70%), Flowing water (42%), All non-natural sounds (39%), All road vehicles (31%), Wind (15%), Birds (13%), Silence (10%), Aircraft (3%)",
+                "Winter_Daytime_Hours": "All non-natural sounds (62%), All road vehicles (58%), All natural sounds (58%), Birds (22%), Flowing water (21%), Wind (13%), Silence (6%), Aircraft (3%)",
                 "Sound_Level_All": "L90=15.6 dBA, L50=17.4 dBA, L10=27.2 dBA, Leq=28.5 dBA",
                 "Sound_Level_Day": "L90=16.3 dBA, L50=21.1 dBA, L10=34.7 dBA, Leq=33.7 dBA ",
                 "Photo1_Caption": "Sound monitor in willow south of plowed road"
@@ -317,6 +319,7 @@
                 "Days": "58",
                 "Hours": "1361",
                 "All_Hours": "All natural sounds (98%), Flowing water (87%), Squirrel (12%), All non-natural sounds (12%), Wind (11%), Birds (11%), Insects (8%), All road vehicles (6%), Aircraft (4%) ",
+                "Daytime_Hours": "All natural sounds (96%), Flowing water (77%), Squirrel (20%), All non-natural sounds (20%), Birds (19%), Wind (18%), Insects (15%), All road vehicles (11%), Aircraft (6%) ",
                 "Sound_Level_All": "L90=37.3 dBA, L50=39.4 dBA, L10=41.6 dBA, Leq=41.1 dBA ",
                 "Sound_Level_Day": "L90=30.8 dBA, L50=34.0 dBA, L10=39.0 dBA, Leq=40.2 dBA ",
                 "Photo1_Caption": "Sound monitor in trees in middle of photo; taken from road"
@@ -346,7 +349,8 @@
                 "Acoustic_Summary": "A site along a plowed road, this monitor was just outside of Mammoth on the way to the park’s interior. The flowing water audible here was from runoff from Canary Springs, a bright yellow geothermal feature. Wind, road vehicles, and snowcoaches were also common sounds.",
                 "Days": "31",
                 "Hours": "717",
-                "All_Hours": "All natural sounds (98%), Flowing water (83%), Wind (29%), All non-natural sounds (21%), All road vehicles (14%), Snowcoaches (5%), Aircraft (1%)",
+                "All_Hours": "All natural sounds (98%), Flowing water (83%), Wind (29%), All non-natural sounds (21%), All road vehicles (14%), Snowcoaches (5%), Birds (4%), Aircraft (1%)",
+                "Winter_Daytime_Hours": "All natural sounds (97%), Flowing water (78%), All non-natural sounds (37%), Wind (35%), All road vehicles (35%), Birds (10%), Snowcoaches (8%), Aircraft (2%)",
                 "Sound_Level_All": "L90=41.8 dBA, L50=42.7 dBA, L10=44.4 dBA, Leq=45.9 dBA",
                 "Sound_Level_Day": "L90=41.8 dBA, L50=42.9 dBA, L10=46.6 dBA, Leq=47.9 dBA ",
                 "Photo1_Caption": "Sound monitor against conifer between plowed road and Canary Springs"
@@ -377,6 +381,7 @@
                 "Days": "33",
                 "Hours": "776",
                 "All_Hours": "All natural sounds (99%), Waves (78%), Birds (53%), Wind (26%), All non-natural sounds (23%), Watercraft (19%), Insects (19%), Aircraft (2%)",
+                "Summer_Daytime_Hours": "All natural sounds (100%), Birds (76%), Waves (65%), All non-natural sounds (40%), Watercraft (35%), Insects (35%), Wind (32%), Aircraft (2%)",
                 "Sound_Level_All": "L90=34.8 dBA, L50=38.5 dBA, L10=42.4 dBA, Leq=40.8 dBA",
                 "Sound_Level_Day": "L90=33.3 dBA, L50=37.6 dBA, L10=42.8 dBA, Leq=41.1 dBA ",
                 "Photo1_Caption": ""
@@ -408,7 +413,7 @@
   "Days": "3933",
   "Hours": "91,192",
     "All_Hours": "All non-natural sounds (97%), Building utilities (54%), All natural sounds (45%), Road vehicles (29%), Birds (24%), Oversnow vehicles, (18%), Wind (17%), People’s voices (13%), Rumble strip (8%), Aircraft (1%)", 
-    "Winter Daytime Hours": "",
+    "Winter Daytime Hours 2017": " All non-natural sounds (91%), Building utilities (49%), All natural sounds (46%), Wind (38%), Oversnow vehicles, (28%), People (20%), Snowfall (9%), Birds (5%), Aircraft (2%)",
     "Sound_Level_All": "L90=31.3 dBA, L50=34.8 dBA, L10=43.0 dBA, Leq=40.6 dBA",
     "Sound_Level_Day": "L90=34.7 dBA, L50=40.4 dBA, L10=47.4 dBA, Leq=44.8 dBA ",
     "Photo1_Caption": "Sound monitor in weather station enclosure near Ranger Station"
